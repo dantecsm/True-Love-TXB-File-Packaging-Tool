@@ -1,0 +1,96 @@
+廊　　　　　　　下
+    corridor    
+「成績はどうだった？」
+"How were your grades?"
+「ははは・・・やっぱり、こんな程度なんだよ俺って駄目だな」
+"hehe... I suppose this is my level, I'm not very good."
+「・・・・・・・・」
+"....."
+「デートはお預けかな？」
+"So there's no date then?"
+美香恵は首を横に振って答えた。
+Mikae shook her head
+「＊＊＊＊、・・・・・成績がどうとかは本当は関係ないの」
+"＊＊＊＊... grades don't really matter."
+「えっ」
+"What?"
+「＊＊＊＊とは、普通どおりデートしたいと思うから」
+"I want to date you."
+「美香恵・・・・」
+"Mikae..."
+「＊＊＊＊は、嫌かしら？」
+"Don't you want to?"
+「ぜんっぜん！　ぜんっぜん！嫌じゃないよ」
+"Yes! yes! of course."
+「よかった」
+"Good."
+「じゃあ・・・いつ頃にする？」
+"Then... when shall we have a date?"
+「どうだ！　頑張っただろ！」
+"See! I did well!"
+「すごいわ！　やっぱり、＊＊＊＊はやれば出来るのね！」
+"That's great! I knew you could do it!"
+「ホッホッホッホッホッホッ」
+"Hahahaha."
+「ほら、『能ある鷹の爪あか煎じろ』と言うだろ」
+"They say "the tiger always cleans it's claws"."
+「それ『能ある鷹は爪隠す』でしょ」
+"It's 'the tiger always hides it's claws'."
+「あははっ、そうとも言うな！」
+"hahaha. Of course!"
+「もう」
+"Doh!"
+「ところで、美香恵君」
+"By the way Miss Mikae."
+「なによ突然“君”づけなんかして」
+"What are you putting Miss on my name for?"
+「約束はおぼえているかい？」
+"Do you remember your promise?"
+「・・・・・・え～と、何だったかしら？」
+"....what was that?"
+「でぇ～とだよ、デェ～ト！！　もういっかい言おうか？」
+"Date, DATE!! Shall I say it again?"
+「うふふ、もちろんおぼえているわよ」
+"Of course I remember."
+「デートの日にちは憶えてる？」
+"Do you remember the date?"
+「もちろん！」
+"Yes!"
+「・・・だろ」
+"It's....." 
+「２１日って昨日じゃない、どうやってデートするの？」
+"The 21st was yesterday, how are we going to have a date?"
+「だから、ド○エもんのタイムマシーンを借りてきてだな・・・・・・・・んっ？」
+"We just need to get a time machine and ...eh?"
+「ＺＺＺＺ～・・・・・・・ムニャムニャ」
+"ZZZZ..."
+「ああっ、寝るんじゃない～！　聞いてないな！」
+"Hey don't fall a sleep! Listen!"
+「真面目に答えてよ！」
+"Be serious!"
+「それじゃあ・・・」
+"Then..."
+「・・・だろ」
+"It's......"
+「うん、そうよ」
+"That's right."
+「じゃあ、時間はどうしようか？」
+"What time do you want to make it?"
+「午後からがいいな、＊＊＊＊の部屋に行ってもいい？」
+"Afternoon's better. Can we go to your flat?"
+「それは別に構わないけど」
+"I don't mind."
+「３時頃に行くわ」
+"I'll come around 3:00pm."
+「わかったよ」
+"OK"
+「えへへ、楽しみだなあ！　じゃあまたね！」
+"I can't wait! See you!"
+（２８日の『夕方』からだな。覚えておこう）
+(the evening of he 28th, I'll remember that)
+選択
+choice
+【９月２１日】
+[21st of September]
+【９月２８日】
+[28th of September]

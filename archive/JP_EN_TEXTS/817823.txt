@@ -1,0 +1,74 @@
+中　　央　　公　　園
+   central park   
+（この公園の風景もすっかり馴染み深いものになったな）
+(this park seems so familiar now)
+「＊＊＊＊さん」
+"＊＊＊＊."
+「あっ！　みゆきちゃん」
+"Oh! Miyuki."
+「よかった・・・・ここに来れば＊＊＊＊さんに会える様な気がしたんです」
+"I'm so glad...I knew I would meet you here."
+「実は俺もきみに会えるような気がしていたんだ」
+"I had a feeling I would meet you too."
+「あ、あのお・・・・実はお願いが・・・・あるんですけど」
+"Well...in fact I have ...a favour."
+「えっ、何？　何だって聞いちゃうよ」
+"What is it? I'll do anything for you."
+「本当ですか！」
+"Really?!"
+「実は、前にもお願いしていた・・・・・モデルになってほしいんですけど・・・・」
+"I asked you before but... could you be my model...?"
+「あっそう言えば！　約束してたよね」
+"Yeah sure! I promised you."
+「あっあの、本当にいいんですか？　＊＊＊＊さん」
+"Are you sure? ＊＊＊＊."
+「え～と・・・」
+"Well..."
+「本当に？ヤッタあ・・・」
+"Really? That's great..."
+「それじゃあ、次の日曜日のお昼頃に私の部屋に来て頂けます？」
+"Then can you come to my place around lunch time next Sunday?"
+「えっ！みゆきちゃんの部屋に？・・・・・・・・・・」
+"What! To your place?....."
+「行きます行きます！来るなと言われても行かせて頂きます！」
+"Yes, yes! I'll go even if you tell me not to!"
+「うふふふっ！楽しみだわぁ！」
+"Good! I'll look forward to it!"
+「ええぇぇぇ～っ・・・そんなぁ・・・・ひどい」
+"Nooo....you can't ...you're cruel."
+（あれ、傷つけちゃったかな・・・）
+(did I hurt her feelings...)
+「ひどいですぅ～＊＊＊＊さん！モデルになってくれるって言ってたじゃないですかぁ」
+"You can't say that now, you promised me you'd be my model."
+まゆみは、涙顔になってきた。
+Miyuki looked as though she was going to cry
+「はは・・・今のは冗談だよ、みゆきちゃん！冗談！」
+"haha...I was only joking Miyuki! Only a joke!"
+「本当に？」
+"Really?"
+「ああ本当さ・・・（この娘の涙は見たくないよ）・・・」
+"Really...(I don't want to see her cry)..."
+「じゃあ次の日曜日の午後に、私の部屋に来て頂けます？・・・」
+"Then can you come to my place next Sunday afternoon?..."
+「エッ！みゆきちゃんの部屋に！いいの？」
+"What! To your place! Are you sure?"
+「うん！私楽しみだなぁ～」
+"Yes! I can't wait."
+「俺も楽しみだなあぁ・・・」
+"I can't wait too..."
+「あっそれと、できればその時に水着を持参して来て頂けます？」
+"Could you also bring your swimming shorts with you?"
+「水着？・・・・あっああ、いいよ」
+"Swim pants?...Yeah, sure."
+「それじゃあ、＊＊＊＊さん頼みましたよ、さようなら・・・」
+"I'll see you then, good-bye..."
+「・・・・・・そうか水着姿をスクッチしたいって言ってたよな」
+"...she was saying she wanted to sketch me in swimming shorts."
+（次の日曜の昼だったな）
+(lunch time next Sunday)
+選択
+choice
+【うんいいよ、俺は嘘は言わないから】
+[yeah sure, I don't tell lies]
+【う～ん、やっぱりやめとこうかなぁ】
+[no, I don't want to do it]

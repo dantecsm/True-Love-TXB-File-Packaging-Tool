@@ -1,0 +1,196 @@
+ニ８
+q
+廊　　　　　　　下
+    corridor    
+「おい知ってるか？」
+"Hey, did you know?"
+「知ってるか・・・て、何を？」
+"Know what...?"
+「保健室の先生が何かの怪我で、しばらくの間休むんだって」
+"The college doctor's got hurt and is going to take some time off."
+「ああ保健室か、うちの学校ってどうしてゲームやマンガに出て来るような美人の先生っていないんだろうな？」
+"Why doesn't our college have a beautiful doctor like Sakura? Tomobiki college do."
+「和彦もそう思わないか？」
+"Kazuhiko, don't you agree?"
+「話は最後まで聞けよ、今その代わりに来ている先生がスゲエ美人なんだってよ！」
+"Let me finish. The substitute nurse we've got is a real beauty!"
+「ほっ本当か！」
+"Really?"
+「見にいこうぜ」
+"Let's check it out."
+「今から行くのか？」
+"Now?"
+「保健室の前だぜ、入ってみようぜ」
+"We're here, let's go in."
+「入ってみようって・・・・[EB9F]何の訳もなく入ったらおかしくないか？」
+"Go in?... but there's nothing wrong with us."
+「バッカだな～！　何かテキトーに熱があるとか言えばいいじゃんか」
+"You idiot! You just make something up, say you've got a fever."
+（そうか）
+(right)
+ガラガラガラ・・・。
+creak...
+保　　　健　　　室
+    surgery     
+「あらっ！」
+"Oh!"
+ドアを開けたその場所で、俺は懐かしい顔を見つけた。
+I found a familiar face as I opened the door
+「み・・・み・・・美沙子さん？！」
+"Mi...Mi...Misako?!"
+「＊＊＊＊君？！」
+"＊＊＊＊?!"
+「ああ～！　そっか・・・・確か明愛学園だったわね！」
+"Oh! Of course.....Meiai college!"
+「あれ？　お前、知り合いだったのか？」
+"Huh? Do you know each other?"
+「・・・ま、まあな」
+"....sort of."
+「＊＊＊＊君のお友達？」
+"Is he your friend?"
+「＊＊＊＊！　しょ、紹介してくれよ！」
+"＊＊＊＊! Introduce us!"
+「『三好　和彦』です・・・・えへへへ」
+"I'm 'Kazuhiko Miyoshi'.....hehehe."
+「美沙子よ・・・よろしくね」
+"I'm Misako...nice to meet you."
+「えへへへ・・・そんな、こちらこそ・・・うへへへ」
+"Hehe...same here...hehe."
+「でも、どうして美沙子さんがココに？」
+"But why are you here?"
+「私はこれでも看護婦の卵なのよ」
+"I'm studying to be a nurse."
+「看護婦・・・つまり、ナース？」
+"A....nurse?"
+「将来の職業はまだ決めた訳じゃないけどね」
+"But it's not like I've decided to become a nurse."
+「実は、この学校の校医は私のお父さんなの」
+"Actually, the college doctor is my father."
+「ええっ！あのゴンちゃんが？　・・・お、お父さん！」
+"What! Gon is your....father?"
+「アハハハッ　ゴンちゃんて呼ばれてるんだ！」
+"Hahaha, He's being called Gon!"
+（しかし、どうやればゴンちゃんからこんな綺麗な子供が出来るんだ？）
+(how can that Gon have such a pretty kid?)
+（ひょっとしてお母さんがとても美人さんだとか？）
+(she must have taken after her mother)
+「私も看護学校に行っているだけで、正式な資格を持ってる訳じゃないけど、数日の間だけのお手伝い程度は出来るわ」
+"I'm still a student so I haven't got a proper certificate but I can manage for a few of days helping out."
+「そう言えば美沙子さんて、普段は何している人なのか全然知らなかったな」
+"Come to think of it, I never knew what you did."
+「生活の匂いを感じさせない女よ、オホホホホホ！」
+"I'm a lady of leisure, hohoho!"
+「でも、数日って事は・・・」
+"You said a few of days..."
+「そう、今週の金曜日までなの」
+"Yes, until Friday." 
+「ええ～っ、そんなに短い間だけなの・・・」
+"Ooh, that's so short..."
+「父さんのクガは軽い『捻挫』だから・・・今週中は安静にしておいて、来週からは学校にも出られるだろうって」
+"Dad's only sprained his ankle...if he takes it easy this week, he's be able to come back to work next week."
+「でも、美沙子さんに会えて嬉しいな・・・」
+"I'm glad to see you..."
+「・・・私もよ」
+"....me too."
+「・・・・・・・・・・・・」
+"......."
+「・・・・・・・・・・・・」
+"......."
+「おいおい、何を二人で見つめ合ってるんだよぉ？」
+"Hey, what are you two staring into each others eyes for?"
+「あはは・・・いやその・・・」
+"Hahaha...nothing er..."
+ガラガラガラガラ・・・・
+creeeaak...
+「先生・・・・やっぱりお腹が痛いんですけど」
+"Miss ...I've got a stomach ache."
+「俊雄・・・何しに来たんだ？」
+"Toshio...why are you here?"
+「何だ、君達もいたのかね」
+"So, you guys are here too."
+「俊雄君、これで今日は３回目ですよ！」
+"Toshio, this is your 3rd time today!"
+「廊下に出ると急に痛むんです」
+"I get pains when I leave this room."
+「俊雄！　それは重病だから一生入院したほうがいいぞ」
+"Toshio, that's serious, you should stay in hospital the rest of your life."
+「うるさい黙れ！　俺は先生と話しているんだ！」
+"Shut up! I'm talking to the nurse!"
+「俊雄君、仮病かどうかは見れば分るの。　帰りなさい」
+"Toshio, I can tell if you're faking it. Go on."
+「そんな・・・こんなに痛いのに・・・イタタタタッ」
+"Please...it's painful...ooouch."
+「さあさあ、早く帰った帰った！」
+"You heard, get out, get out!"
+「わっ、勝手に僕の背中を押すんじゃない！！」
+"Hey you don't have to push me!!"
+「ふう・・・」
+"whew..."
+「あの子、目が血走ってるんだもの」
+"His eyes are so glaring."
+「なんだか恐いわ」
+"Gives me the creeps."
+「美沙子さん、あいつだけは気をつけたいいよ」
+"Misako, you better watch out."
+「大丈夫よ、私はもう面食いじゃないもの」
+"Don't worry I don't just go for the looks."
+「羊の皮を被ったハイエナだからね、俊雄は」
+"Toshio's a hyena under a sheepskin."
+「・・・・・・・・・」
+"......"
+「＊＊＊＊君もそうかもね」
+"You could say that for yourself."
+「そんな、それはないよ・・・・[EB9F]」
+"Hey, come on..."
+「冗談よ」
+"Only kidding."
+「＊＊＊＊君、そろそろチャイムが鳴るわよ」
+"It's almost time for class."
+「そうだね・・・・それじゃあ」
+"Oh yeah...see you."
+ガラガラガラ・・・。
+creeeaaak...
+廊　　　　　　　下
+    corridor    
+「なにポーッとしているんだ？」
+"What's got into you?"
+「いいなぁ～、綺麗な人だったなぁ」
+"Wow...she was so pretty."
+（・・・・やはりこれは、運命のめぐり会わせなのかな・・・）
+(...I wonder if this is what you call fate...)
+「しかし、お前の知り合いだったとは・・・俺の事よろしく言っといてくれよぉ」
+"I didn't think you'd known her...put in a good word for me."
+「急に猫なで声になるなよ[EB9F]・・そろそろ授業が始まるぜ」
+"Stop that tone of voice...class is gonna start."
+「じゃ、またな！」
+"See you later!"
+「・・・・・・・・」
+"........"
+校　　　門　　　前
+ college gates  
+（さあ、帰るかな）
+(time to go)
+「＊＊＊＊君」
+"＊＊＊＊"
+「弓美先生」
+"Miss Yumi."
+「『美樹崎先生』は学校を辞める事になりました」
+"Mr Mikisaki is leaving this college."
+「本当に？・・・辞めるの」
+"Really...he's leaving?"
+「本人の意思で　一身上の都合により退職する事になりました」
+"It was his will, he's leaving for personal reasons."
+「今はそれだけを伝えておきます」
+"That's all I can say at the moment."
+「そうか・・・」
+"I see..."
+「『まゆみ』さんには、私からもう伝えましたから」
+"I've already told Mayumi."
+「・・・・・・・では、気をつけて帰るんですよ」
+"....well, see you tomorrow."
+「あっ・・・先生」
+"erm...Miss."
+先生は足早に帰っていった。
+Miss Yumi hurried away
+俺は何を言えば良いのか言葉が見つからず、そのまま見送っているだけだった。
+I couldn't find any words to say and just watched her go

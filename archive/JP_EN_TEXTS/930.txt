@@ -1,0 +1,102 @@
+トゥルルルルルル・・・・トゥルルルルルルル・・・・
+ring ring... ring ring....
+「あれ？　電話だ・・・・」
+"Oops, the phone..."
+「いったい誰からだろう？」
+"I wonder who it is?"
+ガチャ
+click
+「はい、＊＊＊＊ですが・・・」
+"Yes, ＊＊＊＊ speaking..."
+「あっ、＊＊＊＊か」
+"Yo, ＊＊＊＊."
+「和彦か、何の用だ？」
+"Kazuhiko, what's up?"
+「今、近くの公衆電話からかけてるんだけど・・・・・ちょっと話があるんだ」
+"I'm phoning from just across the road...we have to talk."
+「なんだ？　話って？」
+"About what?"
+「アパートの前で待ってるよ・・・・・・」
+"I'll be waiting in front of your flat..."
+プツッ・・・・・トゥー　トゥー　トゥー　・・・・・・。
+click....purrr....
+「何だろ？」
+"What could it be?"
+「とにかく家の前に行ってみるか」
+"I suppose I better go and see."
+自　　　宅　　　前
+in front of flat
+「・・・・・」
+"....."
+「和彦・・・話ってなんなんだ？」
+"Kazuhiko....what's the problem?"
+「＊＊＊＊・・・今日はいい天気だな」
+"＊＊＊＊...it's a nice day today."
+「あのな、そんな事言うためにわざわざ呼び出したのか？」
+"Did you call me out just to say that?"
+「いや・・・・そ、そうじゃないけどな」
+"Well....that's not it."
+「じゃあ何なんだよ？」
+"Then what is it?"
+「じゃあ怒らないで聞いてくれよ・・・」
+"Promise you won't get mad...?"
+「俺・・・・＊＊＊＊の事が好きなんだ」
+"I ...really like you."
+「えっ？」
+"Huh?"
+「つ、つまり・・・俺は前から＊＊＊＊の事が好きだったんだ！」
+"Well...I've always loved you!"
+「・・・・・[EB9F]」
+"...."
+「俺は別にホモじゃない・・・・だけど・・・・・だけど・・・・・・・どうしても言っておきたかったんだ！」
+"I'm not gay or anything...but ...but .....I just had to tell you!"
+「和彦・・・・・お、俺は」
+"Kazuhiko....I'm.."
+「ほ、本当か？」
+"R..really?"
+「ああ、いままで恥ずかしくて言えなかったけど・・・・・大好きなんだ！」
+"I was too embarrassed to tell you but...I love you too!"
+「う・・・嬉しいよ・・・」
+"I'm...so happy..."
+「俺もだ・・・」
+"Me too..."
+「今から部屋に来ないか」
+"Do you want to come to my room?"
+「あ、ああっ！」
+"er, yes!"
+・・・その後、俺たちはずっと交際を続けている。
+...we've been seeing each other ever since
+えっ？　女の子達はどうしたかって？
+huh? what about the other girls?
+そんな事はもうどうでもいい・・・・今、俺はとても幸せだから・・・・。
+that isn't important any more...because I'm so happy now...
+もう他の事なんて考えられない・・・・・[EBA6]。
+I can't think of anything else....
+「・・・・・」
+"...."
+「・・・つ、つまり・・・俺はいい親友だと思っている。けどその気持ちは恋愛感情とはまた別なんだ」
+"...well I think you're my best mate I think your my best mate. It's a different love to that of a relationship love, you know."
+「・・・・」
+"...."
+「そ・・・そうだよな」
+"errr...R..right."
+「・・・・」
+"..."
+「許してくれ！　ただ俺は自分の気持ちを言っておきたかっただけなんだ・・・・ただそれだけなんだ！」
+"Sorry! I just wanted you to know how I felt...that's all!"
+「・・・あやまる事なんてないぜ・・・これからもよろしくな！」
+"...you don't have to apologise...we're mates!"
+「・・ああ」
+"...yeah."
+「俺・・・もう帰るから・・・」
+"I'll...be going."
+「・・・・・・」
+"..."
+（・・・・部屋に戻るか）
+(...I'd better go back too)
+選択
+choice
+【俺も実は好きだったんだ！】
+[I love you too!]
+【いままで通り友達でいよう】
+[let's just keep it as friends]

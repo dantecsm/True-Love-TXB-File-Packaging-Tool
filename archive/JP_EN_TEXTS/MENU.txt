@@ -1,0 +1,90 @@
+自　分　の　部　屋
+    my room     
+メニューを選択してください。
+please choose a option
+学　　校
+COLLEGE
+本日のスクジュールを設定してください。
+please establish todays schedule
+芸術学習
+ART LEARNING
+運　　動
+SPORTS
+勉　　強
+STUDY
+街　　遊
+PLEASURE
+オシャレ
+FASHION
+「あれっ？約束なんてあったっけか？」
+"Huh? Did we make a promise?"
+本日のスクジュールを設定してください。
+please establish todays schedule
+学　　校
+COLLEGE
+勉　　強
+STUDY
+芸術学習
+ART LEARNING
+運　　動
+SPORTS
+オシャレ
+FASHION
+街　　遊
+PLEASURE
+買い物
+SHOPPING
+休　　息
+BREAK
+バイト
+WORK
+約　　束
+PROMISE
+何も持っていません
+not holding anything
+以下のアイテムを持っています
+holding the following items
+→
+>
+　アクセサリー
+  accessory
+　ぬいぐるみ
+  cuddly toy
+　花
+  flower
+　天使の羽
+  angels feather
+　紅き腕輪
+  red ring
+　黄金のカエル像
+  golden frog
+　うさぎペンダント
+  rabbit pendant
+　情熱のミサンガ
+  passion of misanga
+　賢者のジーンズ
+  wise man's jeans
+　宝くじ
+  lottery ticket
+ロードしています。
+loading
+ロードしました。
+loading completed
+セーブしています。
+saving
+セーブしました。
+saving completed
+　　ノーマル
+:Normal
+　知　性　派
+:Intellectual
+　スポーツマン
+:Sports man
+　プレイボーイ
+:Playboy
+－－－－－　－－－－－－－－
+---------  -----------
+あらかじめ、データのセーブを行っておきましょう。
+let us save the data beforehand
+タイトルに戻りますか？
+do you want to return to the title page?

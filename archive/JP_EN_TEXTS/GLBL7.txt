@@ -1,0 +1,38 @@
+教　　　　　　　室
+   class room   
+今日は試験結果発表の日だ。
+today is the day the exam results are announced
+試験結果が貼り出されたぞ。
+the exam results are posted up
+す、
+(
+生徒数　　１９４人
+number of students    194
+成績順位　　　１位
+grade level    no. 1
+「やった～！　とうとう３年で俺が１位だぜ～！！」
+"Yes! I'm no. 1 in the senior class!! Who's the man!?"
+生徒数　　１９４人
+number of students    194
+成績順位　　１３位
+grade level    no. 13
+（まだトップの壁は厚いな・・・もっと勉強しなくては！）
+(tough competition....I have to study harder!)
+生徒数　　１９４人
+number of students    194
+成績順位　　７４位
+grade level    no. 74
+（まあ、これ位が中間で普通だと思うけれど）
+(well, I suppose I'm about average)
+生徒数　　１９４人
+number of students    194
+成績順位　１３１位
+grade level    no. 131
+（あまり良いとはいえないけど、卒業だけは出来そうかな）
+(can't say I'm very good but I think I can graduate)
+生徒数　　１９４人
+number of students    194
+成績順位　１８５位
+grade level    no. 185
+（我ながら、見事だな・・・これでは卒業も危ないかも）
+(this is great...I wonder if I can graduate?)

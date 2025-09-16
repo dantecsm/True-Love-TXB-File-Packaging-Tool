@@ -1,0 +1,218 @@
+「そうだ、僕の理想の女性は先生以外には考えられないのだ」
+"My ideal woman is none other than Miss Yumi."
+「こうなれば、一刻も早くこの気持ちを伝えなければ！」
+"I must tell her how I feel straight away!"
+生　徒　指　導　室
+  counsel room  
+「どうしたのですか？　＊＊＊＊君」
+"What's wrong ＊＊＊＊?"
+「先生・・・・どうしても話したい事があって・・・」
+"Miss...I must talk to you about something..."
+「やっと進路を決めたのね」
+"So you've decided which college to go to."
+「いや・・・そうじゃなくて」
+"No...it's not that."
+「授業でわからない箇所があればなんでも聞いて下さいね」
+"If there's something you don't understand in class please as me anytime."
+「あ・・あのぉ・・・・つ、つまり」
+"Er..erm....well.."
+「なんですか？　ちゃんと言ってごらんなさい」
+"What is it? Spit it out."
+プレゼントを選択して下さい
+ please choose a present
+選択
+choice
+アクセサリー
+accessory
+ぬいぐるみ
+cuddly toy
+花
+flowers
+「これ・・・先生にプレゼントだよ」
+"Here...it's a present for you."
+「まあ私に？・・・・・でも、今日は誕生日でもないし・・・・・一体何なのかしら？」
+"For me?....but it's not my birthday...what is it?"
+「先生の事を本気で愛してしまったんです！！」
+"I've fallen in love with you!!"
+「・・・＊＊＊＊君」
+"....＊＊＊＊"
+「卒業してからでもかまいません、僕と交際して下さい！！」
+"I'll wait until I graduate, I want to have a proper relationship with you!!"
+「・・・・・・」
+"....."
+す、
+(
+「先生も、＊＊＊＊君の事は、好きですよ・・・・・・でも」
+"I like you too....but"
+「でも・・・？」
+"But...?"
+「よく考えるとやっぱり、恋愛の対象にする事は出来ません」
+"I can't think of you as a lover."
+「そ、そんな・・・！！」
+"Wh..why...!!"
+「先生の『好き』と貴方の『好き』は意味が違うのです」
+"My 'like' and your 'like' are different."
+「＊＊＊＊君、今は将来の進路の事だけを考えてね」
+"＊＊＊＊, just think about your future for the moment."
+「今の＊＊＊＊君では、まだまだ中途半端です・・・」
+"You're still growing in all respects..."
+「・・・・・・・・・」
+"....."
+「あの日の事は、一夜だけの思い出にしましょう」
+"We should keep that night as a memory."
+「それじゃあ、先生はこれで・・・」
+"I'll be going then..."
+「あっ、待って！　せ、先生～！」
+"Oh wait! M..Miss!"
+「＊＊＊＊君、今はそんな事を言っている時期ではありませんよ」
+"Now is not the time for that."
+「せ、先生」
+"Mi..Miss."
+「もっと、受験の事とか、進路の心配をしなさい！」
+"You should be thinking about your exams and future!"
+「・・・・で、でも」
+"....b...but."
+「さあ、わかったら早く帰りなさい」
+"Now run along if that is understood."
+「そ、そんなあぁぁぁっ！！」
+"Oh, wait!!"
+・・・と言うわけで、俺はふられてしまった。
+...and so I was dumped
+なに、女なんて星の数ほどいるさ！　ヘコたれずにまた頑張ればいいことだ・・・。
+there are as many women as there are stars in the sky! I just have to keep on trying...
+・・・・・けれど、やっぱりさみしいな。
+....but it still is depressing
+「先生、嬉しい・・[EBA6]」
+"I'm so happy..."
+「じゃ、じゃあ・・・・」
+"Then..then..."
+「＊＊＊＊君から、その言葉を言ってもらうのを今日まで待っていたんです」
+"I have been waiting for you to say those words to me."
+「先生・・・いえ、私も＊＊＊＊君の事が大好きです・・・」
+"I...love you too...."
+「先生・・・・・」
+"Miss..."
+「＊＊＊＊君・・」
+"＊＊＊＊..."
+・・・その後俺は、無事に高校を卒業し正式にプロポーズをした。
+...since then I've graduated college and have started to see her regularly
+先生の・・・いや、弓美・・とのデートの帰りには必ず彼女の部屋に立ち寄るようにする日々がつづいた・・・その先は、ムフフフっ！
+I made a point to go to her flat after every date...and then, heh heh heh!
+やがて俺は一流ではないにしてもごく平凡に大学へ進学し、そして今はフリーのライターとして、雑誌等で活動をする日々がつづいていた・・・・。
+I went to an ordinary university and now I'm a freelance writer for magazines...
+「あ、この写真は、よく撮れてるね」
+"This is a good picture."
+「え、どれどれ・・・？」
+"Let's see...?"
+「ほら、去年にハワイへ旅行へ行った時に撮った写真だよ」
+"It's the one we took in Hawaii last year."
+「あの時は、日ざしが強くて、肌がヒリヒリしちゃたわよね」
+"The sun was so strong, that I got sun burnt."
+つ（やオろみや
+3N_WIN
+【＊＊＊＊】
+[＊＊＊＊]
+「・・・・いい表情しているよ」
+"...you've got a beautiful smile."
+【弓　美】
+[Yumi]
+「ありがとう・・・・・でも貴方の顔が途中で切れちゃってるから残念・・・・」
+"Thank you...it's a shame half of your face is cut off..."
+【＊＊＊＊】
+[＊＊＊＊]
+「別にいいよ、この元気そうな笑顔がとても気にいってるから」
+"I don't mind, I really like the expressionon your face."
+【弓　美】
+[Yumi]
+「・・・・・」
+"...."
+【＊＊＊＊】
+[＊＊＊＊]
+「ところで今日はプレゼントがあるんだ・・・」
+"By the way, I've got a present today..."
+【弓　美】
+[Yumi]
+「え・・・なにかしら」
+"Oh...what is it?"
+【＊＊＊＊】
+[＊＊＊＊]
+「・・・・・はい、これ」
+"....here."
+【弓　美】
+[Yumi]
+「あっ・・・」
+"Oh...."
+【弓　美】
+[Yumi]
+「・・・・ゆ・・・・指輪？」
+"....a ...ring?"
+【＊＊＊＊】
+[＊＊＊＊]
+「ハワイで買った安物の指輪だけどね」
+"It's only a cheep one I bought in Hawaii."
+【弓　美】
+[Yumi]
+「い、いつの間に買ったの・・・これを、わ、私に？」
+"When did you buy it?....and it's for me?"
+【＊＊＊＊】
+[＊＊＊＊]
+「すぐに渡せばよかったんだろうけど・・・・その、僕がち
+"I thought about giving it to you straight away 
+ゃんとした収入を得て、迷惑をかけないようになってから渡
+but... I wanted to be able to support you
+そうと思っていたんだ・・・」
+properly before asking you..."
+【弓　美】
+[Yumi]
+「も、もしかして・・・それって、もしかすると」
+"Is this.... is this really...?"
+【＊＊＊＊】
+[＊＊＊＊]
+「婚約指輪のかわりだよ」
+"It's an engagement ring."
+【弓　美】
+[Yumi]
+「＊＊＊＊君・・・」
+"＊＊＊＊..."
+【＊＊＊＊】
+[＊＊＊＊]
+「もう、『君』はやめよう・・・・・・いいね、僕が言いたいのは」
+"I'm not your student any more....what I want to say is.."
+【＊＊＊＊】
+[＊＊＊＊]
+「　結婚しよう　」
+"Marry me."
+つ（やオろみや
+3N_WIN
+【弓　美】
+[Yumi]
+「・・・・・・グスッ」
+".....(sob)"
+【＊＊＊＊】
+[＊＊＊＊]
+「あ、あれれれれ[EB9F]・・・・な、泣かないでよ」
+"Oh, hey....don't cry."
+【弓　美】
+[Yumi]
+「うれしいの・・・・・・・とっても」
+"I'm so happy....very happy."
+【＊＊＊＊】
+[＊＊＊＊]
+「じゃあ・・・いいんだね？」
+"Then...you accept?"
+【弓　美】
+[Yumi]
+「ええ、私、絶対いい奥さんになるわ・・・」
+"Yes. I'll promise to be a good wife..."
+【＊＊＊＊】
+[＊＊＊＊]
+「きっと、幸せにするよ」
+"I'll make you the happiest person."
+・・・・深夜、静かなる時が流れる中でふたりは互いの愛を
+...midnight, in the still of the night we held 
+再度確かめあい、そして抱きあった。
+each other and strengthened our bond
+幸せと言う名の時が流れ、ふたりの小さな部屋は愛と希望で
+a time named happiness passed and our room
+いっぱいだった。
+was full of love and hope

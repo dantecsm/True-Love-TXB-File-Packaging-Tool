@@ -1,0 +1,180 @@
+校　　　門　　　前
+ college gates  
+「今日から２学期が始まるぜ」
+"Second term starts today."
+「よお！　何だか今日はイキイキした顔してるな？」
+"Hey! You're looking pretty lively today?"
+「・・・いや別に・・・」
+"...is that so..."
+「そうか・・・・・・・クンクン」
+"Right....sniff."
+「ワッ！　何だよ」
+"Oi! What is it."
+「何か女の香りがする・・・この香りは・・・・」
+"I smell a woman...This scent is..."
+「・・・・犬みたいなヤツだな」
+"....You're a dog."
+「・・・・・・・俺の勘違いかな」
+"......Maybe I'm wrong."
+「じゃあな、また会おう！」
+"Bye, see you later!"
+（行ったか）
+(he's gone)
+「あっ・・・」
+"Oh..."
+「みゆきちゃん！」
+"Miyuki!"
+「きゃっ・・・・・・・・恥ずかしい」
+"No.....it's so embarrassing."
+「あっ待って・・・・・・・・・・・・行っちゃった」
+"Um, wait.......she's gone."
+（あの後だと照れくさいな）
+(it's embarrassing after that)
+「・・・・・・・・・」
+"............"
+「みゆき・・・み・・じゃなくて、美香恵！」
+"Miyuki...Mi...oops no, Mikae!"
+「どうしたの？」
+"What's wrong?"
+「い・いや何でもないよ」
+"Uh, it's nothing."
+「みゆきったら、少しおかしいのよ」
+"Miyuki's acting funny."
+「どういう風に？」
+"In what way?"
+「ん～と・・・歩きながらね、何か思い出すようにして突然一人で笑い出したり」
+"Like...she'll be walking and suddenly remember something and start giggling."
+「・・・・・・・・そうか」
+"........Oh, right."
+「＊＊＊＊は、何か知ってるの？」
+"＊＊＊＊, do you know anything?"
+「いや、何も知らないぞ！」
+"No I don't!"
+「ふ～ん」
+"Humm."
+「な、なんだよ？」
+"W...what?"
+「・・・・・・・ジーッ」
+"....(stare)"
+「やっぱり、気のせいかしら・・・じゃあね」
+"Maybe it's just me....bye."
+（・・・・・・・・・[EB9F]）
+(..........)
+「＊＊＊＊君、なぜ来なかったんですか？」
+"＊＊＊＊, why didn't you come?"
+「みゆきちゃん・・・・ご、ごめんよ。　実はどうしても避けられない急用が出来て・・・[EB9F]」
+"Miyuki....sorry. Something very important came up and I couldn't get out of it..."
+「・・・ひ、ひどいです」
+"...You're horrible."
+「きっと私が無理な事ばっかりお願いするから・・・だから私の事嫌いになったんですね？」
+"It's because I'm so demanding ...is that why you hate me?"
+「嫌いになったって・・いっいや、そうじゃなくて・・・[EB9F]」
+"Hate you...no, that's not it..."
+ダッ！
+(rush!)
+「あっ、待って！」
+"Oh, wait!"
+（・・・・傷つけちゃったかな・・・・）
+(...perhaps I've hurt her feelings...)
+教　　　　　　　室
+   class room   
+「それではみんなに新しい転校生を紹介します」
+"I'll introduce your new class mate."
+「良子さーん、お入りなさい」
+"Ryoko, come in."
+「それでは自己紹介して下さい」
+"Please introduce yourself."
+「『島崎　良子』（しまざき　りょうこ）といいます。みなさん、今日からよろしくおねがいいたします」
+"My name is Ryoko Shimazaki. I hope we'll get along."
+「じゃあ良子さんの席はあの窓ぎわの後だから座りなさい」
+"Ryoko, please take your seat by the window."
+（おっ・・・・俺の隣の席だ！　これは新学期早々から縁起がいいや）
+(wow,...she's next to me! I think I'm in luck this term)
+「・・・・よろしくね」
+"....Hi."
+彼女は軽くお辞儀をすると俺の隣に座った
+she bowed lightly and sat in the seat next to me
+「俺＊＊＊＊、よろしく」
+"Hi, I'm ＊＊＊＊."
+「＊＊＊＊君、色々と教えて下さいね」
+"Hello"
+「もう何だって聞いてよ」
+"If you need any help then just ask me."
+「勉強以外の事から勉強以外の事まで、古今東西の事は何でも俺に聞いていいからね」
+"From anything other than studies to anything other than studies, just ask me."
+「あの、　それって『勉強以外の事』ばっかりのような気がするんですけどぉ・・・・」
+"That's all? Nothing to do with studies?.."
+「なんでも手とり足とり教えてあげるからね」
+"I'll guide you by your hands and legs." 
+「え？」
+"What?"
+「大丈夫・・・大丈夫、痛くはないから」
+"Don't worry...don't worry, it won't hurt."
+「あ、あの・・・なにが痛いんですか？」
+"Umm....what are you on?"
+「ハハハ・・・いや何でもないんだよ」
+"Hahaha...it's nothing."
+（あらたまって『何が痛いの』って聞かれると、結構困るな）
+(I don't know how to answer that funnily)
+「？」
+"?"
+「それにしても、黒板の文字とかは大丈夫？　見える？」
+"Anyway, do you think you'll be OK here? Can you see the blackboard?"
+「大丈夫です、私にはこの眼鏡がありますから」
+"Yes, I've got these glasses."
+（すごく度のキツそうな眼鏡だな・・・・素顔がよく分からないのが残念だけど・・・）
+(look at those lenses...pity, you can't really see her face...)
+「＊＊＊＊君！」
+"＊＊＊＊!"
+「は、ハイッ！！」
+"Yea, yes?"
+「可愛い子が隣に来て嬉しいのはわかりますが、お喋りの方が過ぎるみたいですよ」
+"I understand you're happy having a sweet girl sit next to you but you should pay attention to your beautiful teacher."
+【クラス全員】
+[whole class]
+「ドォッ！！」
+ "(laughs)"
+「ハハハ・・・[EB9F]」
+"Hahaha..."
+「クスクスクス・・・・・＊＊＊＊君て面白い人なんですね」
+"(giggle) ....You're a funny person."
+（物静かな娘だけど、何か知性とか気品とかがあふれている感じで空気が違う感じがする・・・）
+(she's quiet but she's got this air of intellect and grace about her...)
+玄　　　　　　　関
+    door way    
+「＊＊＊＊さん・・・・・」
+"＊＊＊＊...."
+「何？」
+"Yes?"
+「私たち・・・今まで通り普通に振る舞っていく事にしましょう・・少なくとも、学園内にいる時は・・・」
+"We'd...better act normally...at least when we're at college..."
+「そうだね、周囲の人には内緒にしていようね、俺達の事は・・」
+"OK, we'll keep it a secret from others..."
+「・・・・・私、あの日の事を思い出すと・・・・・・ポッ」
+".....When I remember that day.....(blushes)"
+「俺もだよ・・・・・みゆきちゃん・・・」
+"Me too......Miyuki..."
+「・・・途中まで一緒に帰りましょう」
+"....Let's walk home."
+公　　　園　　　前
+in front of park
+「じゃあ、今日はここで・・・バイバイ」
+"I'll see you soon....bye bye."
+「・・・・俺の部屋に寄っていかないか？」
+"....Why don't you come in?"
+「次の展覧会に出展するから、家でちょっと追込みをしないと・・・」
+"I have to catch up on my work for the next exhibition..."
+「あっそうか・・・じゃあ仕方ないね」
+"Oh, right ....then it can't be helped."
+「・・それが終わったら・・・」
+"....When that finishes..."
+「うん、待ってるぜ・・・早くこないだの続きをしたいなぁ・・」
+"Yeah, I'll be waiting...I hope we can do some more of that soon..."
+「やだっ・・・＊＊＊＊さんったら・・・・・」
+"Oh...＊＊＊＊..."
+「じゃあね・・・バイバイ」
+"See you....bye."
+「うん」
+"Yeah"
+（・・・・・）
+(........)

@@ -1,0 +1,126 @@
+廊　　　　　　　下
+    corridor    
+「どう、試験勉強はちゃんとやってる？」
+"Are you studying hard for your exams?"
+「試験勉強？　まあボチボチかな」
+"Exams? Yeah sort of."
+「今回は頑張ってね！」
+"You better do well this time!"
+「次の試験で私たちの進路とかも決まってくるんだから」
+"These exams are going to determine our future."
+「『私たちの進路』という事は・・・そうか、やっぱり美香恵は俺との明るい未来を考えているんだな」
+"Our future?...so you are thinking about a bright future with me."
+「えっ？」
+"What?"
+「ならば！　今の内からもっと練習をしておかなければ」
+"That means that I need to practice more."
+「なにを言っているの？」
+"What are you talking about?"
+「だから、ちゅ～っと・・・・チュ～の練習をやっておかないと」
+"Like this...kissing practice."
+「やん！」
+"Get off!"
+「んん～！今日こそは！逃がさんぞ　・・・・・・あれ？」
+"hmm! I'm not gonna let you get away today...huh?"
+「もう！　私が真剣に心配をしてあげてるのに」
+"Come on! I'm seriously concerned for you."
+「俺はいつでも真剣だ、真剣にチューをしたいと思っている」
+"I'm always serious, I seriously want to kiss you."
+「＊＊＊＊の目を見ていると、なんだかとっても恐いんだもん」
+"It scares me, looking in your eyes."
+「・・・・・・・・・[EB9F]」
+"......."
+「じゃあ、試験でいい成績を取ったら考えてくれるか？」
+"Then will you think about it if I get good grades?"
+「えっ」
+"What?"
+「また、どこかでデートしてくれる？」
+"Will you have a date with me?"
+「デート・・・・・うん、いいけど」
+"A date....OK."
+「本当に！　やった～」
+"Really? Yahoo!"
+「・・・あのお・・・・・＊＊＊＊・・・」
+"...um...＊＊＊＊..."
+「ん？　なに？」
+"hu? What?"
+「あのさ・・・・・・憶えている？」
+"Do you...remember?"
+「憶えているって？」
+"Remember what?"
+「私の、お誕生日・・・・」
+"My birthday..."
+「お誕生日・・・・・・・・・・・」
+"Your birthday......?"
+「もちろん憶えてるさ！」
+"Of course I remember!"
+「・・・だろ？」
+"It's ...."
+「あっ！　ひっどぉ～い！　間違ってる！」
+"Oh! How could you! That's not it!"
+「あれれ・・・[EB9F]　違ったっけ？」
+"Oops...was I wrong?"
+「９月２８日よ！」
+"It's the 28th of September!"
+「２８日！　そっそうだったよな！　ちょっとボクてみただけ！　ちゃんと憶えてたから」
+"28th! Of course! Just a little joke! I remember."
+「もぉ～！　本当かな～？」
+"Do you really remember?"
+「・・・だろ？」
+"It's ..."
+「ウレシイッ！　ちゃんと憶えててくれたんだ！」
+"Yes! I'm so happy you remembered!"
+「そりゃあ、当然だろ？」
+"Of course I remember."
+「なんだかとても嬉しくなってきちゃった」
+"That's really made my day."
+「じゃあ、その日にデートしようか？」
+"Then shall we have a date on that day?"
+「うん・・・・・・・でも試験は頑張ってね！」
+"Yes...but do well on your exams!"
+「あっ、私友達と約束があるから、じゃあね」
+"I've got to go and see my friends, see you."
+（これは、試験勉強を頑張らねば・・・・）
+(I'd better get good grades on this exam...)
+（美香恵が誕生日と言う事は、もう１８才になるのか。んん～ん、これからは大人の交際をしなくてはな。今から考えただけでサキッチョぬるぬる仮面になってしまう）
+(her birthday, so that means she's 18. humm, we'll have to have an adult relationship. just thinking about it makes me wet)
+「こんにちは」
+"Hello."
+「うわっ・・・びっくりした！」
+"Wow ...you startled me!"
+「ごめんなさい、驚かすつもりはなかったんですけど」
+"I'm sorry, I didn't mean to make you jump."
+（アセッ、まさか美香恵との会話を聞いてたんじゃ・・・）
+(hope she didn't here the conversation with Mikae)
+「＊＊＊＊君、勉強はしてますか？　次の中間試験も頑張りましょうね」
+"＊＊＊＊, are you studying? Let's do our best on the mid term exam."
+「ああ、それはもちろん」
+"Yeah, of course."
+「＊＊＊＊君、今の娘と何を話してたのかしら」
+"＊＊＊＊, what were you talking to that girl about?"
+「えっ・・・（ギクッ！）」
+"Huh....(shit!)"
+「・・・・すっごく仲がよさそうに見えましたけど」
+"...you two seem very friendly."
+「ああ、美香恵とは、幼なじみだからな」
+"Yeah we've known each other since kids."
+「そうだったんですか。　そう、幼なじみ・・・」
+"I see, from childhood..."
+「やだわ、じゃあ私の思い過ごしですよね」
+"Oh no, that means I've made a mistake."
+（えっ、なにがだ？）
+(what mistake?)
+「そうですよね・・・」
+"That must be it..."
+「それでは、また・・・　＊＊＊＊君」
+"I'll see you later...＊＊＊＊."
+（麗美ちゃん、いったい何が言いたかったのだろうか？）
+(what did Remi want to say?)
+選択
+choice
+【９月２３日】
+[23rd of September]
+【９月２５日】
+[25th of September]
+【９月２８日】
+[28th of September]

@@ -1,0 +1,288 @@
+校　　　門　　　前
+ college gates  
+今日は『明愛学園祭』だ。
+today is [Meiai college festival]
+「クラブ活動をしていない俺は、適当に見学していくだけなんだけどな」
+"'cause I'm not in any club, I can just browse around."
+「＊＊＊＊、今日はパソコン部に来てくれよ。俺の作ったゲームがあるからな」
+"＊＊＊＊, come to the PC club. There's a game I programed."
+「前から作っていたアレだな？」
+"Is it the one you've been working on?"
+「ああ！待ってるぜ」
+"Yeah, see you there."
+廊　　　　　　　下
+    corridor    
+「＊＊＊＊、今日はどこへ行くつもりなの？」
+"＊＊＊＊, where are you going today?"
+「美香恵、良かったら一緒に見て回ろうか？」
+"Mikae, do you want to go around together?"
+「＊＊＊＊君。　よかったら一緒に見学しません？」
+"＊＊＊＊, do you mind if we look around together?"
+【美香恵＆良　子】
+[Mikae and Ryoko]
+「あっ」
+"Oh"
+「・・・・あ、あの・・・私は別の場所に行ってますから・・・」
+"....oh, um.... I'll go and look around...."
+「良子ちゃん！３人で回ろうか・・・あっ・・・[EB9F]」
+"Ryoko! Why don't we go around together?...erm..."
+「モテモテね・・・＊＊＊＊？」
+"You're very popular... ＊＊＊＊?"
+「お前の言葉ってなんかトゲがあるぞ」
+"Do I sense hostility in your voice?"
+「そうかしら。ホホホ」
+"I don't think so. Hehehe."
+「和彦が見に来てくれって言っていたから、パソコン部へ行ってみようか」
+"Kazuhiko asked me to come so why don't we go to the PC club?"
+教　　　　　　　室
+   class room   
+俺たちはパソコン部にやって来た。
+we arrived at the PC club
+「よっ！　夫婦で来たな」
+"Yo! The couple's here."
+「誰が夫婦だ！　お前が来てくれって言うから来てやったんだぜ」
+"Who's a couple! I came 'cause you asked me to."
+「和彦君って、自分でゲーム作っちゃうんだ！スッゴ～イ！」
+"You made this game yourself! That's great!"
+「脳天気な誰かさんとは、頭の出来がまるで違うわね」
+"You're so clever, not like a idiot"
+「誰の事を言っている？」
+"Who are you talking about?"
+「気にしない気にしない[EBA8]」
+"Oh, no one in particular."
+「へっへっへ・・・これだぜ」
+"Hehehe...this is it."
+「どうすればいいんだ？」
+"What do I do?"
+「簡単だぜ、マウスで標的にカーソルを合わせて左クリックで撃つんだ」
+"Easy. Just place the cursor on the target with the mouse and click to shoot."
+「黒が１００点　青が２００点　赤が５００点だ。ただし黄色い的は、一般人だから射つと２００点減点になる気をつけてくれよな」
+"100 points for black, 200 for blue, 500 for red. Yellows are civilians so you loose 200 points if you shoot them down."
+「３０秒のタイムアタックで、ハイスコアを狙ってくれよ」
+"Try for the high score with a time limit of 30 seconds."
+「ふっふっふ・・・俺はこう見えても、昔はゲームセンター○らしとよばれた事もあるのだ」
+"Hehehe... Did you know I used to be called "The Arcade Kid"."
+「＊＊＊＊、そのマンガ誰もおぼえていないかもよ」
+"Oh ＊＊＊＊, I bet no one remembers that manga"
+「そら、スタートだ！」
+"It's started!"
+「・・・・」
+"......."
+「お・・・・・おっ・・・おっと！」
+"o...o...oops!"
+「＊＊＊＊、自分の体を動かしてどうするの？」
+"＊＊＊＊ you don't have to move your body."
+「あっ・・・・うぅぅぅっ・・・・アッ！　オット！」
+"Ah....errrm......wah....hey!"
+「まったく・・・声だけは大きいんだから」
+"Come on... you're so loud."
+「うるさい！　だまって見てろ！」
+"Shut up! Just watch!"
+「もう」
+"Damn"
+「そろそろタイムアップだな・・・」
+"Time's almost up...."
+「・・・どっ・・・どうだっ！」
+"...Th..... there!"
+「残念だったな　・・・・まあ平均点って所かな」
+"Too bad....you're average"
+「＊＊＊＊、鈍くさ～い！」
+"＊＊＊＊, you're such a idiot!"
+「もうちょっと簡単にはならんのか～？！」
+"Can't you make it a little easier?!"
+「ならん！」
+"NO!"
+「もう一度やってみるか？」
+"Do you want to try again?"
+「すげえ！　ハイスコアだ！」
+"Wow! What a high score!"
+「スゴーイ＊＊＊＊！　やったね」
+"＊＊＊＊, wow, that's great!"
+「フッフッフッフ・・・俺には簡単すぎたかな」
+"Ha! ....It was a bit too easy for me."
+教　　　　　　　室
+   class room   
+「今日ゲームやった人間の中での最高得点だぜ」
+"You've got the highest points in today's challengers."
+「＊＊＊＊って、こういうゲームをさせると得意なのよね」
+"＊＊＊＊'s good at this sort of game."
+「また新しいゲームを作ったらいつでも挑戦してきなさ～い」
+"Come and challenge me when ever you've made a game."
+「さてと、もう終わりにしておくよ」
+"I'll stop there for today."
+「和彦君、面白かったわ～！」
+"Kazuhiko, that was fun!"
+「また新しいの作ったら、やらせてやるからな～」
+"I'll let you try again when I've done another game"
+廊　　　　　　　下
+    corridor    
+「和彦君ってほんとにゲームが好きなのね」
+"You really like games, don't you Kazuhiko."
+「あら、美香恵ちゃんに、＊＊＊＊君」
+"Hi Mikae, ＊＊＊＊."
+「みゆきちゃん・・・」
+"Miyuki...."
+「・・・・・・[EBA6]」
+"........"
+「？・・・何ニヤニヤしているの？」
+"?...Why are you smirking?"
+「いや、何でもないよ」
+"It's nothing."
+「そ・そうよね！　＊＊＊＊君！」
+"Tha..that's right! ＊＊＊＊!"
+「変なの」
+"Weirdo."
+「いつも、仲がいいんですね・・・ふたりとも」
+"You two are always so....close."
+「やだ！　何言っているの」
+"What are you trying to say!"
+「そうだよ！　冗談は止めてくれよ！」
+"That's right! Stop joking around!"
+「ちょっと、うらやましいです・・・」
+"I'm a little jealous..."
+「みゆきちゃん・・・」
+"Miyuki...."
+「あっ、じゃあ私はこれで・・・」
+"I'd better be going..."
+「＊＊＊＊君」
+"＊＊＊＊"
+「わっわわわっ！　びっくりした」
+"Waaooow! You startled me."
+「学園祭は楽しんでいるかね？」
+"Are you enjoying the college festival?"
+「楽しんでるわよ[EBA8]」
+"I'm enjoying it."
+「おや、隣の女性は君の恋人かね？」
+"Well, is she your girlfriend?"
+「そうだ」
+"Yeah"
+「ヤダ～　何言ってるのよ！」　←照れながら
+"Oh, stop that!"     blushing
+バシイィィィィィィィィィィ～ン！！
+slaaaaap!!
+「痛てててっ！」
+"Ouuchh!!"
+「ふむふむ・・・・カキカキカキ」
+"Aha....(scribble,scribble)"
+「お、おい・・・何をしているんだ亀雄？」
+"Hey, what are you doing Kameo?"
+「今の発言をメモしておかなければ・・・・＊＊＊＊には既に恋人あり・・・・・・と」
+"I've gotta note that down..... ＊＊＊＊ already has a girlfriend.......period."
+「さて、さっそく姫川君に報告しなければ！」
+"Right, I've got to give this info to Himekawa."
+「姫川君？　おい、ちょっと待て！」
+"Himekawa? Hey wait a sec!"
+「違うぞ」
+"That's not right."
+「・・・・フ～ン」
+".....yeah."
+「何だよ？」
+"What?"
+「べ～つ～に～！」
+"No-thing-!"
+「俺たちは恋人ではなくて、それ以上の関係なのだ」
+"We're not just seeing each other, it's more."
+「ちょっと、ちょっと、何を言っているの！」
+"Wait, wait, what are you saying!"
+「それ以上の関係というのは何なのだ　・・・ゴクリ」
+"What do you mean by 'it's more'?????"
+「つまりだな、俺達ふたりは毎晩・・・」
+"What I mean is every night we...."
+バシイィィィィィィィィィィ～ン！！
+slaaaaaaap!!
+「美香恵！　何するんだよ！！」
+"Mikae! What did you do that for!!"
+「先手を打っただけよ！」
+"I had to have my say first!"
+「さささっ！　亀雄君もバカな事聞かないで、あっち行って」
+"Kameo, would you stop writing stupid memos and fuck off!"
+「いったい何なんだろう？　それ以上の関係って？　・・・・ブツブツブツ」
+"I wonder what he means? 'It's more'?..... (mumble)"
+「天才的な僕の頭脳で分らない事があるなんて・・・・ブツブツ」
+"How can there be something my genius brain can't understand...."
+「亀雄君って、面白い人ね」
+"Kameo's a funny guy."
+「あいつの場合は計算じゃなくて天然だからかな」
+"He's not trying to be, it's natural."
+・・・・と、色々やっている内に今年の学園祭は無事終了した。
+....and so this year's college festival ended peacefully
+校　　　　　　　庭
+college grounds 
+（考えてみれば、これが高校生活最後の学園祭なんだな・・・）
+(come to think of it, this is my last college festival...)
+「ウククククククッ」
+"Hehehehehe"
+「新鮮な女子高生の下着や制服が山のように・・・・ウッククククククククッ」
+"All this underwear and uniforms of college girls......haahaahaa"
+「これで今夜は・・・ウッ・・ウククククククッ」
+"And tonight with this.....hehehehehe."
+「何だ、いまの男は？　一般客かな？」
+"Who was that guy? A vistor?"
+校　　　門　　　前
+ college gates  
+「ハアッハアッ・・・・＊＊＊＊君、泥棒を見ませんでしたか？」
+"(pant, pant)....＊＊＊＊, did you see a panty thief?"
+「どろぼう？！」
+"Panty thief????"
+「着替えている女子の制服や下着がたくさん盗まれてたんです」
+"The girls uniforms and underwear was stolen from the changing room."
+「みんなが楽しんでる学園祭なのに、許せない」
+"This is a festival. How dare they."
+【女子の声】
+[girl's voice]
+「センパーイ！　向こうで怪しい人を見たって人がいました～！」
+"Senpai! There's a person who saw the suspect!"
+「今行くわ！」
+"Coming!"
+「・・・もしかして、さっきの男がそうだったのかな」
+"....I wonder is that was the man we saw."
+自　分　の　部　屋
+    my room     
+「ふぁ～～～ぁぁぁあ」
+"Yaaaaawwnn"
+（もうそろそろ寝るとするか）
+(suppose I'd better go to sleep)
+「・・・・・・・・・・・・・・・・・・・」
+"............"
+「・・・・・・・・ムニャムニャ・・・・・・・・・・・・」
+".....ermm......."
+「・・・・・・・・・・・・・・・」
+"..........."
+「・・・・・＊＊＊＊よ・・・・」
+".....＊＊＊＊...."
+「・・・・むにゃむにゃむにゃ・・・・・・・・・・・・・・」
+".....ermm, erm........"
+「＊＊＊＊よ、聞かんか！！」
+"＊＊＊＊, listen!!"
+「あれ？　オッサン誰だ？」
+"Hey who are you, old man?"
+「オッサンではない！！　＊＊＊＊よ、私はゲームの神だ」
+"Old man?? Cheek! ＊＊＊＊, I am the god of games"
+【ゲームの神】
+[game god]
+「お前は友人のゲームで高得点を取ったので、その褒美をやるぞ」
+"You have scored the highest points on your friends game so I will reward you."
+「・・・ほうび・・・？」
+".....reward......?"
+【ゲームの神】
+[game god]
+「エクストラボーナスじゃ！」
+"An extra bonus!"
+【ゲームの神】
+[game god]
+「では元気での・・・・ホッホッホッ」
+"take care...ho ho ho."
+「・・・・・・・・・・？」
+"........"
+自　分　の　部　屋
+    my room     
+「ハッ・・・・[EB9F]」
+"Oh!...."
+「何だ・・・・・・・夢か」
+"What....... a dream."
+選択
+choice
+【そうだ】
+[That's right]
+【違うぞ】
+[that's wrong]

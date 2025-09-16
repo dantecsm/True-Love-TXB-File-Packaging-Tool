@@ -1,0 +1,288 @@
+「＊＊＊＊」
+"＊＊＊＊."
+「ん・・・むにゃむにゃ・・・」
+"hmm......hmmm?!?......"
+「起きんか！　＊＊＊＊」
+"Get up! ＊＊＊＊."
+「むにゃむにゃむにゃ・・・・・・・・・・・・」
+"humm, grumm......."
+「・・・・・・・・・・・あ、あれっ？」
+".........er, huh?"
+自　分　の　部　屋
+    my room     
+「起きろ！　＊＊＊＊！」
+"Get up! ＊＊＊＊!"
+「げげっ！　おやじっ！」
+"Dad? What the fuck are you doing here?"
+「『げげ』とは何だ『げげ』とは！」
+"Excuse me? What do you mean by fuck?"
+「げげっ、画面に姿は見えないが俺のベッドの横には、おやじが立って居るぞ？！」
+"As my dad is ugly, we don't want to offend you by him standing by my bed!"
+「何をブツブツ言っておる！　せっかく息子の生活ぶりを心配して来てやったというのに、驚かんでもいいだろ！」
+"What are you mumbling about! You don't have to be so surprised, I've just come to see how my son's doing!"
+「んなこと言ったって、俺がひとり暮らし始める時に『男が一度家を出たら簡単には帰って来るな』って言ったのは、おやじだぜ」
+"You're the one who said 'once a man leaves his home, he shouldn't come back!'"
+「それは、お前が家に戻らなければ良い話だ。　わしが来る分には、全く問題は無い訳じゃ」
+"Yes, but that doesn't mean I can't visit you."
+「・・・・・・・・・・・・・・[EB9F]」
+"..........."
+「男はな、いつか一人で広い海に出なければならん時が来る」
+"There's a time when a man has to go out into the big wide world."
+「それが早いか遅いかの問題じゃ」
+"It's just a different time for every one."
+「・・・ところで、この部屋にはどうやって入ったんだ？」
+"....How did you get in anyway?"
+「簡単じゃ、ほれ合鍵！」
+"Easy, spare key!"
+「なんでそんなの持ってるんだよ！」
+"How did you get that!"
+「ちっちっちっ・・・まだまだ、お前も甘いな」
+"tut, tut, tut....you're still naive."
+「で、今日は何か用があったんじゃねぇのか？」
+"And, what did you come here for?"
+「ふむ、いたって元気そうでもある事だし・・・何も問題はなさそうだな」
+"Yes, seems like you're well and there are no problems."
+「ああ、何とか見てのとおりピンピンしてるぜ」
+"Yeah, as you can see I'm very well."
+「母さんが心配してのぉ・・・様子を見てこい見てこいと、うるさいのだ」
+"Your mother was worried ....and asked me to come and see you."
+「母さんが・・・？」
+"Mom did....?"
+「ところで、＊＊＊＊・・・」
+"By the way ＊＊＊＊..."
+「な、なんだよ」
+"What?"
+「彼女はもう出来たのか？」
+"Have you got a girlfriend?"
+「なんだよ！　急に！」
+"What's with you!"
+「恥ずかしがらんでもよろし！　母さんには内諸だから正直に言ってみるがよい！」
+"Don't be shy! I won't tell mother so tell me!"
+（正式に彼女と呼べる娘は・・・・・）
+(can I call someone officially my girlfriend?....)
+（・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・まだいないよな）
+(.................... maybe not yet)
+「ボソッ・・・・そんなのいないよ」
+"......I'm not seeing anyone."
+「なんと？！　本当か？」
+"What?! Really?"
+「何驚いてんだよ」
+"Why are you surprised?"
+「わしが、お前位の歳の頃には・・・随分と辺りの女子達を泣かせたものじゃがのぅ・・・」
+"When I was your age... I made quite a few girls cry."
+「おっと・・・今のは母さんには内諸じゃぞ」
+"Oops... don't tell your mother that....."
+「・・・・・・・・・・[EB9F]」
+"......."
+「そうだ、あの娘はどうじゃ？　あの娘は？」
+"That's right, how about that girl?"
+「あの娘？」
+"What girl?"
+「ほら、昔よく家に遊びに来ていた・・・・・・も・・もも」
+"You know, the girl that use to come over often ...M.. Momo."
+「・・・・・・・・ほら！」
+"......you know!"
+「『ほら』言われても困るな」
+"I don't know"
+「ももも・・・森川・・・・森川・・・・」
+"mo..mo..mo....Morikawa.... Morikawa..."
+「『森川　美香恵』とか言ったかな？」
+"I think she was Mikae Morikawa."
+「なんだ、美香恵か・・・」
+"Oh, Mikae..."
+「森川君なら器量も良いし美人だし、わしも母さんも良く知っているから、今すぐにでも告白しに行ってきなさい！」
+"Miss Morikawa's pretty and well mannered, your mother knows her well so go and ask her out now!"
+「ちょちょ・・ちょっと待ってくれ！　勝手に決めないでくれ！」
+"W..wait a minute! You can't just decide that!"
+「なぜじゃ？　もたもたしとると他の誰かに盗られてしまうぞ」
+"Why? If you don't hurry someone else will take her."
+「お前もまんざら嫌いではないのだろう？」
+"Don't tell me you don't like her."
+「そ、そりゃあ・・・」
+"It's not that...."
+「わしは覚えているぞ、幼稚園の時にお前が言った言葉を」
+"I remember what you said when you were in kindergarten." 
+「ぎくっ」
+"What?"
+「ふっふっふ・・・・若いな、顔色がかわっておるぞ」
+"Hehehe... see, I bet you remember."
+「お、俺が幼稚園の時に言った言葉って・・・？」
+"W..what did I say when I was in kindergarten...?"
+「将来は美香恵ちゃんをお嫁さんにするんだ～！・・・てな」
+"You said 'I'm gonna marry Mikae!'"
+「・・・そ、そんな事よく覚えているな」
+"....Why do you remember things like that?"
+「森川君とお前が、公園で遊んでた時だったな・・・たしか」
+"I think it was when you two were playing in the park."
+「森川君もきっと、覚えているぞ」
+"I bet Morikawa remembers too."
+「そうかな・・・[EB9F]いくらなんでも覚えちゃいないだろ」
+"No I don't think she can remember that"
+「いや、女というものは男の想像以上に『恋』や『愛』について真剣なものだ！」
+"No, women are more serious when it comes to love!"
+「あれは、昔の話だよ・・・・それに」
+"That was ages ago...."
+「そんな昔の事を覚えていて『純愛』一直線な女っているかな？」
+"Do you really think women live life believing in true love?"
+「彼女はどことなく母さんに似ているな」
+"She's a bit like your mother."
+（母さんに・・・・？）
+(mom...?)
+「人の世話を焼いてくれるのは、お前の事が気になるからだぞ」
+"She does things for you 'cause she cares about you."
+「・・・・・・」
+".........."
+「まあいい、それはお前自身の判断に任せるとするか」
+"Never mind. It's your choice."
+（ふ～・・・突然何を言い出すんだ、このおやじは）
+(phew... What made dad come up with this all of a sudden?)
+「いいか、よく聞けよ・・・大切なのは『愛』だ！」
+"Here, listen....The important thing is "love"!"
+「では、邪魔したな。　わしの姿をプレイヤー諸氏に見せる事が出来なかったのがとても残念だったが、そろそろ帰るとするぞ！」
+"Well, see you. It's a shame the players couldn't see me but I've got to go now!"
+「何を意味の分からない事言ってるんだ？・・・・・もう帰るんだな、じゃあ気をつけてな」
+"(Probably for the best). You're going? Well take care"
+「そうそう、これはほんの小遣い銭だ、母さんには内諸だぞ」
+"Oh yeah, here's some pocket money, but don't tell mother."
+１０，０００円を手に入れた。
+he gave me 10000 yen.
+自　　　宅　　　前
+in front of flat
+「では、元気でな・・・・・・・・・んっ」
+"Take care......huh."
+「どうしたんだ？」
+"What's wrong?"
+おやじは、どこか向こうの方をながめている。
+dad was looking in the distance.
+「おや？　向こうを歩いているのは・・・・」
+"Oh? The person walking there is...."
+「あらっ！　＊＊＊＊、おっはよ～！」
+"Hey! Morning ＊＊＊＊!"
+「みっみみみ・・・美香恵！」
+"Mi..mi..mi.... Mikae!"
+（うっ・・・よりによって、こんな時にかよ！）
+(grrr....why does it have to be now!)
+「あ・・・・こちらの方は？　＊＊＊＊のお父さん」
+"erm.... Is he your father?"
+「森川君だね、うちの息子がいつも世話になっているそうで。いつもすまないのぉ」
+"You must be Miss Morikawa. Seems like my son's troubling you."
+「おやじ！」
+"Dad!"
+「いえいえ、そんなお父さん・・・私は別に」
+"Oh no father, not at all."
+「おやじ・・・余計な事は言うなよ」
+"Dad... don't say anything."
+「？」
+"?"
+「しばらく見ないうちに、随分と綺麗なお嬢さんに成長したものだな」
+"You've grown to be a very pretty lady."
+「あら！やだわ、お父様ったら」
+"Oh don't father, please."
+「お父様・・・？」
+"Father....?"
+「お父様・・・・・お父様・・・・・お父様・・・・・・」
+"Father....father.... father....."
+「何やってんだ・・・・？　おやじ！」
+"What's up....? Dad!"
+「＊＊＊＊、お前も今日からは『お父様』と呼べ」
+"＊＊＊＊, call me 'father' from now on."
+「何で俺が突然『お父様』って言わなきゃいけねえんだよ！」
+"Why do I have to call you 'father' all of a sudden?"
+「フッフッフ・・・＊＊＊＊、わしはそろそろ帰るとするぞ」
+"Hehehe.... ＊＊＊＊, I'm going home."
+「ああ、とっとと帰れよ」
+"Yeah, go home."
+「（小声で）＊＊＊＊、彼女は安産型とみた」
+"(whispering) ＊＊＊＊, she's got the hips of a mother."
+「おやじっ！！」
+"Dad!!"
+「？」
+"?"
+「ハッハッハッハッ・・・では二人とも元気でな！」
+"Hahahaha.....take care both of you."
+「ふう・・・嵐はさった」
+"Phew... the storm's gone."
+「＊＊＊＊のお父さんお元気そうね」
+"Your father seems well."
+「相変わらずだぜ、まったくあの変態おやじめ！」
+"Yeah as usual, that pervert old man!"
+「似てるわよ、誰かさんと」
+"He's just like someone I know."
+「えっ？　誰とだ？」
+"Yeah? Who?"
+「わからないなら、いいわ」
+"Never mind if you don't know."
+「？・・・・ところで、美香恵は今からどこへ？」
+"?.... Where are you going?"
+「私はお友達と、街に買物に行くの」
+"I'm going shopping with my friends."
+「買物っていうと・・・」
+"To buy???"
+「水着よ」
+"Swim wear."
+「２７日には水泳大会があるから頑張ってね！」
+"Good luck at the swimming contest on the 27th!"
+「水泳大会か・・・うちの学校の恒例行事だな」
+"Swimming contest.... It's the college's annual."
+「私、＊＊＊＊の応援してあげるからね！」
+"I'll cheer for you!"
+「バタフライの魔術師と呼ばれたこの俺だ、期待には添えるよ」
+"I wasn't call the king of back stroke for nothing. I won't disappoint you."
+「・・・[EB9F]　でも水泳大会は、明愛海岸で無人島までの往復２キロも泳がなきゃいけないのよ・・・」
+"....But it's a 2 kilometres return swim to the deserted island...."
+「＊＊＊＊のバタフライじゃすぐに疲れちゃうんじゃないかしら？」
+"Don't you think you'd get tired quickly if you do the butterfly?"
+「大丈夫、大丈夫！　何とかなるさ！」
+"No problem, no problem! I can do it!"
+「美香恵！　水着なら俺が一緒に選んでやるよ」
+"Mikae! I'll choose your bathing suit."
+「だめよ！」
+"No!"
+「なんでだよ」
+"Why not?"
+「＊＊＊＊が選ぶとすごくエッチなのになるから」
+"'cause you'll choose a skimpy one."
+「フッフッフ・・・なんで分るんだ？」
+"Hehehe.... how do you know?"
+「＊＊＊＊の考えてる事はなんでもわかるの」
+"I know every thing you're thinking."
+「何でも分かるのか？・・・・そうか」
+"Every thing?.....then..."
+「・・・・・・」
+".........."
+「じゃあ、『思いっきりヤラシイ想像っ』！」
+"How about, 'Some thing really raunchy'!"
+「あん、もう！」
+"Oh, stop!"
+「どうだ！　頭の中が分るか！」
+"Well! Do you know what's in my mind?"
+「じゃあ私も、急ぐから」
+"I have to go."
+（行ってしまった・・・・・・・・）
+(she's gone........)
+（・・・・・）
+(.......)
+（まさか、覚えてなんかいないよな・・・幼稚園の時に俺が言った言葉なんて・・・）
+(I suppose she doesn't remember... what I said when I was a kid...)
+（・・・・）
+(.......)
+グゥゥウウウウウウウウゥゥゥ～！
+ruuummmmmble!
+　　　　　　↑腹の虫の音
+      (stomach rumbling)
+（そう言えばまだ朝飯も食ってなかったんだっけ・・・・・飯でも食べようっと）
+(I haven't even had breakfast.......I'd better eat.)
+す、
+(
+す、
+(
+す、
+(
+で５
+6
+で５
+6
+で５
+6
+で５
+6

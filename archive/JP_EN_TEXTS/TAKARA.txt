@@ -1,0 +1,48 @@
+今日は【宝くじ】の抽選結果が出ています。
+today the [lottery] results are out
+「くっそー、はずれたか！１，０００円ソンした！！」
+"Fuck, didn't win anything! I've lost 1000 yen!!"
+一等が当りました！
+win first prize!
+５０，０００円を手にいれた！
+gain 50000 yen!
+「やったー！！」
+"Yes, yes, yes!!"
+二等が当りました！
+win second prize!
+１０，０００円を手にいれた！
+gain 10000 yen!
+「いいぞ！！」
+"Wow!!"
+三等が当りました！
+win third prize!
+５，０００円を手にいれた！
+gain 5000 yen!
+「ラッキー！！」
+"Feeling lucky!!"
+四等が当りました！
+win forth prize!
+１，０００円を手にいれた！
+gain 1000 yen!
+「プラスマイナスゼロか」
+"Oh well, broke even."
+五等が当りました！
+win fifth prize!
+１００円を手にいれた！
+gain 100 yen!
+「これっぽっちじゃ足がでるよ」
+"(grumble) better than nothing."
+す、
+(
+す、
+(
+す、
+(
+で５
+6
+で５
+6
+で５
+6
+で５
+6

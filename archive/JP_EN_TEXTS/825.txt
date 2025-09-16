@@ -1,0 +1,126 @@
+中　　央　　公　　園
+   central park   
+（夏の朝に散歩をしてみると気持ちがいいな）
+(it feels great to have a walk in the morning)
+（こんな近くに便利な公園があると、なかなかに役立って良いものだ）
+(it's so handy have a park close by)
+「あらっ＊＊＊＊さん、おはようございます」
+"Good Morning ＊＊＊＊."
+「朝が早いんですね」
+"You're up early."
+「ここを歩いていれば、君に会えると思って待っていたよ」
+"I thought I'd meet you here so I was waiting."
+「・・・昨日は、どうもすみませんでした」
+".....I'm really sorry about yesterday."
+「あの、次の日曜日なんですけど・・・・もしよければ＊＊＊＊さんの部屋におじゃましてもいいですか？」
+"erm..About next Sunday..... would you mind if I came over to your room?"
+中　　央　　公　　園
+   central park   
+（夏の朝に散歩をしてみると気持ちがいいな）
+(it feels great to have a walk in the morning)
+（こんな近くに便利な公園があると、なかなかに役立って良いものだ）
+(it's so handy to have a park close by)
+「み、みゆきちゃん！」
+"M..Miyuki!"
+「・・・＊＊＊＊さん、昨日はどうして来てくれなかったの？」
+"...＊＊＊＊, why didn't you come yesterday?"
+「ご、ごめんよ・・・・実はどうしても避けられない急用が出来てしまって・・・・[EB9F]」
+"Sor..sorry...something very important came up and I couldn't get out of it...."
+「・・・そうだったんですか・・・」
+"....I see...."
+「ずっと待ってたのに・・・・」
+"but I waited...."
+「本当にゴメン！　なんだったら今からでも裸になって、モデルになってあげるよ！」
+"I'm really sorry! If you want me to I'll take my clothes off and model for you now!"
+「あっ、それはいいですぅ・・・[EB9F]」
+"No, that's OK."
+「じゃあ、次の日曜日にでもモデルに成っていただけますか？」
+"Then could you model for me next Sunday?"
+「うん、是非そうさせてもらうよ！」
+"OK, I'd love to do that!"
+「・・・・それで、もしよければ＊＊＊＊さんの部屋におじゃましたいんですけど」
+"...and if you don't mind I'd like to visit your room."
+「俺の部屋に・・・・？」
+"My room....?"
+「ええ」
+"Yes"
+みゆきは少し頬を赤くしながら話をつづけた。
+Miyuki blushed as she continued to talk
+「あのぉ、実は日曜日は両親がずっと家にいるんです・・・・」
+"Well, my parents are at home on Sunday...."
+「うちの親、きっと変な心配するんで・・・・」
+"I think my parents would be a bit concerned...."
+（まあ確かに自分の娘の部屋にほとんど素裸に近い男が何時間もいたらビックリするというか、心配するだろうな）
+(I must say if they knew there was half naked man in their daughters room they'd be shocked or even worried)
+「ああ別に俺はかまわないけど」
+"Yeah, I don't mind."
+「本当ですか、やったあ！」
+"Really, thank you!"
+「じゃあ、俺のとこの住所は知ってる？」
+"Do you know my address?"
+「・・・・ううん・・・」
+".....No....."
+みゆきは顔を左右に振った。
+Miyuki shook her head
+「この近くだから、後をついて来ればいいよ」
+"It's close by, you can follow me."
+「うん、そうします」
+"Yes, I'll do that."
+自　　　宅　　　前
+in front of flat
+ナぎ。・
+p,
+「ここの２階で、２０３号室なんだ」
+"It's No. 203 on the second floor."
+「へえ～＊＊＊＊さんて、アパートに住んでるんですね」
+"So you live in a flat"
+「ところで日曜は、何時くらいに来るの？」
+"By the way what time are you coming on Sunday?"
+「そうですね、＊＊＊＊さんは何時ごろ都合が良いですか？」
+"What time would be convenient for you?"
+「そうだなあ・・・・」
+"Let's see....."
+「・・・・・・かな」
+"About......"
+「そうね、私もそれがいいと思います」
+"OK, that sounds good for me."
+「・・・・・・かな」
+"About......"
+「あの、そのぉ・・夕方からじゃ時間が足りないかも・・・」
+"Well, erm...I might not have enough time in the evening"
+「そうか、じゃあ・・・」
+"I see, then...."
+「・・・・・・かな」
+"About......"
+「夜中はちょっと、門限があるから」
+"I have a curfew, so night time isn't so good."
+「そうか、じゃあ・・・」
+ "I see, then....."
+「わかりました。　じゃあまたお願いします」
+"OK, then perhaps some other time."
+「良かったら今から俺の部屋に来て、お茶でも飲んでかないか？」
+"Do you want to come in and have some tea?"
+「えっ、でも・・・やっぱり今日は遠慮しておきます」
+"Oh... maybe not today."
+「それじゃあ、またな」
+"Then, I'll see you."
+「はい」
+"Yes."
+「あっ！・・・・＊＊＊＊さん！」
+"Oh! .....＊＊＊＊!"
+「えっ、なに？」
+"Uh, what?"
+「・・・・ううん、やっぱり何でもないですぅ・・・」
+".......No, it's nothing....."
+「それじゃあ・・・また、さようなら」
+"Ok....bye again."
+（・・・・何を言おうとしてたんだろ？）
+(....I wonder what she wanted to say?)
+選択
+choice
+【日中がいい】
+[during the day]
+【夕方がいい】
+[during the evening]
+【夜中がいい】
+[during the night]

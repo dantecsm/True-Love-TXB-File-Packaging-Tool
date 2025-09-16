@@ -1,0 +1,54 @@
+電話
+phone
+「とぅるるるるるる・・・とぅるるるるるる・・」
+"riiing....riiiiing..."
+「あれ・・・誰だろう」
+"Who could it be."
+カチャ
+(click)
+「もしもし」
+"Hello."
+「・・・・＊＊＊＊君、昨日はどうして来なかったんですか」
+"....＊＊＊＊, why didn't you come yesterday?"
+「昨日！・・・あっ！・・・実は」
+"Yesterday! ....Oh!....well."
+「風邪ひいちゃって・・・ゴホッゴホ！！」
+"I got a cold......cough cough!!"
+「・・・・本当に？」
+"......Really?"
+「ゴホゴホ！　・・・悪かったよ・・・ゴホ・・・ごめん！」
+"cough cough! ...I really am...cough...sorry!"
+「実は、どうしても断れない急用ができてしまって」
+"Something very important came up."
+「・・・そう、私よりも大切な用事があったんですね・・・」
+"....I see, more important than me..."
+「いっ、いや・・・そういう訳ではないんだけどね・・・・・・・・・・・・・ごめん！　あやまる！」
+"N, no.... I didn't mean it like that........I'm really sorry!"
+「・・・・じゃ、今回は許してあげましょう」
+".....I'll forgive you this time."
+「本当に・・・ごめん」
+"I'm really.....sorry."
+「ところで、この電話番号は、どうして調べたの」
+"By the way, how did you get my number?"
+「亀雄君から聞いたんです」
+"I asked Kameo."
+「亀雄から・・・・そうか」
+"From Kameo....I see."
+「昨日、図書館で偶然に会って、その時に電話番号を・・・・」
+ "I met him at the library and I ask him your number..."
+「そうだったのか・・・・・・あっ、麗美ちゃん！」
+"I see.....Oh, Remi-chan!"
+「なあに？」
+"Yes?"
+「麗美ちゃん、仲直りのキスを」
+"Remi-chan let's kiss and make up."
+「もうっ知りません！・・・・・ガチャ！」
+"Oh how could you!.....(slam!)"
+「あら・・・・・」
+"Oops....."
+選択
+choice
+【風邪をひいてしまって】
+[I've got a cold]
+【急用ができてしまって】
+[something important came up]

@@ -1,0 +1,110 @@
+駅　　　　　　　前
+ train station  
+「ああ、こんな夜にはなにか出会いが起らないのだろうか・・・」
+"Oh, I wish I could meet someone on a night like this..."
+「あっ・・・あの美しい人は・・・確か」
+"...that beautiful woman is..."
+「間違いない！　前に一度名前を聞きそこねた人だ！」
+"I know her! She's the one, whose name I didn't get to ask for before!"
+「・・・・いけない、もうこんな時間だわ・・」
+"...oh dear, look at the time.."
+「やあ！　今まで僕を待っててくれたんだね」
+"Hi! Thanks for waiting for me."
+「えっ？・・・・・どこかで会った事があったかしら？」
+"Pardon? ...Have we met?"
+「う～ん・・・スイートな香りが僕の脳神経を刺激して止まない」
+"mmm...Your sweet scent stimulates me."
+「なんだか変な子・・・・」
+"Weird kid..."
+「どうでもいいけど、私の進みたい道を塞がないでくれる？」
+"Excuse me but could you fuck off?"
+「クンクンクンクンクンクンクンクンクンクンクン・・・」
+"(sniff sniff sniff...)"
+「なっ、なに・・・[EB9F]」
+"Wh..what...?"
+「んんん～ん、想像どおりのいい香りだ！」
+"mmm...it's just as I imagined!"
+「僕は、＊＊＊＊。　お姉さんの名前は？」
+"I'm ＊＊＊＊, and your name is?"
+「・・・・・・・・・・[EB9F]」
+"....."
+「大学生かな・・・ねえねえねえ、それともＯＬ？」
+"Are you at collage...or are you working?"
+「・・・・・・・・・・」
+"....."
+「高校生でしょ・・・・あなた？」
+"You're at college ...aren't you?"
+「れれ・・・・・・・・・なんで？わかる？」
+"Oh.... can you tell?"
+「わかるわよ、どこの高校かしら？」
+"Of course I can, which college is it?"
+「『明愛』だけど」
+"Meiai."
+「ふ～ん、割といい学校に行ってるのね」
+"That's a pretty good college."
+「あっあの・・・よろしければお名前だけでも・・・」
+"erm...can I at least have your name..."
+「『美沙子』よ」
+"It's Misako."
+す、
+(
+「お世辞は、ちゃんと出来るみたいね」
+"So you do have manners."
+「ひっどおぉぉい！・・・私、帰ろうかな」
+"How dare you! ...I'm going."
+「わっわっわ～ゴメンなさい！！冗談だよジョーダン！！」
+"Ohhh..I'm sorry! I was only kidding!!"
+「僕は、お姉さんみたいな素敵な女性を生まれて初めて見てしまったの・・・・ですです」
+"Wow! I don't think I've ever met any so attractive as you"
+「本当に？」
+"Really?"
+「いきなりで恐縮なんですが・・・」
+"Sorry to be so sudden..."
+「ぼぼぼぼほ・・・」
+"I...I...I..I."
+「　？　」
+"?"
+「・・・僕と、交際してください！」
+"...I'd like to go out with you!"
+「・・・・・・・・・・[EB9F]」
+"....."
+「悪いけど貴方の事はなんにも知らないし、いきなり言われたって・・・困るわ」
+"I don't know anything about you and it's so sudden ... I can't."
+「じゃあ、これから『お茶』でもおごるからさ、ゆっくりとお話でもして、お互いを知ろうよ！」
+"Then why don't we go for a drink so we can talk and get to know each other!"
+「本当に悪いけど、今から私デートなの」
+"Sorry but I've already got a date."
+「デート？！」
+"A date?!"
+「そうよ、今から彼と待ち合わせ」
+"Yes, I've promised to meet him."
+「そうかぁ・・・すでに彼がいるのかぁ・・・・しょぼん」
+"I see...you already have a boyfriend..."
+「クスクス」
+"(giggle)"
+「今度は、もっと上手なナンパ方法を考えてね」
+"You should think of a better chat up line next time."
+「・・・・[EB9F]」
+"...."
+「僕はあきらめないよ。　いつか必ずキミのハートを射止めてみせるからね！」
+"I won't give up. I promise to take your heart some day!"
+「・・・・・・・・[EB9F]」
+"....."
+「私なら、ほとんど毎晩この街で遊んでるから・・・運が良ければまた会うかもね」
+"I come here most nights...if you're lucky you might even see me again."
+「次に会った時こそは、そのハートは僕の物だよ！」
+"Next time we meet, your heart is mine!"
+「・・・面白い子ね」
+"...you're funny."
+「じゃあね、バーイ！」
+"See you, ciao!"
+「ああっ・・・僕を置いて行かないで」
+"Oh...don't leave me."
+（・・・・行ってしまった）
+(...she's gone)
+選択
+choice
+【う～ん、いい名前だね】
+[that's a nice name]
+【う～ん、変な名前だね】
+[that's a funny name]

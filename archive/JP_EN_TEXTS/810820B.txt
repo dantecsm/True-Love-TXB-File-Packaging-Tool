@@ -1,0 +1,82 @@
+駅　　　　　　　前
+ train station  
+ＣＤショップ前が、何やらものすごく混雑している。
+there's a crowd in front of the CD shop
+（今世紀最後の大型アイドル『鷹橋　園子』か、まさに衝撃の引退だったよなぁ）
+(the last idol of this century, Sonoko Takahashi. It's a shock she retired)
+「ハア・・・ハア・・・ハア・・・」
+"ha....ha....ha...."
+「よお、＊＊＊＊！」
+"Yo, ＊＊＊＊!"
+「お前も園子ちゃんの引退アルバム買いにきたのか」
+"Did you come to buy Sonoko's last album too?"
+「俺はたまたま通りかかっただけなんだけどな。　それにしてもすごい人だかりだな」
+"I was just passing by. I can't believe the people here."
+「すごい人気だよなぁ・・・こんなに人気があるのに電撃引退しちゃうなんて」
+"She's so popular...it's a shame she's retiring when she's selling so much."
+「引退の理由が『普通の女子高生に戻りたい』なんて・・ううっ、泣かせるなぁ」
+"The reason is she want's to be an ordinary girl...It's so heart breaking."
+「真意については、色々と噂はあるみたいだけどな」
+"But there are other rumours around."
+「ワイドショーや、週刊誌の噂だろ？」
+"They're only tabloid rumours, right?"
+「中にはひでえ書き方をする雑誌もあるんだから、まったく頭にくるぜ！」
+"Some of the papers really put her down it makes me mad!"
+「ところで、お前はＣＤ買ったのか？」
+"By the way did you buy the CD?"
+「もちろん、この通り！　早朝から並んだ甲斐があったというものだ」
+"Of course, see! Good job I was in the queue since yesterday evening."
+ナう。・
+p 
+「早朝から？　すごいな」
+"My, we are committed."
+「初回特典として、『園子の着せ替えセット』が付いているんだ」
+"First comers get a "Sonoko changing doll"."
+「・・・・・・・[EB9F]」
+"....."
+「見ろ！　これで園子ちゃんの水着姿だろうと、セーラー服姿だろうと俺の思うがままなんだ！」
+"See! Swimwear or sailor uniform, I can decide what she wears!"
+「・・・・・・・[EB9F][EB9F]」
+"....."
+駅　　　　　　　前
+ train station  
+「じゃあな、俺は早く聴きたいからもう帰るぜ！」
+"I'm going 'cause I want to listen to this."
+和彦は、鼻息も荒く人ごみに消えていった。
+Kazuhiko was all worked up as he disappeared into the crowd
+「んんん・・・・・[EB9F]　すごい入れ込みようだな」
+"hmmmmm....he's really into it."
+ドン！
+bump!
+「おっと君、すまんな・・・・」
+"Oops, sorry..."
+「すごい混雑だな。　『鷹橋　園子』の人気は、まだまだいけるな・・・・ブツブツ」
+"Look at this crowd. I see Sonoko can do a lot more..."
+（なんだこのオッサン？）
+(who's this man???)
+「このまま、この人気を埋もれさせるには惜しい・・・・・絶対に惜しい・・・・ブツブツブツ」
+"It's a shame to just let her go...definitely a shame..."
+（なんか、一人でブツブツ言っているぞ）
+(he's talking to himself??)
+「そこのきみ、きみは園子ちゃんの事は好きかね？」
+"Excuse me, do you like Sonoko?"
+「好きだよ、だって可愛いんだもん！」
+"Yes I do, she's so cute!"
+「うんうん・・・そうか、やっぱりそう思うか」
+"Yes yes....you think so too?"
+「そんなに好きではないな」
+"Not that much."
+「なにっ！　・・・・世の中には、変わった男もいるもんだな」
+"What??!...There are some weird guys in this world."
+「ふっふっふ・・・ここは俺様の腕の見せどころって訳かな・・・・・・・・・・・ブツブツブツ・・・・・」
+"Heh heh heh...seems like it's my turn to take the stage ....(mumble mumble)"
+（・・・・・・・・・・・・・・・・[EB9F]）
+(.....)
+（そろそろ、帰るかな・・・）
+(I'm going home...)
+選択
+choice
+【好　き　だ　よ】
+[I like her]
+【好きではないな】
+[I don't like her]

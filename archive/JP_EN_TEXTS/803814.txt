@@ -1,0 +1,54 @@
+自　　　宅　　　前
+in front of flat
+「・・・＊＊＊＊」
+"...＊＊＊＊"
+「美香恵！」
+"Mikae!"
+「あのお・・・・・・・・ゴメンなさいねこのあいだは」
+"erm.....sorry about the other day."
+「？・・・ああ、ナンダ水泳大会の時の事か」
+"?...oh, you mean about the swimming contest."
+「あの後で、和彦君に話を聞いたの・・・・・・私、そんな理由があるなんて知らないで怒ったりして、ゴメンなさいね」
+"Kazuhiko told me about it...I got angry when I didn't know the situation, sorry."
+「ねえ、許してくれる・・・・・・・・？」
+"Will you forgive me....?"
+「いいよ、しょうがないだろう俺が同じ立場だったらやっぱり誤解してたと思うし、全然気にしてないからさ」
+"Of course, if I was in your shoes I would have misunderstood too so don't worry about it."
+「・・・・本当に？良かった」
+"...really? I'm so relieved."
+「ダメダね、あれで俺はずいぶんキズついたんだぜ！」
+"No way, you really hurt my feelings!"
+「そんな事言ったって、しょうが無いでしょう事情も知らなかったんだから！」
+"But how was I suppose to know what had happened!"
+「まあいいよ、このあいだの事は水に流すとしよう・・・・・・・どう？　感謝した？」
+"All right, I forgive you for that....Well? Are you grateful?"
+「・・・・いいわ、とりあえずゴメンなさいだけはしたから」
+"...OK, I've said I'm sorry anyway."
+「ああ、ところでさ今度どっか遊びに行かないか？いっしょに」
+"By the way, do you want to go on a date someday?"
+「あれ？　もしかして私を誘ってるの？」
+"Oh? Are you asking me out?"
+「嫌だったらいいよ、べつに」
+"You don't have to."
+「・・・・・・」
+"...."
+「＊＊＊＊となら、全然かまわないよ」
+"I'll go if it's with you."
+「じゃあ決まりだな！」
+"Then that's settled!"
+「うん、でも最近ちょっと忙しいの・・・・・・・・・・・・・・１５日ごろにでもまた電話してくれれば・・・」
+"Yeah, but I'm busy lately... can you phone me around the 15th..."
+「そうか！　じゃあ１５日の昼頃に電話するよ！」
+"OK! Then I'll call you around lunch on the 15th!"
+「・・・うん、私も楽しみにしているから」
+"...I'll be looking forward to it."
+「それじゃあね、バイバイ！また会いましょう」
+"Then, bye! I'll see you."
+「・・・・１５日の朝だな、よしっ！覚えとこ！」
+"...morning of the 15th, I'll remember that!"
+選択
+choice
+【許　　す】
+[forgive]
+【許さない】
+[doesn't forgive]

@@ -1,0 +1,856 @@
+自　分　の　部　屋
+    my room     
+「３時か、そろそろ来るころだな」
+"It's 3pm, she'll be here any time now."
+ピンポーン
+ding dong
+「鍵は開いているよ～！」
+"The door's open!"
+「うふっ、こんにちは！」
+"Hello!"
+「＊＊＊＊が一人暮らし始めてから、部屋に遊びにくるのって初めてだね」
+"It's the first time I've come to your room since you started living on your own."
+「俺の実家には昔よく遊びに来てたよな・・・」
+"You use to come to my house a lot..."
+「それ、小学生の頃の話ね」
+"That's when we were kids."
+「ちょっと狭いけど、いい部屋じゃない」
+"It's a little small but it's a nice place."
+「美香恵・・・・・」
+"Mikae..."
+（そういえば、誕生日だっていうのに、なんのプレゼントも用意していなかったな）
+(come to think of it, it's her birthday and I haven't got her a present)
+「どうしたの、暑いの？　すごい汗よ？」
+"What's the matter? Are you hot? You're sweating."
+「い、いや・・・なんでもないんだ」
+"Errr...it's nothing."
+（プレゼントを渡そうかな）
+(I should give her a present)
+プレゼントを選択して下さい
+please choose the present
+選択
+choice
+アクセサリー
+accessory
+ぬいぐるみ
+cuddly toy
+花
+flowers
+「はい、これ」
+"Here."
+「＊＊＊＊・・・」
+"＊＊＊＊..."
+「誕生日おめでとう」
+"Happy birthday."
+「ありがとう・・・・開けてもいい？」
+"Thank you... Can I open it?"
+「いいよ」
+"Sure."
+「えへへ・・・なにかなぁ」
+"...what could it be?"
+「わあぁっ！　こんなの欲しかったんだ～！」
+"Wow! I wanted something just like this!"
+「安物だけど、気持ちだよ」
+"It's cheap, just a little something."
+「とっても嬉しい、これ私の宝物にするから」
+"It's wonderful, I'll treasure it."
+（プレゼントあげて良かったな）
+(I'm glad I gave her a present)
+「ありがとう、大切にするわ」
+"Thank you, I'll take care of it."
+「ところで、＊＊＊＊・・・」
+"By the way ＊＊＊＊..."
+「なにかな？」
+"Yes?"
+「前から考えてたけれど・・・本当は私の事どう思っている？」
+"I've been thinking for a while... what do you think of me?"
+「なんだよ・・・急に」
+"What's with you?"
+「私は、＊＊＊＊の何なのかなぁ・・・？」
+"What am I to you...?"
+「なにって・・・・それは」
+"Well...that's..."
+「昔からの友達で・・・幼なじみで・・・」
+"We've always been friends... since kids..."
+「うんうん」
+"Yes."
+「それから、同級生で・・・相談相手で・・・兄妹みたいで・・・・・・」
+"And class mates...we trust each other...like brother and sister..."
+「うんうん」
+"Yes."
+「それからそれから・・・・」
+"And...and..."
+「それから？」
+"And?"
+「え～と、え～と」
+"Well, erm..."
+「え～と？」
+"Well?"
+「・・・・・・・・・・・・・・[EB9F]」
+"......."
+「もう・・・そんな事、別にどうだっていいじゃないか！」
+"erm...what does it matter anyway?"
+「フーン・・・それだけしか思っていないんだ・・・・・」
+"I see....that's all you think of me..."
+「・・・・・・・・・なんだよ？」
+"......what?"
+「わかったわ、じゃあこれから俊雄君の所に行っちゃおうかな～」
+"OK, then perhaps I'll go to Toshio's place after this."
+「俊雄？」
+"Toshio?"
+「・・・うん」
+"...yeah."
+「どうして俊雄の所に行くんだ？」
+"Why are you going to Toshio's?"
+「昨日ね、学校で俊雄君にプロポーズされちゃったの」
+"Yesterday at college Toshio asked me out."
+「な・な・なぬぅ！！」
+"Wha....what??!!"
+「プ・・・プロポーズ？！」
+"Asked... you out??!!"
+「俊雄君、前から私の事を好きだったんだって」
+"He said, that he has always liked me."
+「あ、あいつは、誰にでも同じ事を言うんだぜ！！」
+"He says that to everyone!!"
+「・・・・・・・」
+"....."
+「あいつの毒牙にかかった女生徒は山のようにいるんだぞ」
+"There have been lots of girls who were hurt by him."
+「そうかしら？　そんな噂は聞いた事がな無いんだけど？」
+"Is that so? I haven't heard of any such rumours."
+「男子の間では有名な話なんだ！」
+"It's famous among the guys!"
+「・・・で、美香恵の返事はどうしたんだよ？」
+"...and what was your reply to him?"
+「私はね、『返事は１日だけ待って』って言ったの」
+"I said to wait just one day."
+「ＯＫの時は俊雄君の家に電話するから・・・って答えたのよ」
+"I said that I'll call him."
+「１日って事は今日返事するって事か」
+"One day, so that means you're gonna decide today?"
+「そうよ」
+"That's right."
+「＊＊＊＊が、私の事をそれだけしか思っていないんだから・・・・・・私はどうしようと勝手だよね！」
+"If that's all you think of me... it won't matter what I do!"
+「まて、俺の本当の気持ちは・・・・・」
+"Wait, what I really feel is..."
+「大嫌いだ」
+"I hate you."
+「・・・・・・・・・」
+"........"
+「そう、それじゃあ気にする事なんてないわね！！」
+"OK, so it won't bother you then!!"
+「さよなら！　＊＊＊＊！」
+"Good bye! ＊＊＊＊!"
+美香恵は、最後は涙声になりながら逃げ出すように部屋を飛び出していった。
+Mikae's voice was all choked up as she ran out of the room
+（・・・あっ、俺はなんて事を言ってしまったんだ！！）
+(...shit, what have I said?!)
+（美香恵の奴・・・泣いていたじゃないか・・・）
+(Mikae...she was crying...)
+シンと静まり返った部屋に、重苦しい淋しさだけが残っていた。
+a heavy sadness lingered in the silent room
+「愛している」
+"I love you"
+「えっ」
+"What?"
+「今までカッコばかりつけてたけれど、本当は美香恵の事を本気で愛しているんだ！」
+"Up to now I've been trying to act cool but the truth is I really love you."
+「＊＊＊＊・・・」
+"＊＊＊＊..."
+「美香恵・・・」
+"Mikae..."
+「ど、どうしちゃったんだろう・・・・涙が・・涙が止まらないよ」
+"What's happening? My tears... they just won't stop."
+彼女の美しい目からは、大粒の涙がポロポロと宝石のように輝きながらこぼれてきた。
+huge drops of tears fell from her beautiful eyes like jewels
+「あ、あれっ？　さっきまであんなに怒っていたのに・・・」
+"I was so mad a minute ago..."
+「美香恵・・・ほら」
+"Mikae... here."
+俺は前から預かっているばかりになっていたハンカチを取り出して彼女の涙を拭いてあげた。
+I took out the handkerchief I had borrowed from her and wiped her tears
+「・・・こ、これ」
+"...this is."
+「ごめんよ、ずっと返せなくて」
+"Sorry I never gave it back."
+「うっ・・・うん、ちゃんと洗濯してくれたんだ・・・」
+"You... you even washed it..."
+「本当に美香恵は泣き虫だなあ・・・」
+"You're such a cry baby..."
+俺は、たまらなく愛おしくなり、両腕で抱きしめた。
+she was so sweet, I hugged her tightly
+「＊＊＊＊の胸、あったかい・・・」
+"You're so warm..."
+俺は彼女の髪の香りを嗅ぎ、懐かしい想いを感じていた。
+the scent of her hair brought back memories
+「美香恵」
+"Mikae"
+彼女は黙って目を閉じた。
+she closed her eyes quietly
+「ん・・・・・っ」
+"un..."
+そのまま素直に俺のくちづけを受け入れてくれた。
+she didn't resist my kiss
+時間が止まるかと思う程のキスが終わると、次は彼女の方から言い出した。
+it was as if time had stopped but after the kiss she said
+自　分　の　部　屋
+    my room     
+「＊＊＊＊・・・」
+"＊＊＊＊.."
+「なんだい？」
+"Yeah?"
+「・・・・私、今日から１８才になったのね」
+"...I'm 18 today."
+「ああ、そうだよ」
+"That's right."
+「１８才といえば、もう大人よね」
+"That means I'm an adult."
+「う、うん！　そうだ、大人だ！」
+"Yes! You're an adult!"
+「今日からはもう大人・・・・・・だから」
+"From today I'm an adult...that's why.."
+「だから？」
+"Yes?"
+「今日は、＊＊＊＊とズッと一緒にいたい・・・」
+"I want to be with you all night..."
+「ほっ、ほほほほ・・・本当に？」
+"Wha...really?"
+「＊＊＊＊は、迷惑かしら？」
+"Do you not want me to stay?"
+「とんでもない！　美香恵、一生いてもいいよ・・・」
+"Of course not! You could stay here your whole life..."
+「ま、まって・・・・そのまえにまだ聞きたい事があるの」
+"Wait, ...I want to ask something before that."
+「な、なにかな？」
+"What is it?"
+「他の女の子の事は、どう思っているの？」
+"Do you have anyone else?"
+「他の女の子の事？」
+"Anyone else?"
+「私の他にも好きな娘がいるんじゃないの？」
+"Aren't there girls you like, other than me?"
+「いや、いないよ」
+"No, there is no-one else."
+「本当に？」
+"Really?"
+「[EB9F]・・・本当・・・だよ[EB9F][EB9F]」
+"...really..."
+「だって、＊＊＊＊はいっぱいガールフレンドがいるから」
+"But you've got so many girlfriends."
+「ガールフレンドってのは女友達の事だから、あくまで友達っていう意味だな」
+"They're female-friends, we're just friends."
+「でも、もしかすると友達以上に意識してる娘がいるんじゃ・・」
+"But maybe there's someone who's more than a friend..."
+「友達以上？　例えば誰だよ？」
+"More than a friend? Like who?"
+「例えば・・・・・『麗美』ちゃんとか」
+"Like...Remi."
+「か、彼女は・・・[EB9F]」
+"She..she's..."
+「ただの友達だ」
+"Just a friend."
+「本当に？」
+"Really?"
+「本当だ」
+"Really."
+「神に誓って？」
+"You swear?"
+「神に誓ってだ」
+"I swear."
+「・・・・・・・・・・」
+"....."
+「恋人だ」
+"She's my girlfriend."
+「えっ！」
+"What?"
+「俺は彼女の事を愛している」
+"I love her."
+「やっぱり・・・私より麗美ちゃんの方が好きなのね」
+"I knew it... you like her more than me."
+「あっ、そうではなくてだな・・・[EB9F]」
+"Oh, it's not like that..."
+「・・・・・・・・・私への気持ちは、嘘だったのね」
+"It was a lie, your feelings toward me... All a lie."
+「ま、まてよ」
+"Wait a sec."
+「・・・・・・もういいわ！！」
+"....that's enough!!"
+「＊＊＊＊の言い訳なんか聞きたくない！」
+"I don't want to listen to any more of your fucking excuses!"
+彼女はものすごいスピードで部屋の外へ飛び出していった。
+she dashed out of my room
+「あっああ・・・！　待って・・・[EB9F]」
+"Hey...! Wait..."
+「うそ」
+"Bastard."
+「えっ」
+"Huh?"
+「うそつき！」
+"You low life bastard!"
+「本当は、麗美ちゃんとエッチな事したんでしょ！」
+"I bet you fucked her!"
+「美香恵・・・[EB9F]」
+"Mikae..."
+「・・・・どうして嘘をつくの？」
+"...why do you fucking lie?"
+「そ、それは・・・」
+"Ermm...Well..."
+「どうして、私には本当の事を言ってくれないの？」
+"Why can't you tell me the fucking truth?"
+「・・・・・・・・・・・もう信じられない」
+"....I can't trust you anymore."
+「美香恵・・・・」
+"Mikae..."
+「嘘つきの＊＊＊＊なんて、大嫌い！！」
+"You're such a fucking liar, I hate your fucking guts!!"
+彼女はものすごいスピードで部屋の外へ飛び出していった。
+she dashed out of my room
+「あっ・・・ま、待って・・・・[EB9F]」
+"Hey....wait..."
+「そうなんだ・・・・よかった」
+"I see...I'm glad."
+「俺の好きなのは美香恵ただひとりだけだ」
+"You're the only one I love."
+「＊＊＊＊・・・・・大好き」
+"＊＊＊＊...I love you."
+「・・・お願い、抱きしめて」
+"...please, hold me."
+そして二人は、再びキスを交わした。
+and we kissed once more
+「美香恵の唇、とても柔らかいんだな」
+"You're lips are so soft."
+「ファーストキスは１８才になったら、＊＊＊＊にあげようと決めていたの」
+"I decided that I was going to give you my first kiss when I turned 18."
+「それって、いつから？」
+"Since when did you decide that?"
+「笑わないでね」
+"Don't laugh."
+「笑わないよ」
+"I won't."
+「絶対に、ぜ～ったいにだよ！」
+"Promise you won't laugh!"
+「うん、絶対に、ぜ～ったい言わない」
+"I promise I won't laugh."
+「幼稚園の頃から」
+"Since kindergarten."
+「よ、幼稚園の頃から？！」
+"Kindergarten?!"
+「うん」
+"Yes."
+「それから、小学校、中学校と・・・ずっと同じ事を考えて」
+"And I thought about it since then..."
+「同じ、私立の明愛学園に入ったのも、＊＊＊＊と一緒にいたかったから」
+"I even got into Meiai 'cause I wanted to be with you."
+「美香恵・・・」
+"Mikae..."
+「それくらい貴方の事が好き」
+"That's how much I love you."
+「あの言葉を覚えてた？」
+"Do you remember those words?"
+「・・・・・・・」
+"....."
+「あの言葉って？」
+"What words?"
+「ほら・・・・俺が幼稚園の頃・・・・」
+"You know...what I said in kindergarten..."
+「それ以上言わないで！・・・私が考えている事と同じだから」
+"Don't say anymore!...It's what I have in mind."
+「・・・・・じゃあ言わないよ」
+"...then I won't say it."
+「幼稚園の頃の言葉は今でも覚えているわ」
+"I remember what you said."
+「・・・・・」
+"....."
+「俺は美香恵ちゃんをお嫁さんにする・・・・だったわね」
+"I'm gonna make Mikae my bride... right?"
+「・・・・・・その通りだ」
+"....exactly."
+「ずっと覚えてたよ」
+"I remember."
+「・・・・でも、美香恵」
+"...but Mikae"
+「なに？」
+"Yes?"
+「その言葉だけで、俺の事を好きだって言うのなら。止めておいたほうがいいよ」
+"But if that's the only reason you love me we'd better not go any further."
+「・・・・・」
+"....."
+「何しろ、俺はいいかげんでスクベでどうしようもない男だ」
+"'cause I'm dubious, lewd and I'm a bastard."
+「・・・・・」
+"....."
+「そんな幼稚園児の勝手な一言だけで美香恵を縛り付けるのは良くないと思うし」
+"I don't think it's right to tie you down with what we said as kids."
+「私が＊＊＊＊の事を好きになったのは、その一言だけのせいじゃないわ」
+"It's not only because of what you said."
+「・・・・・・・・」
+"......."
+「＊＊＊＊は、態度はいつもそっけないけど、私の事何時も守ってくれてた・・・・」
+"You act as if you don't care but you've protected me many times..."
+「それから何年間もずっと側で＊＊＊＊の事を見ていた私は、自然にひかれている自分に気がついたの」
+"I've known you for so long and I realised that I was attracted to you."
+「・・・・・・・」
+"....."
+「泣き虫な私には＊＊＊＊は、いつも輝いて見えてた」
+"I was such a cry baby and you were always shinning."
+「私は＊＊＊＊の、生き方の全てが好き」
+"I like the way you live, your life."
+「美香恵・・・もっとそばにおいで」
+"Mikae...come closer."
+「うん」
+"Yes."
+「＊＊＊＊のひざの上に座るの」
+"I'll sit on your lap."
+美香恵は自分で俺のひざに腰かけて、頭を俺の肩にもたれかけてきた。
+she sat on my lap and put her head against my shoulder
+「しばらくこうしていても、いい？」
+"Can I just stay like this for a while?"
+「いいよ」
+"Sure."
+「＊＊＊＊の心臓の音が聞こえるよ」
+"I can hear your heart."
+先がピンと張ったシャツの膨らみを見降ろすと、今日はノーブラのようにも見える。
+I look down her blouse and it looks as if she has no bra on
+（今日はまた、やけに薄着だな・・・[EB9F]）
+(her blouse is quite sheer...)
+俺はチラッと美香恵の顔色を確認してみた。
+I glanced at Mikae
+「・・・・いいのよ、触っても」
+"...you can touch them."
+俺はシャツの上から柔らかい胸の膨らみを触った。
+I touched her soft breast from over her blouse
+「あん・・・・っ」
+"Ah..."
+「私の胸小さいかしら？　＊＊＊＊は、大きい人が好きなんでしょう？」
+"Are my breasts small? You like them big don't you?"
+「きっとこれくらいが丁度いい大きさ・・・だと思うよ」
+"I think this size is...just right."
+「・・・・良かった・・・・」
+"...good..."
+「＊＊＊＊、見たい？」
+"＊＊＊＊, do you want to see them?"
+「うん」
+"Yeah."
+「じゃあ、＊＊＊＊だけに見せてあげる」
+"I'll only ever show them to you."
+彼女は上半身のシャツを自分で少しだけ上げてみせた。
+she pulled her blouse up just a little
+「どう？」
+"How are they?"
+「綺麗だよ」
+"They're beautiful."
+美香恵は少しだけ見せると、またすぐにシャツを下ろして隠してしまった。
+after a quick glance she pulled her blouse down
+ナ５。・
+p
+「あれ・・・」
+"Hey..."
+「えへへ」
+"Heh heh."
+「もうおしまいよ」
+"That's it."
+「それだけ？　・・・もっと見たいな」
+"That's all?...I want to see more."
+「＊＊＊＊の困った顔、かわいい～！」
+"You look cute when you're troubled!"
+「じゃあ・・・もう一回だけね」
+"Then ...only one more time."
+ナ４。・
+p
+「チュッ」
+smack
+俺は素速く乳首へキスをした。
+I quickly kissed her nipple."
+「あっ・・・・[EB9F]」
+"Oh..."
+彼女は体全体をビクッと震わせて、目を閉じた。
+her whole body shivered and then closed her eyes
+ンッグングング・・・・・ピチャピチャ。
+ummm....kiss kiss
+乳房の周り全体に舌を這わせて一周させ、その後は乳頭を口に含み引っ張る。
+I circled her nipple with my tongue and them put it in my mouth and sucked
+「ああっ・・・だめっ、＊＊＊＊」
+"Ahh...no ＊＊＊＊."
+巧みに舌を駆使して乳房を愛撫し続けると美香恵の乳首は少しだけ大きくなってきた。
+as I caressed her breast with my tongue, Mikae's nipple grew harder
+彼女の荒くなっている息が俺の頭にかかり、僅かに感じてきている様子がうかがえる。
+I could hear her breathing hard above my head and knew she was excited
+「はあっ・・・・あっ・・・＊＊＊＊」
+"ahh...oh ..＊＊＊＊"
+「美味しいよ・・・」
+"They're delicious..."
+「やだ・・・・エッチ！」
+"No... you're dirty!"
+「美香恵の事、好きだからエッチな事もしたいと思うんだ」
+"I love you, that's why I want to do dirty things to you."
+「・・・・・・・・・・・・・でも」
+".......but"
+「でも？」
+"But?"
+「いいわ、貴方がそう言うなら。　でも、ベッドで・・・・・お願い」
+"OK, but let us go to bed first...please."
+俺は美香恵を両腕に抱きかかえベッドの上に丁重に寝かせた。
+I carried her to the bed and laid her down
+「・・・・・・・・・・・・・・・」
+"......"
+「この服も脱いじゃおうか？」
+"Shall we take our clothes off?"
+「脱がせて・・・」
+"Take them off for me..."
+短いスカートの下には可愛いパンティがのぞき、スカート本来の役目は、なにも果たしていない。
+her cute knickers were showing from under her skirt
+「スカートから脱がせていいかい？」
+"Can I take your skirt off first?"
+俺は彼女のスカートを脱がせてあげた。
+I took her skirt off
+「やん」
+"No..."
+パンティの上から中指を使ってギュッと押してみる。
+from over her knickers I pressed down my middle finger
+「あん☆・・んっ」
+"Ahh..."
+俺はそこに刺激を与え続けながら、美香恵の口や首筋やにキスをする。
+I continued to stimulate that part while I kissed her mouth and neck
+「＊＊＊＊・・・っ、もっと・・・キスして」
+"＊＊＊＊...kiss me...more."
+パンティは湿りはじめて、少し透明に透けている。　そして柔らかな膨らみを隠す白いシャツを脱がせた。
+her knickers are wet and I could see though a little. I took the white blouse off that hid her soft breasts
+形の良い乳頭を口で吸い、その後下へと移動させて『おへそ』にも舌を入れてくすぐる。
+I sucked her well shaped nipple and them moved down and put my tongue in her belly button to tickle it
+「や、やだ・・・・んっ」
+"N.. no..."
+手をパンティにかけてゆっくりと下ろした。
+I put my hand on her knickers and pulled them down
+「あんまり見ないで」
+"Don't look so much."
+よく見えるように両側を指で開き、尖らせた舌の先端をその中央にグイとめり込ませる。
+I opened her cunt with my fingers so I could see it well, then pushed my tongue inside
+「あぁぁっ！　だめっ・・・[EB9F]」
+"Aaahhh! No..."
+次には舌を上下に震わせて、わざと卑猥な音をたてる。
+I moved my tongue up and down
+すると、奥のほうからはトロリとした透明な蜜が序々にあふれ出してきた。
+then a clear honey flowed from it's depths
+「・・・うっん・・・はぁあっ・・・やめて・・・」
+"...oooh...stop.."
+さらに上にある陰核を唇で咥えて、キュッと弱々しく吸いあげる。
+I put the pearl above it into my lips and sucked gently
+「＊＊＊＊・・・っ、・・・だ、だめぇ」
+"＊＊＊＊... n.. no."
+「可愛いよ・・・」
+"You're charming..."
+（そろそろいいかな）
+(I think it's about time)
+俺は美香恵の瞳をみつめながら聞いた。
+I asked as I looked into Mikae's eyes
+「入れるよ、いい？」
+"I'm going to do it, OK?"
+「うん・・・で、でもぉ」
+"Yes...but."
+「ここまで来たらもう止まれないよ」
+"I can't stop now."
+「・・・・・・・・・うん、でも優しくして」
+".....OK but be gentle."
+俺も服を脱ぎ捨てて、元気にいきり立っている息子を美香恵に見えるように見せた。
+I pulled my clothes off and stood so she could see my erect penis
+「・・・・・・・・・・」
+"....."
+美香恵は無言でジッと見つめている。
+Mikae looked at it in silence
+「触ってみる？」
+"Do you want to touch it?"
+美香恵はゆっくりと手を伸ばし、恐る恐る触った。
+Mikae slowly put her hand out and touched it
+「大きい・・・こんなのが、入っちゃうの？」
+"It's big... is that going to fit in me?"
+「ゆっくり入れるから・・・大丈夫だよ」
+"I'll go slow...don't worry."
+つ（やオろみや
+3N_WIN
+俺は美香恵の両足を持ち上げて入れる準備をしたが、途端に
+I pushed her legs up so I could penetrate then 
+彼女は両手でアソコを隠して恥ずかしがる。
+she covered her honeypot with her hands
+【美香恵】
+[Mikae]
+「あっ、やだっ！　こんな恥ずかしい格好・・・」
+"Oh no! This is embarrassing..."
+【＊＊＊＊】
+[＊＊＊＊]
+「手をどけてくれないと入れられないよ」
+"I can't put it in if you've got your hands there."
+【美香恵】
+[Mikae]
+「で、でもぉ・・・」
+"But..."
+【＊＊＊＊】
+[＊＊＊＊]
+「すごい力だ・・・[EB9F]」
+"You're so strong..."
+【美香恵】
+[Mikae]
+「恥ずかしいっ」
+"I'm embarrassed."
+【＊＊＊＊】
+[＊＊＊＊]
+「コチョコチョコチョコチョ！」
+"tickle tickle tickle!"
+【美香恵】
+[Mikae]
+「・・・う・んっ・・・[EB9F]」
+"...humm..."
+【美香恵】
+[Mikae]
+「キャハハハハハハハッ！や、やめて・・・よっ」
+"Hahahahaha! Stop it."
+【＊＊＊＊】
+[＊＊＊＊]
+「それっ！」
+"There!"
+俺はそのスキに彼女の両手を別の場所にどけて無防備な体勢
+while she was laughing I pushed her hand away 
+にした。
+couldn't change her mind again
+【美香恵】
+[Mikae]
+「あっ！　ずる～い」
+"Oh! That's unfair."
+【＊＊＊＊】
+[＊＊＊＊]
+「ふふふ、観念したまえ」
+"Har har har... you'd better give up."
+両指で左右に広げて入りやすいようにする。
+I opened it with my fingers so it was easier to penetrate
+【美香恵】
+[Mikae]
+「あ～ん[EB9F]・・・恥ずかしいよぉ～」
+"Oh...I can't bear it."
+【＊＊＊＊】
+[＊＊＊＊]
+「じゃあ、入れるよ」
+"I'm coming in."
+俺は、その場所へゆっくりと押しあてた。
+I slowly tried to enter her
+【美香恵】
+[Mikae]
+「アッ☆・・・ぁぁぁああっ☆！！」
+"Oh...ooohh!!"
+【＊＊＊＊】
+[＊＊＊＊]
+「ん・・[EB9F]　キツイ・・・[EB9F]」
+"hum...she's tight..."
+彼女の入口から３センチ程の所までで止まってしまった。
+I only got 3cm in her and stopped
+【美香恵】
+[Mikae]
+「いやん・・・入らないっ」
+"Oh no...it won't go in."
+【＊＊＊＊】
+[＊＊＊＊]
+「もっ、もっと力を抜いて・・・[EB9F]」
+"You've got to relax more..."
+【美香恵】
+[Mikae]
+「あ・あ・あ・あ・あ・あ・あ・あ・・・・・っ[EB9F]」
+"Oh oh oh oh oh..."
+狭い隙間を序々に奥へ奥へと入っていく。
+I slowly proceeded into the narrow opening
+【＊＊＊＊】
+[＊＊＊＊]
+（あっ、・・すごいっ・・熱くて、締まるっ！）
+(wow...great...it's hot and tight!)
+【美香恵】
+[Mikae]
+「＊＊＊＊・・・・・いっ・・痛いっ・・・よぉ！」
+"＊＊＊＊...it...hurts..!"
+俺はそのままゆっくりと最後まで押込んでいった。
+I gradually got my whole penis inside of her
+【美香恵】
+[Mikae]
+「はあ・・はあ・・はあ・・・っ、・・・これで、＊＊＊＊と一つになれたのね・・・」
+"ha ..ha.. ha...I'm one with you now..."
+【美香恵】
+[Mikae]
+「＊＊＊＊は、気持ちいい？」
+"Does it feel good for you?"
+【＊＊＊＊】
+[＊＊＊＊]
+「・・・ああ、美香恵、痛くないか？　大丈夫か？」
+"...yeah, Mikae, does it hurt? You OK?"
+【美香恵】
+[Mikae]
+「私はいいの・・・・こうして一緒になれた事が、嬉しい」
+"I'm OK...I'm just glad we're as one."
+【＊＊＊＊】
+[＊＊＊＊]
+「いい、動くよ？」
+"I'm gonna move."
+【美香恵】
+[Mikae]
+「あっ・・・・ゆ、ゆっくりして・・・お願いっ」
+"Do it slowly...please."
+俺は言うとおりにゆっくりと動きはじめた。
+I moved slowly as she requested
+【美香恵】
+[Mikae]
+「あっ☆」
+"Ooh!"
+【美香恵】
+[Mikae]
+「も、もっとゆっくりぃ・・・[EB9F]」
+"Slower..."
+【＊＊＊＊】
+[＊＊＊＊]
+「こんなかんじ？」
+"Like this?"
+【美香恵】
+[Mikae]
+「はあっ・・＊＊＊＊が・・・、お腹の中で・・・っ」
+"Oh...＊＊＊＊...inside of me.."
+ズ・・にゅゅゅっ！　にゅっ！　にゅっ！　にゅっ！
+I moved so slowly!
+【美香恵】
+[Mikae]
+「うあっ・・・！　はあぁぁん・・・あっあぁぁぁん・・・[EBA6]」
+"Oooh..! Oh no...oooh....."
+ずにゅっ！　にゅるっ！　ずん・ずん・ずん・ずにゅにゅっ！
+It felt so good thrusting in and out of her
+【美香恵】
+[Mikae]
+「んっ・・・うんっ・・・はあぁぁぁっ」
+"uummm...haa."
+俺は美香恵の口をふさぐようにして熱く激しいキスをした。
+I gave Mikae a passionate kiss
+絡みあう口の隙間を割って彼女の熱い吐息が俺の中に流れてくる。
+as we kissed her burning breath flowed into me
+【＊＊＊＊】
+[＊＊＊＊]
+「美香恵も、う・・動いてごらん・・・っ」
+"You try ...moving too..."
+【美香恵】
+[Mikae]
+「はあっ、あっあっ・・・はあぁぁっ！　・・・っ、あん・・・ああぁん・・・・うっ・・・ん、あはんっ・・・あっ」
+"oh aahhh... Ah! ..ugn"
+【＊＊＊＊】
+[＊＊＊＊]
+「・・・美香恵っ・・俺も・・・もうっ・・そろそろ！」
+"...Mikae..I'm...gonna ..cum!"
+【美香恵】
+[Mikae]
+「・・・・・いいの・・・我慢しなくても・・・いいのよ」
+"...it's OK...you don't have to ...hold back."
+【＊＊＊＊】
+[＊＊＊＊]
+「・・・・うっ！！」
+"...Ah!!"
+【美香恵】
+[Mikae]
+「あっ　＊＊＊＊っ・・・！」
+"Oh ＊＊＊＊...!"
+どぴゅっ！　ぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅ～！
+throb! squiiiiirrrttt!
+俺は美香恵のお腹の上にたっぷりと出してしまった。
+I came all over Mikae's stomach
+「はあ・・・はあ・・・」
+"ha...ha..."
+「初めてのキスから・・・こんな事までしちゃうなんて・・・」
+"My first kiss...leading to all this..."
+「ねえ・・・気持ちよかった？」
+"Was ...it good for you?"
+「とても良かったよ」
+"It was great."
+「・・・・嬉しい」
+"....I'm glad."
+「あんまり良くなかった・・・[EB9F]」
+"It wasn't that great..."
+「・・・・・・・・ごめんなさいね」
+"....I'm sorry."
+俺達ふたりは、その後もしばらく抱き合ったままでいた。
+we lay there in each others arms for a while
+「・・・・＊＊＊＊」
+"...＊＊＊＊"
+「なに？」
+"Yeah?"
+「私、そろそろ帰ろうかな」
+"I'd better go home."
+「そうだな、もうこんな時間か」
+"Of course, it's getting late."
+俺は彼女の体を優しく抱きしめて、もう一度キスした。
+I hugged her and kissed her once more
+自　分　の　部　屋
+    my room     
+「じゃあ・・・また明日、学校でね」
+"See you...at college tomorrow."
+「ああ、気をつけて帰れよ」
+"Yeah, take care."
+「うん、ありがとう・・・・それじゃね」
+"Thanks ...see you."
+俺はその後、気恥ずかしい雰囲気の中で彼女の余韻を感じていた。
+I was enjoying the feeling and atmosphere she left behind
+その時突然にチャイムが鳴った。
+then the door bell suddenly rang
+ピンポーン！
+ding dong!"
+「誰か来たわよ？」
+"Someone's here?"
+「今は５時５９分・・・・・・・！！」
+"It's 5:59.....!!"
+ガチャ！
+click!
+「あら、ドアの鍵が開いている・・・・・」
+"Oh, the door's open..."
+「＊＊＊＊君、今日のデートの約束ですけ・・ど・・・ああっ！！」
+"＊＊＊＊, about the date today...OH!!"
+「麗美ちゃん！！」
+"Remi!!"
+彼女は、俺と美香恵が裸で抱き合っている所へ突然入ってきた。
+she came into where Mikae and I were naked in each others arms
+「きゃあっ！！」
+"OOOH!!"
+「・・・・・・・・・・・・・・・」
+"....."
+「麗美ちゃん、違うんだ！」
+"Remi, it's not what you think!"
+麗美の手がブルブルと震えている。
+Remi's hands are shaking
+「ひ・・ひどいっ・・・・」
+"You're... a scumbag."
+「私、帰ります！！」
+"I'm leaving!!"
+バタンッ！！！　タッタッタッタッタッタッ・・・・・
+slam!!! tap tap tap tap....
+「・・・・・・[EB9F]」
+"......"
+「・・・・・・・・・・・・・[EB9F]」
+"........"
+「・・・デートの約束？・・・・＊＊＊＊、これはどういう事？」
+""...a date? ...＊＊＊＊, what's fucking going on?"
+「いや、その、つまりだな・・・[EB9F]」
+"Well, you see, that's ..."
+「・・・・・・・わ・・わ・・私も帰るわ！！」
+"...I'm ..I'm leaving too."
+「いや・・・・ま、待って！！」
+"No...wait!!"
+その後、美香恵も外へ出て帰ってしまった。
+after that Mikae also left
+（これは・・・超最悪かもしれん）
+(this is ...the pits)
+選択
+choice
+【愛してる】
+[I love you]
+【大嫌いだ】
+[I hate you]
+選択
+choice
+【友達だ】
+[we're friends]
+【恋人だ】
+[we're lovers]
+選択
+choice
+【とても良かったよ】
+[it was great]
+【良くなかったなあ】
+[not so good]

@@ -1,0 +1,76 @@
+公　　　園　　　前
+in front of park
+「は、はははは・・・ハアァァァ～クション！！」
+"Ha aa aahhh....ahchooo!!"
+（まだ冬でもないのに、風邪かな？　いや！きっと、誰かが噂でもしているに違いない）
+(It's not even winter and I've got a cold? No! Someone must be talking about me)
+ドン！！
+bump!!
+「おっと、すまんな」
+"Oops, sorry."
+「いててて・・・[EB9F]」
+"Oouch..."
+「君もちゃんと前を向いて歩きたまえ！」
+"Oi! Watch where you're going!"
+「前は、ちゃんと向いているよ！　そっちからぶつかってきたくせに」
+"I was watching! You're the one who bumped into me."
+「おや、何か落としたようだよ・・・・・・」
+"Look, you've dropped something..."
+男は、地面に落ちた俺の生徒手帳を拾いあげた。
+the man picked up my student ID card from the ground
+「これは、君の生徒手帳かね？」
+"Is this your ID?"
+「ハッ・・・・そうだよ、早く返してくれよ」
+"Yes, can I have it back please."
+「明愛学園の、３年Ｂ組・・・・？」
+"Meiai college, 3rd year, group B...?"
+その男は、自分の生徒手帳を見た瞬間に沈黙して動かなくなった。
+the man fell silent the moment he saw my student ID card
+（どうしたんだ、突然黙りこんで？　早く返してほしいんだけど）
+(what's with him, he's gone all quiet? I wish he'd give it back)
+「・・・・・はっ」
+".....uh."
+「いやいや・・・すまんな、はい返すよ」
+"Oh er...sorry about that, here you go."
+男は、ハッと気づいた様に生徒手帳を返した。
+he gave me my ID as if he just realised it was in his hands
+「・・・・・・・・・・・・・・・・・・・・・・・・・」
+".............."
+（なんなんだ今の男は、人の顔をジッとにらんだりして・・・）
+(what the hell was wrong with him, staring at me like that)
+廊　　　　　　　下
+    corridor    
+「＊＊＊＊君、おはよう！」
+"＊＊＊＊ good morning!"
+「良子ちゃん・・・・おはよう」
+"Ryoko...morning."
+「こ、この前はごめんなさいね、気分悪くしたでしょう？」
+"I'm sorry about the other day, hope you weren't offended?"
+「そりゃ気分は、悪かったよな」
+"I must say I wasn't too happy."
+「・・・・・やっぱり」
+"....I knew it."
+「そんな事はないよ」
+"That's OK."
+「でも・・・」
+"But..."
+「良子ちゃんの今日の笑顔を見たら忘れちゃったよ」
+"I've forgotten all about it 'cause I've seen your smile."
+「＊＊＊＊君・・・」
+"＊＊＊＊..."
+「これからも、よい『お友達』でいてくれるかしら？」
+"Will you still be my good 'friend'?"
+「そ、それはもちろん（お友達か・・・）」
+"Of..course I will (a friend who...) "
+「良かった・・・・」
+"Thanks..."
+「さあ、そろそろ朝礼が始まるから教室に行こうぜ」
+"It's almost morning register, we'd better go to class."
+「うん！」
+"Yes!"
+選択
+choice
+【そりゃ気分が悪かったよ】
+[I must say I wasn't pleased]
+【いや、そんな事はないよ】
+[That's OK]

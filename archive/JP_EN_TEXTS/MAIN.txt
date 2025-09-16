@@ -1,0 +1,214 @@
+自　分　の　部　屋
+    my room     
+「ふわぁ～っ、よく寝た。　今日も一日がんばるぞ！」
+"Ahhh, I slept well. I'm gonna really go for it today!"
+自　分　の　部　屋
+    my room     
+「明かりを消して・・・と」
+"Let me switch the light off..."
+「寝るとするか・・・・・」
+"I'm going to sleep..."
+（・・・・・ゴホンゴホン・・・ぐうぐう）
+(....cough cough....ZZZZ)
+ヘックション！！
+atchooo!!
+（おやすみっ・・・・・・・ぐうぅ）
+(good night...ZZZ)
+（明日も・・ガンバル・・・ぞ・・・・・）
+(I'm gonna ...try hard....tomorr...)
+（明日もいいことあるといいな・・・むにゃむにゃ）
+(hope something good happens tomorrow....)
+ジメジメとした梅雨が明け、あわただしい時はすぎて今年はもう７月を迎えていた、明るく暖かな日差しの中を走り過ぎ去っていったその半年間の出来事を私は忘れない。
+the rainy season had ended and the busy time had passed. it is now July and I will not forget the warm bright sun that passed by in those 6 months
+その思い出の日々は今でも私の記憶の中で生きている。
+those memories still live in me
+そう、それは木洩れ日の様にまぶしく、雨の様にもの悲しく、そして夢の様に暖かかった。
+they are bright like rays of sun coming though the leaves, melancholy like the rain and heart warming like a dream
+ここにその思い出を書き印すことにしよう。
+ I have decided to put those memories down on paper
+俺の名は＊＊＊＊。この町の学校に通う普通の高校３年生だ。
+my name is ＊＊＊＊. I am an ordinary senior college student in this town
+親と離れて暮らし始め、今はアパートでの一人暮らし生活をしている。
+I have left my home and am now living on my own in a flat
+高校生活もあとわずか・・・残り少なくなったこの学園生活を楽しむ為に、いつもは遅刻ばかりして走って行くこの道も、少しばかり
+my student days are almost over...in order to enjoy the remaining days I get up earlier than I use to and 
+の早起きをして歩いていた。
+ walk the street to college, the street that I so often ran because I would be late for college
+自　分　の　部　屋
+    my room     
+「今日で一学期も終了かあ」
+"Today's the end of the first term."
+「今日から待望の夏休みだ！！」
+"From today it's the summer holidays!!"
+今日は、午後から水泳大会があります。
+there is a swimming contest this afternoon
+「今日から新学期だ、がんばるぞ！！」
+"Today's the start of a new term, here we go again!!"
+「ゴホ・・・ゴホッ・・・・・風邪ひいたかな！」
+"(cough...cough)....maybe I've got a cold!"
+「今日は８月１５日だ・・・たしか美香恵と約束が・・・」
+"Today is August the 15th...I think I made a promise with Mikae..."
+「今日は昼に『麗美』ちゃんとデートの約束があったな」
+"I have a date with Remi this afternoon."
+「確か、今日はみゆきちゃんと約束があったな・・・」
+"I've made a date with Miyuki today..."
+「確か今日の『昼』にみゆきちゃんと約束があったな・・・」
+"I have a date with Miyuki this afternoon..."
+「９月７日・・・今日は、まゆみちゃんと約束があったな」
+"September the 7th ...I've got a date with Mayumi."
+「今日は、『麗美』ちゃんと約束の日だぜ！」
+"I've got a date with Remi today!"
+「今日の夜には、麗美ちゃんとデートの約束があったな」
+"I have a date with Remi tonight."
+今までのデータをセーブしますか？
+do you want to save the game?
+「・・・・・・・・・・・・・・・・・・」
+"......"
+「なんだか一人暮らしも、さみしくなってきちゃったな」
+"Living alone is getting pretty lonely."
+「・・・・・・・・・・・・」
+"......"
+「思い出すと今まで色々な女の子と出会ってきたよなぁ」
+"Thinking back, I've met many girls."
+「よく考えると、片っ端から『好きだ』の連発ばかり言っていたような気もするな・・・」
+"Come to think of it I've been saying 'I love you' to all of them..."
+「俺は一体誰が一番好きなんだろうか？」
+"I wonder who I'm really in love with?"
+「・・・・俺が好きな人は」
+"...the person I love is..."
+選択
+choice
+【森　川　美香恵】
+[Mikae Morikawa]
+【姫　川　麗　美】
+[Remi Himekawa]
+【田　中　みゆき】
+[Miyuki Tanaka]
+【上　条　まゆみ】
+[Mayumi Kamijo]
+【藤　本　智恵美】
+[Chiemi Fujimoto]
+【佐　山　美沙子】
+[Misako Sayama]
+【島　崎　良　子】
+[Ryoko Shimazaki]
+【三　好　亜里沙】
+[Arisa Miyoshi]
+【松　宮　弓　美】
+[Yumi Matsumiya]
+【ア　　ン　　ゼ】
+[Anze]
+選択
+choice
+【データをセーブする】
+[save the game]
+【データセーブしない】
+[do not save the game]
+駅　　　　　　　前
+ train station  
+「ハア・・・ヒイ・・・フウ・・・」
+"hah...hah...hah....(panting)"
+「金になるとは言え、このバイトは体力を極端に消耗するな」
+"I know it's good money but this job really drains you."
+「ハア・・・ヒイ・・・フウ・・・」
+"hah...hah...hah....(panting)"
+「こら～っ！　新入り！　休むんじゃねえぞ、休まず働け！」
+"Oi! Kid! Don't just stand there, get on with it!"
+（鬼のような現場監督だな、全く）
+(geez, he's like a slave driver)
+「ハア・・・ヒイ・・・フウ・・・」
+"hah...hah...hah....(panting)"
+「あっ！　これはこれは社長様、今日は何の御用で？」
+"Oh! Hello boss, what brings you here today?"
+（誰だろう？・・・お偉いさんが来たみたいだな）
+(who's that?...seems like some one with authority)
+「工事は順調の様子だな」
+"Seems like the work is on schedule."
+「ええっ社長！　スリスリ・・・・予定どおりに、全て順調に進んでいますですはい・・・・・スリスリ」
+"Yes boss! ...every thing is as planned with no troubles..."
+「この工事が完了すれば、明愛電鉄を中心とした我が社のビジネスにも弾みがつく」
+"When this is completed the core of my business, Meiai Dentetsu will also be boosted."
+「社長、携帯に電話が入っております」
+"Excuse me sir, you have a call."
+「うむ」
+"Yes."
+「あぁ、私だ・・・・・・」
+"It's me....."
+「・・・うむ・・・・」
+"....yes...."
+「よし、１時間で行く！　先方にはそう伝えろ！」
+"I'll be there in an hour! Tell my client that too!"
+ポピッ
+click
+「では、しっかりと頼んだぞ」
+"I'll leave it to you."
+「そりゃあもう、我々も最善を尽くしますですハイハイ・・・・・・・・・ごまごま・スリスリ」
+"Yes of course, we'll do our best here...."
+「ひょっとして、今の人がこの工事のオーナーなのかな？」
+"I wonder if he's the owner of all this?"
+「そうだべ、今のが有名な『姫川財閥』の社長だべ」
+"That's right, he's the president of the famous 'Himekawa Financial Group.'"
+「すごいのか？」
+"Is it that famous?"
+「すごいなんてもんじゃないべ・・・この駅周辺のビルのほとんどがあの人の物だべ」
+"It's enormous... most of the buildings around the station belong to him."
+「うへ～っ！　すごいな、大金持ちじゃないか！」
+"Wow! He must be a millionaire!"
+「あの人には絶対に頭があがらないんだべ」
+"Not many people can stand above him."
+駅　　　　　　　前
+ train station  
+「ハア・・・ヒイ・・・フウ・・・」
+"hah...hah...hah....(panting)"
+「おや、誰かと思えば＊＊＊＊じゃないか」
+"Hey ＊＊＊＊, what are you doing?"
+「なんだ俊雄か」
+"Oh it's you Toshio."
+「アルバイトか？　フッフッフ・・・涙ぐましいな」
+"Part-time job, eh? Heh heh...you poor thing."
+「ほっとけ！」
+"Get lost!"
+「＊＊＊＊、よく似あってるぜ」
+"＊＊＊＊, it suits you."
+「うるせー！」
+"Piss off!"
+「＊＊＊＊、そのまま永久就職したらどうだ？」
+"＊＊＊＊, why don't you get a full time job here?"
+「どうせまだ進路は決めていないんだろう？」
+"because I bet you still haven't decided which university to go to."
+「親の七光りで生きている俊雄には分らない努力さ」
+"It's something you would never understand, because you sponge off your parents."
+「俊雄も手伝ってみるか？」
+"Do you want to give it a try?"
+「遠慮しておくよ、アルバイトなんて僕のライフスタイルには似あわないのでね」
+"No thanks, it doesn't suit my lifestyle."
+「おっと、もうそろそろ行かなくては・・・・」
+"Oops, I've got to go..."
+「昨日ナンパした女の子を待たせているのでな・・・フッフッフッフッフッ　今からデートなのさ」
+"I picked up this girl yesterday...he he he ....we're having a date."
+「俊雄にゲットされる女か・・・大した事はないな」
+"You picked up a girl?...I bet she is not much to look at."
+「明日は朋子、明後日は舞、明々後日は留美・・・・とデートの予定がぎっしりだ」
+"Tomorrow is Sasami, the day after is Ayeka,the day after that is Ryo-ohki...I'm fully booked."
+「フウ・・・さすがの僕も体力が保つか心配だぜ」
+"Ha...I'm a bit concerned that even I might get run down."
+「ハーッハッハッハッハッハ！」
+"Haaaar har har har har har haaar!"
+「俊雄が体力尽きて途中で倒れてくれれば、世界中の女が助かるだろう」
+"If you collapse from fatigue, all the women in the world will be saved."
+「それから、＊＊＊＊。　美香恵さんは僕のことが好きらしいから、僕の許可なく話をしてはいかんぞ」
+"Oh, and ＊＊＊＊. I think Mikae likes me, so don't even think about talking to her without my permission."
+「何の冗談を言っているんだ？」
+"What are you going on about?"
+「美香恵さんが君とも話してくれるのは、只の幼馴染みだからというちっぽけな理由なのだから、くれぐれも勘違いせんでくれよ」
+"The reason Mikae talks to you is because you're childhood friends, so don't think it's any more than that."
+（まったく学園一の種まき野郎だな、あいつは・・・）
+(he's such a sleezebag...)
+（・・・・・・）
+(....)
+（ハッ・・・俺も人のことは言えないか？）
+(oh...look who's talking)
+「さて仕事仕事・・・と」
+"I've got work to do..."
+今日のアルバイト料　３，０００円を手に入れた。
+todays part-time job, 3000 yen paid in

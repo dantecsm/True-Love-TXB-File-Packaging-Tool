@@ -1,0 +1,88 @@
+公　　　園　　　前
+in front of park
+「こんにちは、＊＊＊＊さん。　また絵を描いてるんですか？」
+"Hello ＊＊＊＊. Are you drawing again?"
+「みゆきちゃん！」
+"Miyuki!"
+「このあいだはごめんなさい、迷惑だったでしょう？　私」
+"Sorry about the other day, I must have troubled you."
+「水泳大会の時の事か・・・」
+"You mean about the swimming contest..."
+「・・・よかった、私って子供の頃から体が弱くって・・・・・・ときどきああなってしまうの・・・」
+"...I've been weak since childhood... and sometimes things like this happen."
+「あんまり気にすんなよ、それに女の子って少し弱々しい位が可愛くて好きだぜ」
+"Don't worry. Girls are cuter if they're a little feeble."
+「・・・どうして？」
+"Why?"
+「男はね、助けてあげなきゃとか、守ってあげたいって思うものだから」
+"'cause men like to protect girls like that."
+「＊＊＊＊さんて、いつも優しいんですね・・・」
+"You're always kind..."
+「やっぱり・・・・そうですよね・・・」
+"I know... I'm weak..."
+「あんまり体を無理させるんじゃないぞ！」
+"Don't push yourself too hard!"
+「ごめんなさい・・・・・・・わたしって最低ですね」
+"I'm sorry... I'm such a fool."
+（・・・・すこしキツかったかな・・・・）
+(...perhaps I was too harsh...)
+「＊＊＊＊さんは、美香恵さんとは昔からのお友達なんですって？」
+"I heard that you and Mikae have been friends for a very long time."
+「ああ、そうだよ」
+"That's right."
+「良く、噂は聞いていますよ」
+"I hear the rumours."
+「俺の噂？　どんな噂だろ・・・」
+"About me? What kind of rumours..."
+「秘密です」
+"That's a secret."
+「ところで、みゆきちゃんの家ってこの近くなの」
+"By the way, do you live around here?"
+「ええ、この公園の向こうにある赤い屋根のおうちがそうです」
+"Yes, it's the house with the red roof on the other side of the park."
+（あっ、あそこか）
+(oh, there)
+「それじゃあ、＊＊＊＊さん、絵の方も頑張って下さいね」
+"See you, keep the work up on that drawing."
+「あれ・・もう行っちゃうの？」
+"You going already?"
+「これから、デートなんです」
+"I've got a date."
+「デート！？　だ、誰と！」
+"A date!? With whom!"
+「クスクス」
+"(giggle)"
+「誰とデート？？」
+"Who is the date with?"
+「・・・美香恵さんと」
+"...with Mikae."
+「な～んだ、女の子同志か・・・俺はまたてっきり」
+"Oh with a girl... I thought it was..."
+「・・・・てっきり？」
+"...it was?"
+「なんでもないよ」
+"Nothing."
+「＊＊＊＊さんて、美香恵ちゃんの言っていた通りの人ですね」
+"You're just as Mikae said."
+「あのやろう、どうせ無茶苦茶な事ばかり言ってるだろう」
+"I bet she's been saying bad things about me."
+「いえ、違いますよ・・・」
+"No she hasn't."
+「じゃあ、さようなら」
+"Good bye."
+「そうか、じゃあな！また会おうぜ」
+"OK, see you then!"
+（美香恵とデートね・・・・・俺はてっきり彼氏がいるのかと思ったよ）
+(a date with Mikae...I thought it was with a guy)
+（・・・・まさか同性愛なんて事はないよな・・・・）
+(...don't tell me she's a lesbian...)
+（・・・・・・）
+(....)
+（考えないでおこう）
+(I'm not going to think about it)
+選択
+choice
+【とんでもない】
+[of course not]
+【ああそうだね】
+[you're right]

@@ -1,0 +1,54 @@
+廊　　　　　　　下
+    corridor    
+（さてと、昼休みだぜ）
+(yes, it's lunch break)
+「あのう、すみません」
+"em...excuse me."
+「ん、誰だ？　俺を呼ぶのは？」
+"Who is it? Who's calling?"
+「あっすみません[EB9F]・・・・・・ハンカチ落としましたよ」
+"Excuse me....you dropped your hanky."
+「はい！」
+"Yes!"
+「あれ、いつのまに？」
+"When did that happen?"
+「気をつけて下さいね・・・・・・・それでは」
+"Here you are....bye."
+「行ってしまった・・・」
+"She's gone..."
+（可愛かったけど・・・・あっ名前聞き忘れた・・・[EB9F]）
+(she's cute but....I forgot to ask her name...)
+「＊＊＊＊、お前美味しかったな！」
+"＊＊＊＊, that was pretty good!"
+「えっなんで？」
+"What was?"
+「今のは美術部の『田中　みゆき』だろ」
+"That was "Miyuki Tanaka" from the art club."
+「和彦、お前って何でも知ってるな」
+"Kazuhiko, you know everything."
+「ああ、この学園内でもかなりの高ランクだぜ！あの娘」
+"Yeah, she's rated pretty highly in this college!"
+「ランクって・・・・」
+"Is she...?"
+「ああ・・・俺もみゆきちゃんの、お友達でいいからなりたいものだぜ」
+"Yeah...I wish I could be, at least be her friend."
+「他に彼女に関する情報とか、ないのか？」
+"Do you have any other information on her?"
+「情報ね・・・」
+"Let's see, information..."
+「ちょっと待て、俺はいつから情報屋になったんだ？」
+"Wait a minute. When did I become your intelligence agent?"
+「まあ、いいからいいから」
+"Aw, come on."
+「これといって無いが・・・・・・・体が弱くて、時々早退してるみたいだぜ」
+"I haven't got much ...she's not well and leaves college some times."
+「なにか重い病気にでもかかってるのかな？」
+"Does she have a serious illness?"
+「いや、軽い貧血みたいだけど」
+"No, I think she's just anaemic."
+「そうか」
+"I see."
+「じゃあ、またな」
+"Well, see 'ya."
+（『田中　みゆき』ちゃん美術部ね、おぼえとこ・・・）
+("Miyuki Tanaka" of the art club, I'll remember that...)

@@ -1,0 +1,472 @@
+校　　　門　　　前
+ college gates  
+「＊＊＊＊！お・は・よ・うっ[EBA8]！」
+"＊＊＊＊! Good moooooooooorning!!"
+「おやぁ、今日は遅刻じゃないみたいねぇ、どうしたのかしら？雪でも降るんじゃないのかしら・・・感心感心」
+"Wow, looks like you're actually not going to be late for college today.How did you manage that? Especially considering it might snow today"
+「またお前か！いつもの事とはいえ突然しゃしゃり出て来やがってうるせーんだよ」
+"You again, huh? You're always sticking your nose in, aren't you?"
+「いつ登校しようと俺の勝手なんだから！ほっといてくれ！」
+"It's no business of yours when I come to college, just leave me alone, will you!"
+このやかましくって色気のない女は、『森川　美香恵』。
+This Tom boyish, loudmouth girl is called Mikae Morikawa.
+俺と美香恵は世間で言う所のいわゆる幼なじみってやつだが、いつもいつも人の欠点を見つけては、つっこみばかりを入れて来やがるだけのとにかく煩わしくて、うっとおしい女だ。
+If you want to know what the relationship is between us, we're what you'd call childhood friends.But what really gets me about her is that she can't stop herself from digging up people's faults all the time. It's so depressing.
+「何よ！私と＊＊＊＊の仲じゃないの、そうやっていつもテレるんだから・・・・・・・・・・かあーいいよっそういう所が！！」
+"What's up with you? Aren't we good friends? You're so cuuuuuuuute when you get all shy like that!" 
+「わわわっ！何言うんだ、こんな所を誰かに聞かれでもしたら・・変な誤解されるだろっ！誤解をっ！」
+"Aaaaaaargh! What are you talking about?If someone heard us talking about stuff like this ... they'd misunderstand."
+「あーら！どーせあんたなんか相手にしてくれる女の子なんていないんだから」
+"Hah! It's not like you've got a girlfriend anyway."
+「せっかく『奉仕』の気持ちで話してあげているこの私にその口の聞き方はないんじゃなぁい？」
+"I'm talking to you like this out of the goodness of my heart, so you can lay off that attitude with me."
+「うるせえんだよ、うぬぼれもいい加減にしろっ」
+"Hey, cut out the holier than thou stuff, OK?"
+「いつも何か勘違いしていないかお前は？　誰がいつ奉仕で相手してくれと頼んだんだ！」
+"You're always getting the wrong end of the stick. Who the heck asked to you to talk to me in the first place?!"
+「俺はもっと自由に生きたいんだから、ほっといてくれよな、頼むから」
+"Look, I want to live my life in peace, so just do me a favour and leave me alone, OK?"
+「何よっ！　私の事キライなのっ？」
+"What's wrong with you? Do you hate me?"
+選択
+choice
+【好　　き】
+[like]
+【嫌　　い】
+[hate]
+【Ｈしたい】
+[want to have sex]
+　
+
+　
+
+　
+
+「好きだよ」
+"I like you."
+「嘘！　目が笑ってるもん」
+"Liar! Your eyes are laughing."
+「誰もそうは言ってないだろ？　ただ俺はもう少し自由にしておいてくれと言っているだけだぜ、頼むよ」
+"Hasn't anyone ever said that to you? It's just that I'd really like to be left to myself a little more, OK?"
+「・・・・・・・・・」
+"........................."
+「・・・・・・・・・・・・・・・・ホントに？」
+"......really?"
+「何だか急に可愛らしくなっちゃって、お前のそういう女らしい所が気にいっているんだよ俺は」
+"I dunno, but suddenly you looked really cute, and your feminine side appealed to me."
+「やだ・・・・・＊＊＊＊ったらどうしたの今日は、何か変な物でも食べたんじゃ・・・・・・・・・・・いつもと違うよ」
+"Uh... what's got into you today, ＊＊＊＊? Must have eaten something strange... you're not your usual self!"
+「どんな物を食べたらこうなると言うんだ！　さあさあ本当に遅刻するから早くいこうぜ」
+"Whatever I ate, that's how I feel now! Well, we're really going to be late, so let's go!"
+「うん[EBA8]」
+"Yeah..."
+「ああキライだね、俺はお前みたいなうるさい女がだいっ嫌いなんだ。少しは俺を自由にしておいてくれよ」
+"I hate you! Nosey girls like you really get up my nose. Just leave me alone, will you!"
+「あーらそうっ、だったらもう二度と口聞いてやんないぞ！いいの？こんなかわいい娘に口聞いてもらえないなんて」
+"Oh, is that right?! Well, in that case I'll never open my mouth in front of you again!How's that? This beautiful girl will never speak to you again!"
+「ああっなんて不幸な＊＊＊＊君！・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・同情するわ」
+"You pathetic guy -- I feel sorry for you."
+「ったく、口の減らない女だなあ・・・さあいそがないと本当に遅刻するぞ。早くいこうぜ早く！！」
+"Damn it, you really have to have the last word, don't you? Look, if we don't hurry, we're really going to be late, so let's go, quick!"
+「あん！待ってよぉ！」
+"Hey, wait! ..."
+「エッチしたい・・・・・・・」
+"I want to have sex with you"
+「エッ・・・・・？」
+"Wha--?"
+「俺は美香恵の事を食べちゃいたい程に好きなんだ・・・」
+"I like you so much I could just eat you."
+「やだっ・・・・・・・・・・・＊＊＊＊のスクベ！」
+"Yuck ... what a dirty mind!"
+「あっ、＊＊＊＊・・・急がないと本当に遅刻しちゃうわよ、急ぎましょう！　・・・・もうっ困ったひとねっ」
+"Uh, ＊＊＊＊ ... if we don't hurry, we'll really be late. Let's go, shall we? ＊＊＊＊, I don't know what to do with you..."
+廊　　　　　　　下
+    corridor    
+ナか。・
+p/
+「ホッ、何とか間に合ったな」
+"Well, looks like we made it in time."
+「危うく私まで遅刻する所だったわ、＊＊＊＊ったらもうロクな事してくれないんだから」
+"Whew, I was almost late, thanks to you and your weird antics...."
+「何言ってんだよまったく、だいたいお前の話がいつも長いのが原因なんだぞ」
+"What on earth are you talking about?Usually it's you who's boring me to death with your endless chatter!"
+「あ～っそんな事言うワク？　ひどい人ね、貴方って」
+"How dare you say that! You're horrible."
+「なんだ、誰かと思えばやっぱり＊＊＊＊か、いつもながら仲がいいな、夫婦ゲンカかと思ったぜ」
+"Well, well, well, ＊＊＊＊, as usual you two are getting along great, aren't you. Looks like a lovers' quarrel to me!"
+「和彦か、俺は別に・・・」
+"Oh, Kazuhiko. It's nothing...."
+「そうよ、誰がこんなのと」
+"That's right, I wouldn't do something like...."
+「こんなのとは何だ！　こんなのとは！！」
+"Something like what?!"
+「はっはっは、そういう所がそうだって言っているんだよ俺は」
+"Ha, ha, ha! Something like what I've just been saying, it seems to me!"
+「失礼しちゃうわ」
+"You're a dirt-bag!"
+「それを言いたいのは俺の方だよまったく・・・・・・・・・」
+"You took the words right out of my mouth!"
+「ところで和彦、なんか用か？」
+"By the way, Kazuhiko, did you want to speak to me about something?"
+「用ってほどでもないけどな、まあちょっとこっちへこいよ・・・」
+"Well, nothing important, but just come this way, will you?"
+「ああ～私に聞かれるとマズい事なのね・・・ふたりともきっとエッチな会話をするんでしょ・・・・・・・・・・・・・・」
+"Oh, I get it, something I'm not ment to hear, right?You two are going to talk about something disgusting, I bet"
+「まあそんな所かな・・・」
+"Um, yeah, something like that...."
+「和彦っ！！」
+"Kazuhiko!"
+「わかったわ、では邪魔者は消えることにしましょ」
+"Got it. Well, I'll just be leaving then."
+「何だよ、用ってのは」
+"OK, what'd you want to say?"
+「いやいやスマンな、ところで水泳部の『藤本　智恵美』って知っているか？」
+"Uh, yeah ... do you know Chiemi Fujimoto in the swimming club?"
+「ああ、たしか県大会でも何度か優勝しているって言う、校内でもけっこう有名人だったかな・・・・・それがどうかした？」
+"Ah, I've heard that she's come top at prefectural swimming meets a few times, and she's pretty famous in college circles so what?"
+「シーッ！！シッー！！声がでかいぜ」
+"Sshhh!! Not so loud!"
+「お前、覗いてみたくはないか？」
+"How about taking a peek at her?"
+「ハアッ？？」
+"Eh? How?"
+「鈍いな、・・・・覗けるんだよ・・・・そおっと・・・」
+"Boy, you're slow ... you can check her out ... discreetly."
+「ひょっとして・・・・更衣室か何か・・・・・？」
+"By any chance, do you mean ... the changing rooms or something?..."
+「そのとおりだ、教えてやるのはお前一人だけだぜ。ひみつの場所があるんだよ俺だけの・・・どうだ感謝したか・・・」
+"That's right, and I'll show you. Only I know the secret hiding places,you'll fall at my feet and thank me. "
+「和彦・・・・・・・エライッ！持つべきものは友だよなぁ、やっぱり・・・でも、どうしたんだ突然に？どうせ何かあるな？」
+"Kazuhiko ... you're a genius! Can't beat a good friend, can you.... But what's the catch?"
+「勘がいいね、さすが！実は・・・・・・・・・金貸してくれ」
+"You're sharp today, all right. Actually ... can you lend me some money?"
+「やっぱり、そんな事だろうと思ったぜ・・・で、いくらぐらいでいいんだ。」
+"Yeah, I thought it was something like that. So how much do you need?"
+「それがな、３千円程なんだけどな、すぐに返すからさあ」
+"Um, about 3000 yen. But I'll pay it back soon."
+「３千円かあ・・・どうしようかなあ」
+"3000 yen, hmm? That's a lot...."
+「ところでいったい何に使うんだ？」
+"By the way, what on earth are you going to use it for?"
+「あれだよ、ゲームソフトのノラバト４が今日発売なんだ、予約してあるのに今日は持ち合せがちょっと足りないんだ・・・・・・・なあ頼むよ、＊＊＊＊にも貸してやるからさ」
+"Well, the game cartridge for 'Final Oxymoron VII' is out today, and I pre-ordered a copy, but I'm poor.so, please, ＊＊＊＊ I'll be greatful and I'll lend the game to you too."
+（どうしようかなあ・・・手持ちはあるけれど）
+(What am I going to do? I've got that much, but....)
+選択
+choice
+【貸　　す】
+[lend the money]
+【貸さない】
+[don't lend the money]
+　
+
+　
+
+「ほらよ、必ず返せよ」
+"Here you are, just make sure you return it."
+「すまん和彦、今持ちあわせがないんだ、また今度でいいか？」
+"Sorry, Kazuhiko, I don't have any on me today. How about another time?"
+「そうかぁ、でも今日必要だったんだよなあ・・・」
+"Oh, right.... But it's just that I really have to have it today...."
+（んん・・・・やっぱり和彦とは、昔からの親友だからなぁ・・・・・・・・やっぱり貸してやろうかな）
+(Mmm, Kazuhiko has been a good friend for ages, should I lend him the money after all?...)
+「・・・と、思ったけど胸のポクットに財布あったわ！」
+"Ah, actually, I've just found my wallet in my breast pocket!"
+「ほらよ、必ず返せよ」
+"Here you are, just make sure you return it."
+「サンキュー恩にきるぜ、それじゃあ今日の放課後に運動場で待ってるからな・・・・・忘れるなよ」
+"Thanks for the favour. So I'll be waiting for you at the sports ground after college ... don't forget, OK?"
+「忘れいでか！！お前こそ約束は守れよ！！」
+"Me forget? Just keep your promise, OK?!"
+「ふう、行ってしまったか・・・・」
+"Oh, Kazuhiko's gone...."
+「ふっ、相変わらず不細工な顔をしているな」
+"Hah, as usual you've got some idiotic expression on your face!"
+「俊雄、なんか用か」
+"Toshio, what do you want?"
+「＊＊＊＊、僕に会ったらちゃんと挨拶ぐらいはしろよ」
+"＊＊＊＊, you could at least say hello when you meet me."
+「なんで俺がいちいち俊雄に挨拶しなきゃいけないんだよ」
+"Why do I have to greet you every time I meet you?"
+「ふっ、昨日は最高だったぞ」
+"'Cause I'm so cool! You wouldn't even guess what happened yesterday"
+「なにがだよ」
+"What?"
+「都町のクラブハウスでナンパした女が、超スキ者でな・・・・くっくっく」
+"At Minato clubhouse, this girl that I was chatting up, she was a pushover, heh, heh, heh...."
+「また、その話か」
+"Onto that subject again...."
+「不細工な君には分らん楽しみだよ」
+"A idiot like you doesn't know what he's missing."
+（誰が『不細工』だ、誰が！！）
+"Who you calling a fucking idiot??!"
+「不細工な君にも、この楽しみを分けてあげたいよ」
+"I can't let a numskull like you in on such pleasures."
+「俊雄、その女と結婚したらどうだ」
+"Toshio, how about marrying that poor girl?"
+「とんでもない！あの程度の女では俺のパートナーにする事は出来ん、俺の華麗なる将来の為にはもっと素晴らしい女性でなければいけないのだ！」
+"No way! She's not partner material. It'll take some amazing chick to match my glamorous future lifestyle."
+「その女とは真剣じゃなかったのか？」
+"So you're not serious about that girl?"
+「あたりまえだ、遊びの女などに真剣になってなるものか！」
+"Of course not! Since when do you get serious about a girl that you're just having fun with?!"
+「・・・・・」
+"......"
+「目標は卒業までに１００人切りだな」
+"I'm aiming to get a hundred notches on my belt by the time I graduate." 
+「ふっふっふ・・・・今日はまた別の女とデートの予定があるんで、今からプランを立てておかないとな・・・くっくっく」
+"Hah, today I've got another date, so I'd better look so cool... heh, heh, heh...."
+（気味の悪い笑い声をたてながら去って行ったぞ・・・・・あいつと寝た女は絶対に不幸になるな）
+(Oh, that evil laugh ... any girl that he has sex with is bound to be unhappy.)
+（・・・・・・・・）
+(.........)
+「・・・いけね、そろそろ朝礼が始まるぞ」
+"...anyway, I'd better get going. Morning assembly's going to start."
+校　　　　　　　庭
+college grounds 
+「おっ来たな」
+"Oh, there you are."
+「貸した金の利子分だと思って来たぜ！」
+"Yes, here I am, to collect the 'interest' on the money I lent you!"
+「いいか、ここは俺とお前だけのふたりの秘密だからな。誰にもいってないだろうな？」
+"Sure, OK. This is our little secret, isn't it. You didn't tell anyone else?"
+「当然さ！誰にも言ってはいないぜ」
+"Of course not! I didn't tell a soul."
+「よし・・・・・じゃあついてこいよ」
+"Good. OK, come with me."
+和彦は来いという様な合図をすると辺りを見まわしながらプールのある方へと歩いていく。
+Kazuhiko looking around him as we went.
+俺はその後をついていった。
+I followed him towards the pool,
+「こっちだ！」
+"This way!"
+「・・・・・・・・・・・・」
+(.......)
+女子更衣室のすぐ横に在る用具室の前まで俺達はやってきた。
+We arrived at a toolshed right next to the girls' changing rooms.
+「・・・ここだ、この用具室の中に入って」
+"... in here, into this toolshed."
+俺達は中に入った。扉を締めて辺りを見ると、薄暗い畳３畳分程のスペースに汚いホコリが積もっている。
+We went in. When we closed the door and looked around, we saw a small, dim space, everything covered in dust
+その中で和彦は自分の身長程の高さのロッカーを、少し手前にひっぱった。
+Kazuhiko found a locker about as high as himself, and dragged it towards him a little.
+「ここの壁板の下の方の隙間からよく見えるぜ」
+"We can get a great view through the hole in this wall."
+見ると確かに壁の足下に縦５ｃｍ横１ｃｍ程の隙間があいている。
+I saw a small gap lower down on the wall.
+俺は小さな隙間を覗き込んでみた。
+I peeped through the narrow opening.
+「おおっ！これが」
+"Oh! You're right!"
+「今はまだ誰もいないけど、ここからバッチリ見えるんだ」
+"There's no one there right now, but soon it should be a feast for the eyes!"
+「今日はまだ来ないのかな？」
+"Yeah, looks like no one's come yet."
+「そろそろ来ると思うけど・・・・」
+"I'm pretty sure they'll be coming..."
+「それじゃあさ、俺はそろそろ帰るから」
+"Anyway, I'm gonna go home now."
+「えっ、帰っちまうのかい？」
+"Eh? You're leaving?"
+「今からノラバト４を買いに行かなきゃな。まあ後は見つからねえようにうまくやってくれ」
+"I've got to go and pick up 'Final Oxymoron VII'. So be careful, okay?"
+そう言い残して和彦は帰ってしまった。
+Having said this, Kazuhiko left
+（う～ん・・・・・・・少し不安だな）
+(Hmmm, I'm a bit nervous.)
+（まあ誰かに見つかったら、掃除をしてたとか言って適当にごまかして逃げよう）
+(If someone discovers me, I can pretend that I was doing cleaning stuff, and get out of it that way.)
+その時、女の子達の声がガヤガヤと聞こえて来た。
+At this moment, I heard the approaching sound of girls chattering noisily.
+（おっ誰か更衣室に入って来たみたいだな・・・・）
+(Oh! Looks like some girls are going into the changing room..)
+（どれどれ）
+(Let's see what happens)
+ナ４。・
+p
+（おおっ！）
+(WOW!)
+みんなスクール水着に着替えていた
+Everyone was changing into college swimsuits.
+（下からのアングルで顔はよく見えないが、みんななかなかに良い体をしてるな・・・）
+(I can't see very well from this low angle, but everyone's definitely got nice bodies....)
+（水泳はやっぱり全身運動だから、みんな良くシェイプアップされているんだな）
+(Swimming's full-body exercise, so it's really got everyone fit, hasn't it.)
+（でも肝心の智恵美ちゃんの裸がどれか解らないなぁ・・[EB9F]）
+(But which naked body is the all-important Chiemi, I've no idea....)
+「・・・・・・あっそれから優ちゃん、用具室にいって清掃の道具もってきて～」
+"...Oh, and Yuu, could you go to the toolshed and get the cleaning things."
+「はーい！行ってきまーす[EBA8]」
+"OK! Back in a sec!"
+（げっ・・・誰かが来るぞ！　やばい！）
+(Oh fuck... someone's coming!)
+俺はすぐさまロッカーを押して元に戻した。
+I immediately pushed the locker back into place.
+そして扉から飛び出していった。
+Then I dashed out of the door.
+「しめしめ、誰にも感づかれてはいないみたいだな・・・」
+"Whew, looks like no one noticed me...."
+俺は外に出て、何事もなかったかのように歩きだした。
+I was walking outside, getting away free, it seemed.
+「なにしてんの」
+"What are you doing?"
+校　　　　　　　庭
+college grounds 
+「ギョッ」
+"Gulp"
+「あれ、全身ホコリだらけだぜ」
+"Huh? You're covered in dust from head to toe!"
+「智恵美ちゃん！」
+"Chiemi, isn't it!"
+彼女が『藤本　智恵美』　女子水泳部のキャプテンで、学園内でもちょっとした有名人だ。
+She was Chiemi Fujimoto, the captain of the girls swimming team and quite famous in college sports circles.
+「私の名前を知ってるんだ・・・・私に何か用かい？」
+"Oh, you know my name? Did you want to see me about something?"
+「いっいや・・・・」
+"Ahhhh, not particularly...."
+「ホラ、用具室の前でこれ落としたぜ」
+"Look, someone dropped this in front of the toolshed."
+智恵美は俺の生徒手帳を拾って差し出した。
+Chiemi held out my student notebook.
+「あっ」
+"Uh...."
+「フフッ！・・・・＊＊＊＊君、用具室で何してたの？」
+"Hmmm.... ＊＊＊＊, were you doing something in the toolshed?"
+選択
+choice
+【掃除をしていた】
+[cleaning]
+【覗きをしていた】
+[peeking on the girls]
+　
+
+　
+
+「・・・・・へえ～」
+"Uh huh."
+（あれ、以外と落ち着いているな）
+(Huh? She's calmer than I expected.)
+「結構正直な奴だな」
+"You're a pretty honest guy, aren't you?"
+「あっ、掃除をしようかなーって思ってさ・・・」
+"I was thinking about cleaning the place up..."
+「下手な芝居はやめろよな！」
+"Oh, knock off the pathetic pretence, will you!"
+「本当は更衣室の方が気になってたんだろ」
+"You were really more interested in the changing room, weren't you."
+「えっ！・・・・（何で知ってるの）」
+"What? ...(how does she know?)"
+「図星みたいだな」
+"Looks like I hit the nail on the head, doesn't it."
+「ゴメン！俺・・・・実はキミのファンで・・・つい・・・・・・・・・つい覗いてみたいな～・・・・とか思っちゃって」
+"Sorry! I ... actually, I'm a fan of yours ... I just ... just wanted to look at you."
+「えっ！・・・私の？」
+"What? A fan of me?"
+「あんまり智恵美ちゃんが魅力的だから・・・・その」
+"Well, you're so attractive, and...." 
+「・・・・・・・・・ふ～ん」
+"Hmmm...."
+「つまり・・・・ちょっと魔がさしたって訳で・・・」
+"It was like I was possessed by some evil spirit...."
+「・・・・・」
+"....."
+「まあいい、この事は私の秘密にしておいてあげよう・・・」
+"Well, tell you what, it'll be our little secret...."
+「でも、もう二度と覗きはするんじゃないよ、＊＊＊＊君」
+"But don't peep on me again, or I'll kill you. OK ＊＊＊＊?"
+「見逃してくれる？」
+"You mean you'll overlook it?"
+「じゃあな」
+"Bye."
+「行ってしまった・・・・」
+"She's gone...."
+（でも、これから更衣室に向かって行くと言う事は、さっき覗いた時には智恵美ちゃんはいなかったという事か）
+"But, if she's going to the changing room now, that means she wasn't in there when I was peeking."
+廊　　　　　　　下
+    corridor    
+「さあて今日も終わりだ！　帰るとするか！」
+"Another day's finished! I'm going home!"
+「＊＊＊＊君」
+"＊＊＊＊"
+「あれ、弓美先生何か・・・」
+"Oh Miss Yumi, is there a problem?"
+（俺達の担任で弓美先生だ、生徒思いのとても良い先生で、そしてなによりもあの豊満なバストが魅力的だ・・・ン～ンこうして見ているだけで・・・ムズムズ）
+(she's our teacher, Miss Yumi. She cares about us and more than any thing else her voluptuous breasts are so attractive....Hmmmm, just looking at them gets you.....excited)
+「今日はあまり授業が身についていなかったようですね」
+"You weren't concentrating in class today."
+「えっ、そんな事ないですよ」
+"Oh, I wouldn't say that."
+「＊＊＊＊君、７月４日は何の日か知ってますか？」
+"＊＊＊＊, do you know what the 4th of July is?"
+「え～っと・・・たしか・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・」
+"Errmmmm... it's......................................"
+「＊＊＊＊君」
+"＊＊＊＊."
+「・・・・・・・・・・・・・・・・・・・・・ハッ」
+"..............Oh."
+「先生は眠ってしまいそうになってしまいました」
+"I almost fell asleep there."
+「・・・・・ははははは」
+"......hahahaha"
+「笑い事ではありません！　まったくもう！！」
+"It's no laughing matter! Dear me!!"
+「・・・何の日だったでしょう・・・」
+"....What day was it?....."
+「やっぱり忘れてたのですね」
+"I knew you wouldn't remember."
+ゴキッ！！
+(smack!!)
+「イテテテテ先生、体罰はんたーい」
+"Ooooouch Miss, why did you hit me?"
+「期末試験ですよ！期末試験！ちゃんと判ってるの、先生は心配になってしまいます」
+"It's the end of term exams! Exams! Do you understand, I'm worried for you."
+「期末試験・・・あっ（しまったー）・・・そ、そうでしたね・・・・・はははは」
+"End of term exams....oh.(damn)...that's right.... hahaha"
+「＊＊＊＊君はお世辞にも成績が良いとは言えないのですから、次の試験ではくれぐれも恥ずかしい点数を取らないように十分心がけるのですよ」
+"It's not like I can say you've got good grades. You've got to try very hard and get marks that are not embarrassing"
+「はーい先生、まかしといて！今度は期待しててもいいよ！」
+"Yes Miss, leave it to me! You can count on me this time!"
+「いつも返事だけは良いのですね＊＊＊＊君は。だめですよ、先生は何度もだまされてるんですから」
+"You always say that, so I don't believe you."
+「今日は早く家に帰って勉強するのです、一度でいいから先生を喜ばせてみて下さい」
+"You're going straight home to study. Please make me happy just this once."
+（喜ばせるだけなら今でもすぐにその胸に飛びついて、喜ばせてあげたい・・・その胸に・・・）
+(if you want to be happy I'll jump into your breasts and make you happy....those breasts...)
+「＊＊＊＊君？」
+"＊＊＊＊?"
+「・・・・胸が・・モゴモゴ」
+"....breasts...bouncing. (slobber)"
+「＊＊＊＊君！！」
+"＊＊＊＊!!"
+「はっ・・・・！い、いやぁ何でもありません」
+"Oh...! Uh, it's nothing."
+「先生は頭が痛くなってきました・・・。わかりましたか？早く家に帰って試験勉強をして下さい」
+"Oh, I'm getting a headache. Go straight home and study for your exams. Is that understood?"
+「はーい・・・」
+"Yes miss..."
+「試験まではあと３日しかありません、それではしっかりと頑張るのですよ」
+"There's only 3 more days 'till exams, so do your best."
+「・・・・・・・とは言ってみたものの・・」
+".......although saying that..."
+「さてと、これからどうしようかな・・・・・・・・・・・・・・・・・そろそろ帰ろうかな・・・・・」
+"Let's see, what should I do?......might as well go home...."
+中　　央　　公　　園
+   central park   
+ドン！！
+bump!!
+「あっごめんなさい！」
+"Oh I'm sorry!"
+「イテテ・・・（おやっ綺麗な人だな）」
+"Ouch...(wow, she's a beauty)"
+「ごめんなさい、クガしなかった？」
+"Sorry, are you hurt?"
+「別に大丈夫だけど・・・」
+"I'm OK..."
+（クンクン・・・いい匂いだな・・・・クンクンクンクン）
+(sniff...smells gorgeous...sniff, sniff)
+「うふふ・・・良かった」
+"Oh...I'm glad."
+「良かったら電話番号でも教えて・・・・あれ！もういない」
+"I wonder if I could have your phone num....hey, she's gone."
+（残念・・・・大人の香りが漂うお姉さんだったな）
+(shame...she had the scent of a grown woman)

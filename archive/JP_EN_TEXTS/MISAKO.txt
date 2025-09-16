@@ -1,0 +1,268 @@
+「そうだ、美沙子さんだ！　彼女以外は考えられない！」
+"It's Misako! I can't think of anybody else!"
+「・・・でも一体どこに行けば会えるんだ？」
+"....but where can I go to see her?"
+「夜の街を捜せば会えるだろうか・・・？　ええい！とにかく行動あるのみだ！！」
+"Can I meet her if I wonder the night city...? Argh! No use pondering, just go!!"
+駅　　　　　　　前
+ train station  
+「・・・美沙子さんいないな～」
+"....where is Misako?"
+【三紗子】
+[Misako]
+「わたしゃ三紗子じゃが・・・こんな年寄りをナンパかね？」
+"I'm Misako but....are you trying to pick me up?"
+【三紗子】
+[Misako]
+「うひょひょひょひょひょひょひょ」
+"heh heh heh heh."
+「・・・・・・・・・・[EB9F]」
+"......."
+【三紗子】
+[Misako]
+「わかった、今から暗い路地裏に引き込んでわしの体をもてあそぶつもりなんじゃろ」
+"I know, you're gonna pull me into a back street and rape me."
+「婆さん、俺が捜しているのは『美沙子』だよ」
+"Granny, I'm looking for 'Misako'."
+【三紗子】
+[Misako]
+「だからわたしゃ『三紗子』じゃと言うておろう！」
+"I'm called Misako too!"
+「他をあたるとするか・・・・[EB9F]」
+"I'll look somewhere else..."
+ホ　テ　ル　前
+    hotel     
+「・・・美沙子さん、ここにもいないな～」
+"...Misako's not here either."
+【女子高生Ａ】
+[girl A]
+「見てみて！　あの人誰か女の子と待合わせみたいよ！」
+"Look! I bet he's meeting some one!"
+【女子高生Ｂ】
+[girl B]
+「やだ～！　こんな場所で待合わせって事は、すぐホテルに入るつもりなんだわ、やらし～っ！」
+"Oh no! If he's meeting someone here, I bet they're going in the hotel straight away!"
+（何だ[EB9F]俺の事を言っているのか？）
+(are they talking about me?)
+【女子高生Ａ】
+[girl A]
+「ああいう男には気をつけなさいよ！」
+"You have to be careful of men like that!"
+【女子高生Ｂ】
+[girl B]
+「はい！だって私は女の子しか興味がないんですもの！」
+"Yes! But I'm only interested in girls!"
+【女子高生Ａ】
+[girl A]
+「ウフフフ・・・・今日はたっぷり可愛がってあげるわよ」
+"(giggle)...I'm gonna really take care of you today."
+【女子高生Ｂ】
+[girl B]
+「ああっ・・お姉様っ！　早くホテルの中へ入りましょう」
+"Oh ...yes! Let's go into the hotel quickly."
+（あれれっ女の子同士でホテルに入っていっちゃったぞ）
+(hey, those two girls went into the hotel)
+（・・・・・・・・・・・・・・・・・・）
+(.......)
+（いかん、中の様子を想像している場合ではない！）
+(no, I haven't got time to think about what's going on inside!)
+公　　　園　　　前
+in front of park
+「・・・・・・・・・・・・」
+"......."
+「はあ・・・・美沙子さんは、いったいどこに・・・[EB9F]」
+"(sigh)....where is Misako...?"
+「あれ、＊＊＊＊君？」
+"Oh, ＊＊＊＊?"
+「ハッ！　この声は！」
+"Oh! This voice is!"
+「やっぱり、そうだ！　ひさしぶり～！」
+"Just as I thought! Long time no see!"
+「み、み、みっ、美沙子しゃん！！」
+"Mi..Mi..Misako!!"
+「・・・ウフフ、どうしたの？　大きな声を出しちゃって？」
+"...What's wrong? You're shouting?"
+プレゼントを選択して下さい
+please choose a present
+選択
+choice
+アクセサリー
+accessory
+ぬいぐるみ
+cuddly toy
+花
+flowers
+「これ・・・プレゼントだよ」
+"Here....it's a present."
+「わぁ～！　素敵だわ！　ありがとう！」
+"Oh! It's wonderful! Thank you!"
+「美沙子さんに・・・とても伝えたかった事があるんだ」
+"There's something I want to tell you."
+「？？？　一体何かしら？」
+"What is it???"
+「お酒を飲みに連れてってというなら駄目よ、まだ未成年なんだからね」
+"You're under age so I can't take you out for a drink."
+「ち、違うよぉ！」
+"It's not that!"
+「僕はもう、美沙子さんしか見えないんだ・・・恋人として正式につきあってほしい！！」
+"I can't think of anyone else but you...I want you to be my girlfriend!!"
+「＊＊＊＊君・・・」
+"＊＊＊＊...."
+「・・・・・・・・・・・・・・・本気で言ってるの？」
+"......are you serious?"
+「本気で、愛しているんだ！！」
+"I'm serious, I love you!!"
+「・・・・・」
+"......."
+す、
+(
+「気持は嬉しいけど、恋人にはなれないわ」
+"I'm flattered but I can't be your girlfriend."
+「ええっ！　そ、そんなあぁ！」
+"What? You can't...?!"
+「・・・・・やっぱり年下だし」
+".....you're younger than me, your still growing up."
+「と、年の差なんて！」
+"Who cares about age?"
+「ごめんなさい・・・・・・それじゃあ、私は帰るわ」
+"I'm sorry.....I'll be going."
+「ああっ・・・み、美沙子しゃあぁぁぁん！」
+"Ohh...Mi..Misako!"
+・・・と言うわけで、俺はふられてしまった。
+...and so I was dumped
+なに、女なんて星の数ほどいるさ！　ヘコたれずにまた頑張ればいいことだ・・・。
+there are as many women as there are stars in the sky! I just have to keep on trying...
+・・・・・けれど、やっぱりさみしいな。
+....but it still is depressing
+「＊＊＊＊君、とても嬉しいわ！」
+"＊＊＊＊! I'm so happy!"
+「私も、貴方の事をずっと・・・・・・・[EBA6]」
+"I too was thinking about you...."
+「じゃあ、ＯＫなんだね？！」
+"So it's a yes then?!"
+「ええ、もちろんよ！」
+"Yes of course!"
+「やった～！」
+"Yahoo!"
+「もう迷わないわ、＊＊＊＊君以外に大切な人は考えられない！」
+"I can't think of anyone other than you too!"
+「美沙子さん・・・」
+"Misako..."
+「もう呼び捨てでもいいわよ・・・」
+"Call my name again...."
+「じゃあ、美沙子・・・・」
+"erm...Misako...."
+「なあに？」
+"Yes?"
+「美沙子・・・・」
+"Misako....."
+「なあに？　＊＊＊＊さん」
+"Yes? ＊＊＊＊."
+「み、み、み、み、み、み、み、美沙子ぉ～～～～～！」
+"Mi..Mi..Mi.Mi.Mi.Misako!"
+こうして二人はお互いの気持ちを確かめあった。
+and so we discovered each others feelings
+その後、彼女は看護婦の道を進み、俺は１年浪人したが、なんとか医科大学へ合格をし進学する事も出来た。
+she went on to be a nurse and I flunked a year but after that I got into Medical school
+将来俺は開業医として小さな病院を持ち、彼女と一緒に暮らしていくつもりでいる・・・・・・・。
+in the future I want to open a surgery and live with her...
+今の俺達は住居を大学の近くのマンションに移り、彼女と同棲生活を始めた。
+I've moved to a flat close to college and am now living with her
+・・・・・・・・・・・・・・・・・・・・・・・・。
+...........
+当然、毎夜のように彼女と愛しあっている。
+we make love almost every night
+でも最近は変化を求めて、彼女が看護婦の制服姿でしてくれたりもするようにもなってきた。
+but for a change she puts her nurse uniform on for me
+「どうしたの？　どこが痛むのか言ってごらん？」
+"What's wrong? Tell me where it hurts."
+「こ、ここです・・・看護婦さんを見ていると、ここが大きく膨らんでくるんです！」
+"It's here...when I think of you it gets big and swollen!"
+「それはいけないわ[EBA6]、早速オペを開始しないと」
+"That's terrible, we have to operate straight away."
+「オペ・・・って、どうするんですか？」
+"Operation...what are you going to do?"
+つ（やオろみや
+3N_WIN
+【美沙子】
+[Misako]
+「こうするのよ・・・・・ペロペロ」
+"This is what I'm going to do.....(lick lick)."
+【＊＊＊＊】
+[＊＊＊＊]
+「おっ・・・！　おおおおおおぅぅぅぅっ！！」
+"Oh....! OOHHH!!"
+【美沙子】
+[Misako]
+「ペロペロペロ・・・・・レロレロ・・・チュッ、チュバッ」
+"(lick lick).....(lick)....(suck suck) "
+【＊＊＊＊】
+[＊＊＊＊]
+「看護婦さん・・・とっても気持ちイイっ！」
+"Nurse....it feels good!"
+【美沙子】
+[Misako]
+「あっ、まだ出しちゃだめよ・・・私がイイって言うまで我慢してるいてね」
+"Oh not yet....don't let it out until I say so."
+【＊＊＊＊】
+[＊＊＊＊]
+「は・・はいぃぃっ！！」
+"Y....yes!!"
+【美沙子】
+[Misako]
+「ジュルッ・・！　ジュルッ・・！　ジュルッ・・！」
+"(suck!)....(suck!)....(suck!)"
+【＊＊＊＊】
+[＊＊＊＊]
+「ああっおぉぉぉおおおうぅっ！そんなに強く吸ったらっ！」
+"Ahhhhh! You're sucking so hard!"
+【美沙子】
+[Misako]
+「まだよ。まだイッちゃ駄目よ」
+"Not yet. Don't come yet."
+【＊＊＊＊】
+[＊＊＊＊]
+「んっ・・・！・・・・おぉぉぉぉおぅぅ・・・・[EB9F]」
+"Ahhhhhhhhh!"
+【美沙子】
+[Misako]
+「うふふ・・・ピクピク脈うってるわよ」
+"(giggle)...it's throbbing."
+【美沙子】
+[Misako]
+「パクッ」
+"(swallow)"
+【＊＊＊＊】
+[＊＊＊＊]
+「もうっ！　だめですぅぅっ！」
+"I! I have to...!"
+【美沙子】
+[Misako]
+「いいわっ！　オクチの中に出して！　全部飲んであげるから！」
+"OK! Cum in my mouth! I'll swallow it allfor you!"
+【＊＊＊＊】
+[＊＊＊＊]
+「うっ！」
+"Ah!"
+【美沙子】
+[Misako]
+「ん☆・・・ゴクッ！ゴクッ！ゴクッ・・・・ゴックン！」
+"Um...Gulp! Gulp! Gulp....GULP!"
+【美沙子】
+[Misako]
+「・・・たっぷり溜まってたのね・・・」
+"....there's so much of it..."
+【＊＊＊＊】
+[＊＊＊＊]
+「看護婦さん・・・・僕のはまだこんなに元気だよ！」
+"Nurse...mine's still like this."
+【美沙子】
+[Misako]
+「まだオペが必要みたいね、今度は下のオクチに入れてあげる」
+"You need another operation.This time I'll put it in my other mouth."
+【＊＊＊＊】
+[＊＊＊＊]
+「は、はいっ！　お願いします！」
+"Oh yes please!"
+・・・という具合に楽しく（？）やっている様子である。
+....and as you can see we're enjoying ourselves

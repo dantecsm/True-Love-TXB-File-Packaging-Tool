@@ -1,0 +1,74 @@
+浜　　　　　　　辺
+     beach      
+「あれ、＊＊＊＊も海水浴？」
+"Hi, are you swimming too?"
+「ち、智恵美ちゃん・・・まぶしすぎる」
+"Chiemi...you're too bright."
+「どうしたんだ？　顔が真っ赤だぜ？」
+"What's wrong? You're face is all red?"
+「いや、智恵美ちゃんの水着姿があまりにもまぶしすぎて」
+"It's just that you look brilliant in your swim suit."
+「もしよかったら、一緒に泳がない？」
+"Do you want to swim with me?"
+「でも、今日は部活の後輩達と一緒なんでな、待たせているんだ」
+"I'm here with the juniors of my club, I better go 'cause they're waiting."
+「後輩達と・・・」
+"The juniors..."
+「学校のプールじゃ、決まったスクール水着じゃないと駄目だけど、今日は、各自自由に好きな水着でやっているって訳さ」
+"If we're at college we have to wear the college swim suit but today we're wearing our own."
+「・・・・ん～、それはなによりだ。　俺も目の保養のために見学しにいこうかな」
+"...Great. I think I'll come and feast my eyes on you lot."
+「あ、だめだめ・・・・もうそろそろ帰ろうって言ってたから」
+"That's no good...we were talking about going home."
+「ええ～、そんなぁ」
+"Oh no."
+「残念だったな」
+"That's a shame."
+「いいよ、俺は智恵美ちゃんの水着姿が見られただけでも、鼻血が出そうだ」
+"I'm just glad I saw you in a swim suit, I feel as though I'm going to have a nose bleed."
+「・・・＊＊＊＊って、本当に変わってるな」
+"...＊＊＊＊, you're weird."
+「どうして？」
+"Why?"
+「私の水着姿見て喜ぶなんて、＊＊＊＊だけだぜ」
+"You're the only guy who gets excited looking at me in a swim suit."
+「言葉使いも男っぽいからかなぁ？・・・魅力なんてないだろ？」
+"It's cause I talk like a guy...I'm not attractive."
+「十分魅力的だよ！　あまりありすぎて俺なんか、さっきから前に屈んじゃって屈んじゃって！」
+"You're very attractive! It's too much I've had to bend forward!"
+「ああ～・・・・＊＊＊＊、いやらし～！！」
+"Wha....＊＊＊＊, you pervert!!"
+「早く家に帰って一人っきりになりたい気分」
+"I want to go home and be on my own."
+「・・・やっぱりそう思うのか」
+"....so you think that..."
+【女子の声】
+[girls voice]
+「センパ～イ！　そろそろ帰りましょ～う！」
+"Senpai! Let's go now!"
+「あっ[EB9F]・・・じゃあ、そろそろ帰らなきゃ」
+"Oh...I better go now."
+「あれ、もう？　ちょっと残念だなぁ」
+"All ready? That's a shame."
+「＊＊＊＊は、いつもここに泳ぎに来てるのかい？」
+"Do you always come here to swim?"
+「うん、時々だけどね」
+"Yeah, only sometimes."
+「そうか・・・・」
+"I see..."
+「？」
+"?"  
+「いや、ちょっと聞いてみただけだよ・・・・ハハハ」
+"No, I just asked...hahaha."
+「じゃあまたな、バイバイ！」
+"See ya, bye!"
+（駆けて行く後ろ姿も、健康そのものだな・・・ピチピチっていう音が聞こえてきそうだ）
+(she's got such a healthy body... you could almost hear her muscles)
+（・・・智恵美ちゃんは、男っぽく思われる事を気にしているのかな？）
+(...I wonder if she minds being called a Tom boy?)
+選択
+choice
+【とっても魅力的だよ】
+[you're very attractive]
+【あまり魅力ないなあ】
+[you're not attractive]

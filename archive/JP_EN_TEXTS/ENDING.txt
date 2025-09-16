@@ -1,0 +1,50 @@
+【シナリオ】
+[Scenario]
+ＴＤ－Ｘ
+TD-X
+【キャラクターデザイン】
+[character design]
+ＴＤ－Ｘ
+TD-X
+【原　　画】
+[original drawings]
+ＴＤ－Ｘ
+TD-X
+【プログラム】
+[program]
+ＰＡＳＴＡＫＵＮ
+PASTAKUN
+【ＳＤ－グラフィック】
+[SD-Graphics]
+まるぺ
+Marupe
+【ＣＧ作画】
+[CG drawings]
+ＴＤ－Ｘ
+TD-X
+まるぺ
+Marupe
+Ｆｈｏｅｎｉｘ
+Fhoenix
+【音　　楽】
+[music]
+萌　木　一　路
+Ichiro Moegi
+岩　崎　洋　一
+Yoichi Iwasaki
+【マニュアル】
+[manual]
+荒　神　　聖
+Higiri Aragami
+【Ｓｐｅｃｉａｌ　ｔｈａｎｋｓ】
+[special thanks]
+店　長
+Tencho
+Ｄｒ．げろげ～ろ
+Dr. Gerogeero
+Ｘ６８０３０
+X68030
+企画／開発　　ソフトウェアハウスぱせり　１９９６
+project development Software House Parsley 1996,1999
+Ｔｏ　ｂｅ　ｃｏｎｔｉｎｕｅｄ
+To be continued.....

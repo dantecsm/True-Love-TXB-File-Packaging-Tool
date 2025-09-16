@@ -1,0 +1,86 @@
+自　　　宅　　　前
+in front of flat
+「夏だってのにすごい大雨だな、こんな降り方は初めてだ・・・・傘を持ってきといて良かったよな本当に・・・[EB9F]」
+"I can't believe this storm, it's absolutely chucking it ....good job I brought an umbrella..."
+「・・・ミイ・・ミイ・・・」
+"....meow...meow..."
+「・・・ん、何か聞こえるな・・・」
+"...what's that noise..."
+「・・・・・ミュウー・・」
+".....meow...."
+「・・・猫かな？・・・どこだろう？・・」
+"...a cat?...where is it?..."
+「・・・ミイ・・ミイ・・・」
+"...mew...meow..."
+「あっ・・・・」
+"Oh...."
+階段の下の隅の方に、雨が当らないように体を小さく丸めている子猫を見つけた。
+I found a kitten curled up in the corner so it wouldn't get wet
+「・・・・・・ミィー・・・ミィー・・・」
+".....meew...meow..."
+子猫は俺に気がついたのか、呼ぶ様な声で俺に鳴きかけて来た。
+it noticed me and cried out to me
+（こんな所で・・・・首輪はしていないからノラ猫かな？）
+(look at you...I suppose it's a stray)
+「ミュー・・ミュー・・ミュー・・」
+"meow..me.meow.."
+頭をナデナデしてみた。
+I petted it
+「・・・・おいお前、捨て猫なのか？」
+"....were you left here?"
+子猫は俺の小指をガジガジと弱い力で噛んでいる。
+the kitten was bitting my little finger
+「イテテ・・こらっ！・・」
+"Ouch...oi!.."
+子猫の頭をペンと叩いてみた。
+I hit the kittens head
+「フミュー・・・ミューミュー！」
+"frr..mew meow!"
+クリクリの目をさせて俺を見つめている。
+it looks at me with it's round eyes
+（お腹が空いているんだな、きっと）
+(it's probably hungry)
+（今は何も持ってないけど・・・部屋には何かあったよな確か・・・）
+(I haven't got anything on me... but perhaps in my flat..)
+「ミー・・・ミューミュー」
+"meow meow meow"
+「この訴える目に弱いな、そんな目で見るなよ・・・」
+"Those begging eyes, don't look at me like that..."
+（う～ん、どうしようか・・・部屋で動物飼うと親父の奴が怒るんだよな・・・・）
+(what should I do...dad gets mad if I keep animals in the flat...)
+「大丈夫、何とかなるだろ！見つかったら見つかった時さ」
+"It'll be OK! If he finds out I'll think of something then."
+俺は子猫を抱えると、足どりも素速く階段を駆け登り自分の部屋に連れて帰った。
+I held the kitten and quickly ran up the stairs and into my flat
+自　分　の　部　屋
+    my room     
+俺は食えそうな物を適当に集め、食べさせてみた。
+I got some food together and started to feed it
+「ははは、ウマいか？」
+"hehehe, is that good?"
+子猫はすごい勢いで食べている。
+the kitten gobbled the food down
+「おーっすごいな、相当にペコペコだったんだな」
+"Look at you, you must have been starving."
+「みぃー・・・・」
+"meow..."
+猫は食事を平らげると満足そうな顔をしてこっちを見ている。
+it finished the food and looked at me satisfied
+「一人暮らしも、退屈だから・・・話相手にはなってくれるかな」
+"It's boring on my own... perhaps you'll keep me company."
+俺が食器をかたづけようとすると、足下にやってきて首筋をすりすりとしている。
+I was clearing the dishes when it came and rubbed against my leg
+「やけに人なつこい猫だな・・・フフッ」
+"You're pretty friendly...haha."
+こうして俺は、内諸で猫と暮らす事にした。
+so I decided to keep the kitten secretly
+「やっぱり駄目だと思うから・・・ゴメンな、誰かいい奴に拾われるんだぞ・・・」
+"I don't think I can keep you, sorry... hope someone takes you in."
+俺はそう言い残し、子猫をその場に置いて帰っていった。
+I left the kitten where it was and left
+選択
+choice
+【子猫を連れ帰る】
+[take kitten home]
+【連れていかない】
+[leaves kitten]

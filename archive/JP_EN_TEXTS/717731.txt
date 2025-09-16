@@ -1,0 +1,290 @@
+駅　　　　　　　前
+ train station  
+（おや、向こうを歩いているのは、まゆみちゃんでは）
+(that's Mayumi walking over there)
+「オ～イ！　まゆみちゃ～ん！」
+"Hey! Mayumi!"
+「あれ、＊＊＊＊君」
+"Oh, ＊＊＊＊."
+「まゆみちゃん、会いたかったよ」
+"Mayumi I missed you."
+「俺に会うため、わざわざ来てくれたんだね」
+"Did you come just to see me?"
+「＊＊＊＊君？　来たのは私じゃなくて、＊＊＊＊君の方よ」
+"＊＊＊＊? I didn't come, you did."
+「そんなに俺とデートしたいのならいつでもＯＫさ」
+"I'll have a date with you any time if you insist."
+「なにを一人で言ってるの」
+"What are you talking about?"
+「その服、似あってるね・・・」
+"That dress suits you..."
+「そう・・？」
+"You think so..?"
+「スタイルがいいから・・モデルになればいいのに」
+"You've got a great body...you should be a model."
+「そんな見え見えの『おだて』にはのらないわ！」
+"What are you trying to get at!"
+「どこか行こうか？　なにかおごるからさ」
+"Let's go somewhere, I'll treat you."
+「えっ・・・・・・・・・・・・ホ・ン・ト？」
+"Um.... really?"
+「うんうんホントホント！」
+"Yes, yes, really!"
+「うーん・・・どうしよっかな～」
+"Hum... what should I do."
+「う～ん」
+"Hum."
+「じゃあさ、お腹がすいたからあそこの食事おごってくれる？」
+"I'm hungry, will you treat me to a meal there?"
+（どれどれ、お食事コース２，５００円より・・・げっ高い）
+(Let's see, set meal from 2500 yen... that's expensive)
+「いやだったら別にいいのよ・・・・・・・・・」
+"You don't have to...."
+（２，５００円って事は２人で食べると５，０００円だな）
+(2500 yen, for each of us, that's 5000 yen)
+「よし！　おれも男だ、おごってあげよう！」
+"No problem! I'll treat you!"
+「本当に！　やったぁ！」
+"Really! Yes!"
+「ちょっと手持ちが足りないかも・・・ハハハ」
+"I might not have enough cash on me...hahaha."
+「え～っ・・・・残念だなぁ」
+"Oh...that's a shame."
+「他の店でよかったら・・・」
+"If you want to go so somewhere else..."
+「えへっ！　実はねぇ、招待券があるんだ」
+"Ha! Guess what, I've got a voucher."
+「招待券？」
+"A voucher?"
+「そう、『２名様までお食事ご招待』て書いてあるわよ」
+"See, it says 2 people eat free."
+「行きましょうか？」
+"Shall we go?"
+「本当だ・・・・・・あっ！　俺を試したんだな！」
+"Yeah....hey! You were testing me!"
+「えへへっ！　ゴメンね！」
+"Hehe! Sorry!"
+「ホントは誰か友達と行こうかと思ってたんだけど、この際あんたでいいわ」
+"I was going to go with a friend but you'll do."
+「・・・・・・・（この際ね）・・・」
+"....(you'll do, eh)..."
+「さあ行きましょう！」
+"Let's go!"
+店の中に入り、俺達は窓側の席に座った。
+we entered the restaurant and sat by the window
+【ウェイター】
+[waiter]
+「いらっしゃいませ、ご注文はお決まりでしょうか」
+"Hello, may I take your order?"
+「このチクットを使いたいんですけど」
+"We'd like to use this voucher."
+【ウェイター】
+[waiter]
+「承知致しました。　お待ち下さいませ」
+"Yes, if you could wait a moment please."
+「このお店って綺麗ね、雰囲気いいわぁ」
+"This place is so pretty, it's got atmosphere."
+「キミの美しさには負けるよ」
+"Not as beautiful as you."
+「＊＊＊＊君って、口が上手なのね」
+"You have a way with words."
+（ちょっとワザとらしかったかな）
+(was that a bit naff or what)
+「さっきだって、モデルになればいいとか、適当な事ばっか言ってるし」
+"Saying that I should be a model, you're just saying rubbish."
+「俺は心に思った事を正直に言っているだけなんだけどなぁ」
+"I'm only speaking my heart."
+「男ってみんな同じ事を言うのね」
+"All men say the same thing."
+「て、事は誰かにも言われた事があるのか？」
+"Has someone else said that to you?"
+「秘密よ！」
+"That's a secret!"
+【ウェイター】
+[waiter]
+「お待たせしました、どうぞごゆっくり」
+"Here you are, enjoy the meal."
+「わあぁぁ～　美味しそ～」
+"Wow this looks delicious."
+「え～っと、まずナプキンは・・・」
+"Right, first the napkin..."
+「わかった！　こ～やって折って頭に」
+"I know! You put it over your head."
+「＊＊＊＊君、頭にかぶっても仕方ないんだけど」
+"＊＊＊＊, that's not what you do with it."
+「じゃあ、こ～やって丸めて股間に立てて・・・」
+"Then, roll it up and stand it here..."
+「・・・ま・さ・か・・・」
+"...don't tell me..."
+「『エッフェル搭』！」
+"Eifiel tower!"
+「・・・あのね」
+"...hey you."
+「ハズシたかな」
+"Not funny?"
+「仕方ない、股の上に敷いて・・・と」
+"Oh well, I'll put it on my lap..."
+「知ってるんなら最初からそうしてよ」
+"Do that from the start."
+「いやあ、幸せだなあ・・・こうして一緒に食事が出来るなんて」
+"I'm so happy...I'm having a meal with you."
+「これ美味しいわ・・・・・・モグモグ」
+"This is delicious...."
+「俺のおごりだから遠慮なく食べてね」
+"It's my treat so enjoy."
+「・・・[EB9F]・・・あの、そうではないと思うんだけど」
+"....I don't think that's so."
+「＊＊＊＊君て、変ってるのね、クスクス」
+"You're weird."
+「そんなには変ってないと思うけど」
+"I don't think I'm that weird."
+「私は変っている人は嫌いじゃないよ。　面白いから」
+"I like weird people, they're interesting."
+「そうか、まえから俺の事が好きだったのか」
+"Right, so you liked me from before."
+「あの、そこまでは言っていないんだけど」
+"Um, I never said that."
+「変わっている人が好きならば・・・」
+"If you like people who are bonkers..."
+「今日から『変人』になってあげるよ！」
+"I'll be a "bonker" for you!"
+し～～～ん
+silence
+「あの、それって『変』じゃなくて『恋』じゃあ・・・[EB9F]」
+"What do you mean by that..."
+「よく気がついた！　『恋人』になってあげる」
+"I'll be a person who "bonks" you, see, bonk-ers."
+「そんな文字で書かなきゃわからないギャグ言わないでよ！」
+"What good is a joke if you have to explain it."
+「そうか、今日からふたりは『変人』どうしか」
+"From today onwards, we are bonkers."
+「・・・・・・・・・・・・・・・・」
+"......"
+「・・・・・・・・・・[EB9F]」
+"......"
+「・・・・・・・・・・・・・・・・・・・・・」
+"......"
+「・・・・・・・・・・[EB9F][EB9F]」
+"......"
+「えへへっ！　今の沈黙、嫌だったでしょ！　ねっ！ねっ！」
+"Hey that was a real uncomfortable silence, wasn't it!"
+「う～ん早くツッ込んでほしかった」
+"Yeah, I wish you would have given it to me."
+「やだ！　＊＊＊＊君て、そっちの趣味があったの？　やあね～」
+"I didn't know you liked that sort of thing. Oh no!"
+「そっちの趣味って？」
+"What do you mean that sort of thing?"
+「『つっ込んでほしい』って・・・・・お尻に？」
+"Give it to me... up your ass?"
+「あのな・・・[EB9F]お前には羞恥心てものがないのか」
+"Oi...aren't you ashamed of yourself?"
+「いま時『ぶりっ子』なんて、やってられないわ」
+"Why should I be all prim and proper."
+「そう思わない？」
+"Don't you think?"
+「そりゃ、表と裏の性格が正反対な女ってのも嫌だけど・・・」
+"Yeah, I'm not too keen on girls who have two sides..."
+「でしょ？　そういう娘は女同士の間でも嫌われるんだから」
+"See. Even girls don't like girls with two faces."
+「しかし男には、ある程度の夢って物があってだな・・・」
+"But guys are entitled to a dream..."
+「でも、もし後からその娘の性格がガラリと急変したら、やっぱりショックじゃない？」
+"But wouldn't you be disappointed if the girl you liked changed completely one day?"
+「・・・確かにそうだけど」
+"...I suppose so."
+「気をつけてほうがいいわよぉ、＊＊＊＊君てだまされやすそうなタイプだと思うから・・・」
+"You'd better be careful. You look the type to be tricked..."
+「どういう女に？」
+"By what sort of woman?"
+「私の知ってる娘にも『ブルセラ』とかに下着売りにいったりする娘や『デートクラブ』でバイトする娘は何人もいるから」
+"I know some girls who sell there used underwear and some who work at "date clubs"."
+「・・・あっ、今のは失言[EB9F]・・オ～ホホホホ」
+"...oops, I shouldn't have said that hahaha."
+「ええっ！！　ホントに？」
+"What!! Really?"
+「・・・それって俺の知ってる娘の中にもいるのかな？」
+"...do I know any of them?"
+「どうかしら・・・・・・・私し～らな～い！　ホホホホ」
+"Well....I don't know! hahaha."
+「『まゆみ』ちゃんは、してないよね」
+"You're not doing anything are you?"
+「疑ってるの？　どうだか」
+"Do you think I am?"
+「俺は信じているよ」
+"I trust you."
+「私もセーラー服、売に行こ～かな～　ルンルン」
+"May be I should go and sell my uniform."
+「おい冗談はよせよ」
+"Hey, stop that."
+「エヘ！　＊＊＊＊君、このお肉も美味しいね」
+"Um! This meat is so tender."
+（ん～、ごまかされてしまった）
+(I've lost the point now)
+とか何とかやってるうちに・・・時は過ぎ。
+and so the time passed
+「はあ～・・・美味しかった」
+"mmm... that was delicious."
+「そろそろ帰りましょうか」
+"Maybe we should go now."
+「そうだね」
+"Agreed."
+駅　　　　　　　前
+ train station  
+「あれ・・・」
+"Oh..."
+ナ。（
+p
+「まゆみさん、なにしているの」
+"Mayumi, what are you doing?"
+「麗美ちゃんだ」
+"It's Remi."
+「あら・・・・・・・・・・・・・・・・・・？」
+"Oh......?"
+「じゃあ、私はこれで」
+"I'll have to go now."
+『麗美』ちゃんは、チラッと俺の顔を見てから、その場を立ちさった。
+Remi glanced at me and then left the spot
+「＊＊＊＊君、姫川さん知ってたの？」
+"＊＊＊＊, do you know Miss Himekawa?"
+「まあ、生徒会の副会長だからね、ハハハ」
+"Yeah, well, she's the vice president of the student council."
+「まゆみちゃんは友達なんだ？」
+"Is she a friend of your's?"
+「彼女は昔からの友達だから」
+"I know her from way back."
+「実は、招待券は麗美ちゃんからもらったのよ」
+"Actually I got the vouchers from Remi."
+「えっ！　しまったぁ～！　じゃあお礼言っとけばよかった」
+"Oh! Damn! I should have said thank you."
+「あのレストランは、麗美ちゃんのパパが経営するグループの小会社なんだって」
+"That restaurant belongs to one of the companies her father runs."
+「・・・麗美ちゃんの家ってお金持ちだったんだ」
+"...So Remi's from a rich family."
+「知らなかった？　『姫川財閥』って有名だよ」
+"Didn't you know? Himekawa financial group is famous."
+（・・・・知らなんだ）
+(...I didn't know)
+「＊＊＊＊君、麗美ちゃんの事が気になってきたんでしょ？」
+"＊＊＊＊, I bet you're curious about Remi now."
+「いや、そういう訳では」
+"Not necessarily."
+「そう？」
+"Oh yeah?"
+「じゃあ、またね」
+"See you."
+「あらっ・・・それじゃ」
+"Yeah...see you."
+（しかし『ブルセラ』や『デートクラブ』の話、気にかかるな）
+(but what was all that date club business?)
+選択
+choice
+【よーし、金はあるぞ】
+[OK I've got money]
+【う～ん金がたりない】
+[I'm out of cash]
+選択
+choice
+【ああ、そう思うな】
+[I think so]
+【そうは思わないぞ】
+[I don't think so]

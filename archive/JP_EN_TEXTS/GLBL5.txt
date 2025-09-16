@@ -1,0 +1,58 @@
+玄　　　　　　　関
+    door way    
+「・・・・・・」
+"....."
+「あっ智恵美ちゃんだ」
+"Oh, it's Chiemi."
+「＊＊＊＊、あっ・・・あのさ」
+"＊＊＊＊, er...erm."
+「何？」
+"Yeah?"
+（いつも元気な智恵美ちゃんが、やけにモジモジしているな）
+(she's always full of energy, what's with her today?)
+「あのさ・・・もしよかったら今日一緒に帰らないか」
+"Erm...do you want to walk home with me today?"
+「本当かい？」
+"Really?"
+「ああ、手も一緒につないで帰ろうか？」
+"Yeah, we can even hold hands."
+「えっでも・・・・・・いいよ」
+"Oh but....you don't have to."
+そうして途中まで歩いて帰った。
+and we walked home
+中　　央　　公　　園
+   central park   
+「何だか最近たくましい体つきになってきたみたいだな」
+"You're getting to be a real hunk."
+「実は最近よく運動したりして体を鍛えてるんだ」
+"I've been doing some exercise and training."
+「ふ～ん、思ったとおり頑張ってるんだ・・・・」
+"So, you are making an effort..."
+「智恵美ちゃん程じゃないけどね」
+"Not as much as you though."
+「あのさ・・・・＊＊＊＊・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・」
+"erm....＊＊＊＊......"
+彼女の顔は赤みを増して、視線の焦点は定まらないでいる様子だ。
+her face is turning red and her eyes are wondering
+「？？？・・・・・・・・・・なに？」
+"What is it?"
+「あっ・・ああ・・あのぉ・・・・・・・・！」
+"er...erm...well......"
+「やっ・・やっぱり何でもないよ！・・・ハハハ・・・・」
+"No....it's nothing!...Ha ha ha ...."
+「じゃあな！バイバイ！」
+"See ya! Bye!"
+（・・・・・・・・・）
+(......)
+「そっか・・・・・・・・・・・残念だけど」
+"I see.....that's a shame."
+「・・・・それじゃあな！バイバイ」
+"...see ya! Bye."
+（・・・・・・）
+(.....)
+選択
+choice
+【一緒に帰ろう】
+[let's go home together]
+【別々に帰ろう】
+[let's go home separately]

@@ -1,0 +1,120 @@
+駅　　　　　　　前
+ train station  
+（こんな夜に素敵な出会いはないものだろうか）
+(I wish I could meet someone on a night like this)
+（映画や小説のような劇的な出会いは、現実には起る事なんてないのかもしれないな）
+(I suppose it's only in the pictures and stories where people have dramatic meetings)
+【女の人】
+[woman]
+「＊＊＊＊君？」
+"＊＊＊＊?"
+（あれ、誰かが呼んだかな）
+(did someone call me?)
+「やっぱり、＊＊＊＊君ですね」
+"It is you."
+「あれれ、弓美先生」
+"Oh, Miss Yumi."
+「今日はどうしたの？　あまり夜遅くまで遊んでいてはいけませんよ」
+"What are you doing? You shouldn't be out so late."
+「俺は・・・」
+"I'm..."
+「・・・所なんだ」
+"going to..."
+「散歩は昼の明るい時にしなさい」
+"You should take walks during the day."
+「帰り道では、変な場所に寄ったりしないようにね」
+"Don't go straying into funny places on your way home."
+「変なって？？？　俺わかんないっス」
+"Funny places??? I don't understand."
+「もう、いいです」
+"Never mind."
+「・・・所なんだ」
+"I was..."
+「この道で会ったのは偶然ですよ」
+"It was a coincidence to meet you here."
+「先生の素敵な香りを嗅ぎ付けて千キロ先から駆けつけたんだ」
+"I sensed your scent and came to you."
+「＊＊＊＊君の鼻って、人間のものではないんじゃないの？」
+"Perhaps you don't have a human nose?"
+「先生はここで何をしているんですか？」
+"What are you doing here?"
+「夏休みは生徒のみんなが開放的になる時ですから、過った行動を起こす前にこうして巡回しているのです」
+"Students tend to become lax during the holidays so I'm patrolling the area so they don't go astray."
+「俺なら安心しててもいいよ」
+"You don't have to worry about me."
+「＊＊＊＊君が一番心配なのです」
+"You're the one I'm most worried about."
+「・・・・・・・[EB9F]」
+"....."
+（先生となら過ちを犯してみたい）
+(I don't mind making mistakes with you)
+「＊＊＊＊君、顔が赤いわよ？」
+"＊＊＊＊, you're red?"
+「先生ももう帰りますから、早く自宅に帰りなさい」
+"I'm going home so you should too."
+「先生の自宅・・・って？　確か・・・」
+"You're house is..."
+「先生のマンションは、このすぐ近くです」
+"My apartment is close by."
+「そうだ、これから先生の部屋に遊びに行ってもいいですか」
+"Can I come and visit your house?"
+「今日はもう遅いですから駄目ですよ」
+"No!"
+「先生」
+"Miss."
+「なんですか？」
+"Yes?"
+「こないだの光景が忘れられません」
+"I can't forget that sight."
+「まあ」
+"Pardon."
+「・・・思い出しただけで」
+"...just thinking about it."
+俺はモヤモヤと思い出してみる。
+I try to remember
+「・・・・・・・・・・・・・・・・・・・・・・」
+"......."
+「＊＊＊＊君？」
+"＊＊＊＊?"
+（できればもう一度・・・拝見させて頂きたいものだ）
+(if I could ...I'd like to see it again)
+「＊＊＊＊君、大丈夫ですか？」
+"＊＊＊＊, are you all right?"
+駅　　　　　　　前
+ train station  
+ナ４。・
+p
+「は、はい」
+"Y..yes."
+先生は俺を見つめ、微笑みながら話しだした。
+she looked at me, smiled and said
+「＊＊＊＊君は、よく一人で想像の世界に入いるのが得意なのですね・・・クスクス」
+"You're very good at going into your own world...(giggle)"
+「夢見る年頃なので」
+"I'm at that dreaming age."
+「エッチな想像ばかりしないようにね」
+"Don't only think about dirty things."
+（・・・・・・・！）
+(...!)
+「先生の口から、そんな言葉が・・・[EB9F]　ちょっとドキドキしちゃいました」
+"I didn't think you'd say such a thing...I'm shocked."
+先生は少し頬を赤くさせた。
+she blushed a little
+「やだわ、先生は今日はもう帰りますから」
+"Ooops, anyway I'm going home."
+「先生・・・あっ・・・」
+"Miss..."
+先生は、焦るようにして暗闇に消えていった。
+she disappeared into the darkness
+（あまりエッチな事を言うと、その人のイメージが崩れたりするものだが、イメージの壁を打ち砕かなければ親密な関係にもなれなかったりするんだろうか）
+(if you say dirty things you destroy that persons image, so in order to have a close relationship with someone...do you have to destroy their image?)
+（先生の場合は・・・・・どうなのだろう）
+(I wonder how it is...for Miss Yumi?)
+選択
+choice
+【街を散歩していた】
+[I was having a walk]
+【今塾の帰りなんだ】
+[I'm on my way back from lessons]
+【先生に会いに来た】
+[I came to see you]

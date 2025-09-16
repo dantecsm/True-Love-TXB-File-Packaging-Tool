@@ -1,0 +1,240 @@
+「何か買ってかえろうかな」
+"Maybe I should buy something on the way home."
+【自分用の品物を買う】
+[buy something for myself]
+【女の子へのプレゼントを買う】
+[buy a present for a girl]
+【裏通りにある怪しい店へ行く】
+[go to a shop in the back streets]
+【帰　　　　　　　る】
+[go home]
+【ドリンク剤】　３，０００円
+[energy drink] 3000 yen
+【問　題　集】　３，０００円
+[study book] 3000 yen
+【画　　　集】　３，０００円
+[art book] 3000 yen
+【マル秘Ｈ本】　３，０００円
+[adult magazine] 3000 yen
+「よし、疲れた時にはこれだな」
+"This is what you need when you're tired."
+は、『ドリンク剤』を購入した。
+I bought an energy drink
+「よし、これで勉強しよう」
+"Right, I'm gonna study with this."
+は、『問題集』を購入した。
+I bought a study book
+「よし、これだ」
+"Yes, I'll be arty with this."
+は、『画集』を購入した。
+I bought an art book
+「よし、これだ・・・・・・（ニヤリ）」
+"Yes, this will help me relax.....(grin)"
+は、『Ｈ本』を購入した。
+I bought an adult magazine
+「チラッと見てしまおう」
+"I'll have a quick look."
+「残念ながら売り切れでございます」
+"Unfortunately we're out of stock."
+【アクセサリ】　６，０００円
+[accessory] 6000 yen
+【ヌイグルミ】　６，０００円
+[cuddly toy] 6000 yen
+【お　　　花】　９，０００円
+[flowers] 9000 yen
+「これは、きっと似あうだろうな・・・」
+"I think this will suit her..."
+は、『アクセサリー』を購入した。
+I bought accessory
+「プレゼント用に持っているか」
+"I'll keep it as a present."
+「これって、可愛いな・・・」
+"This is cute..."
+は、『ヌイグルミ』を購入した。
+I bought a cuddly toy
+「プレゼント用に持っているか」
+"I'll keep it as a present."
+（花って高いんだよなぁ・・・・・[EB9F]）
+(flowers are expensive...)
+は、『お花』を購入した。
+I bought flowers
+「これは、女の子へのプレゼント用に使おう」
+"I'm gonna buy this as a present for a girl."
+「ヘッヘッヘ・・・お客さん。　何かお捜しでしょうか？」
+"Hehe...excuse me. Are you looking for something?"
+（なんか、怪しい雰囲気の店へ来てしまったぞ）
+(this shop's kind of weird.)
+「当店では、色々な闇の商品を取り扱っております・・・・世界に二つとない逸品から・・・楽しいゲームまで・・・クックックッ」
+"Our shop has many unusual things...one of it's kind too...exciting games...hehehe."
+「どんな商品があるんだ？」
+"What sort of goods do you have?"
+「さあ、選んで下さい・・・・・クックックックックッ」
+"Please ,take your pick....hehehehe."
+【宝くじを買う】
+[buy a lotto ticket]
+【ゲームをする】
+[play a game]
+【珍品を捜す】
+[find an unusual object]
+【店を出る】
+[leave the shop]
+「宝くじは、毎月２０日の抽選によって当選者の口座に自動的に賞金を支払っております」
+"Who ever wins, lotto ticket will get prize money in their bank account every 20th of month. Yes?"
+「一人一枚限りですがね・・１，０００円で、一等５万円が当るかもしれないですよ・・・・クククククク」
+"It's only one per person...you could get 50000 yen for only 1000 yen...hehehe."
+「ほいよ！　千円だ！」
+"Here! 1000 yen!"
+「ありがとうございます・・・・ご幸運を・・・ククククク」
+"Thank you very much...good luck...hehehe."
+「おっと、そいつは一人一枚限りでさぁ」
+"It's only one per person."
+「これは１回５００円で私とトランプゲームをして、お客様が勝てば賞金を支払いましょう・・・・」
+"500 yen for one card game with me, if you win I give cash prize.. Yes?."
+「今日のゲームは『ブラックジャック』です」
+"Today's game is Black Jack."
+選択
+choice
+【勝　負　す　る】
+[play the game]
+【他の商品を見る】
+[look at other goods]
+「ルールは、配ったカードの数字の合計を２１以下にして、２１に近い方が勝ちです」
+"The rule is to keep total number below 21, whoever closer to 21 is winner. Yes?"
+「２２をオーバーすると無効になりますから気をつけて下さい」
+"22 or over and out of the game."
+「ジャック（Ｊ）・クイーン（Ｑ）・キング（Ｋ）は１０。エース（Ａ）は１か１１で計算します」
+"Jack (J) Queen (Q) King (K) are 10. The ace (A) is 1 or 11."
+「勝つと、『ダブルアップ』で賞金を更に倍にするチャンスもあるから・・・・・ククククククッ」
+"If win there is chance to double your winnings...hehehe."
+「ここでは、色々と珍しい商品を集めておりますが・・・・・・・・・今、ご用意できる商品は・・・」
+"We have many unusual things here...at moment we have..."
+【うさぎペンダント】　　　５００円
+[rabbit pendant] 500 yen
+【情熱のミサンガ】　　３，０００円
+[Misanga of passion] 3000 yen
+【賢者のジーンズ】　１２，０００円
+[wisemans jeans] 12000 yen
+【天使の翼】　　　　１０，０００円
+[wings of an angel] 10000 yen
+「おっと、お客様はお目が高い・・・・これはですね」
+"You have exquisite taste...this is.."
+「『天使の翼』これは非常に珍しい材質で出来ていて、３枚の銀色の羽と赤いクリスタルの装飾で飾り、まるで天使の翼をほうふつさせる見事な逸品でしゅでしゅ・・・・はい」
+"wings of an angel. Is made of extremely rare materials. 3 silver feathers and a red crystal to decorate it,just thing to express an angels wing, Yes?It is exquisite piece of work...yes?"
+「これは、特別に１万円でお譲りしましょう」
+"It at a special price of 10000 yen."
+【紅き腕輪】　　　　１０，０００円
+[red bracelet] 10000 yen
+「お客さん、いい～所に目をつけましたね・・うひょひょひょ」
+"Mister have got good taste..hehehe."
+「新しく入荷した『紅き腕輪』は、それを持つ者に莫大な富を与えると言われております・・・うひょひょ」
+"We've just got in, red bracelet is said to bring great fortune to  owner...hehe."
+「こんな素晴らしい商品が、たったの１万円！　１万円で買えるとは・・・幸せじゃのう」
+"Wonderful object, is only 10000 yen! You lucky to get for 10000 yen."
+【黄金のカエル像】　２０，０００円
+[golden frog] 20000 yen
+「お客様、新しい商品が入っております・・・・」
+"We have something new..."
+「全ての男性に幸運をもたらすと言われている『黄金のカエル像』です・・・・ゲコゲコゲコ」
+"It golden frog, said to bring happiness to all men...croak croak."
+「古代エジプト王国の発掘現場から出土した物で、これを手にした者は全ての罪を許されるであろうと、古文書に記されております・・・・・・・ゲコゲコ」
+"It was found in Chinese forest where amazon women live, no? Legend say it cleans men of all sins ....croak croak."
+（なんか・・・怪しい話だな[EB9F]）
+(that sounds...suspicious)
+「なんと特別価格２万円でお譲りしましょう・・・ゲコゲコゲコ」　
+"It at special price of 20000 yen...croak."
+「ほいよ！　」
+"Here!"
+「さすがにお目が高い！　きっといい事がありますよ・・・・ククククク」
+"Yes indeed! You will have great luck...hehehe."
+「おっと、そいつは売り切れでさぁ」
+"Oh, we out of stock."
+「うっ・・・金が足りない。　また出直すか」
+"Oh...I haven't got enough. I'll come again."
+「うっ・・・金が足りない。　また出直すか」
+"Oh...I haven't got enough. I'll come again."
+選択
+choice
+【よし、勝負だ！】
+[OK it's a deal!]
+【も　う　一　枚】
+[one more]
+「ドローゲームです。規定によりもう一度勝負しますよ、クックックッ」
+"It a tie. We have to have another game, hehehe."
+ダブルアップしますか？
+"Want to double up?"
+選択
+choice
+【ダブルアップする】
+[will double up]
+【ペイ・アウトする】
+[will pay out]
+「おやおやお客さん強気の構えですな・・・では」
+"Dear me, you confident...here I go."
+「おおっ、そんなに勝たれちゃ商売あがったりですよ」
+"Dear me, I be out of business if mister win so much."
+「勝ち逃げはいけませんよお客さん」
+"You can't just win and run."
+「では現在のレートで払い戻します」
+"I will pay you out at the current rate."
+払戻金を受け取った。
+I receive my pay out
+「クックックッお客さん、ゲーム・オーバーですよ。お帰りはこちらです」
+"Hehehe, game over. The way out is over here."
+５００円をスッてしまった。
+I've lost 500 yen
+「２枚引きましたか・・・」
+"you've taken 2 cards..."
+「３枚引きましたか・・・」
+"you've taken 3 cards..."
+「おやおや４枚も引いたのですか・・・
+"Dear me you've taken 4 cards..."
+「でも私にその手が通用しますかな？」
+"Do you think you can use that trick on me?"
+「私にハッタリは通用しませんよ！」
+"You can't bluff me!"
+「その手は食いませんよ」
+"I'm not going to buy that."
+「かなりの自信ですね」
+"You're pretty confident."
+「自信ありげのようですな」
+"You seem confident."
+「わたしにその手は通じませんよ」
+"That trick won't work on me."
+「むむむ手強いですな、どうかお手柔らかに」
+"Oh you're good, give me a chance."
+「なかなか難しい手を使うのですな」
+"You use a difficult hand."
+「手強い・・・だがしかしっ・・・」
+"You're good...but..."
+「もう一枚」
+"one more"
+「う～む、もう１枚」
+"hum, one more"
+「クックックッこの勝負いだだきですぞ」
+"Hehehe, my game"
+「勝負あったようですな」
+"I think I've won"
+「これで結構です」
+"that's enough"
+「ううむ一か八か・・・勝負」
+"decision time...go."
+「下りさせてもらいます」
+"I decline"
+「私の勝ちですよ、クックックッ」
+"I win, hehehe"
+「クックックッいただきですな」
+"hehehe, it's mine"
+「クックックッおとといいらっしゃい」
+"hehehe, too late"
+「クックックッやりますな」
+"hehehe, you're pretty good"
+「・・・ま、こういうこともありましょう」
+"...these things happen."
+「・・・バカなっ・・・そんなはず・・・・・」
+"...no...it couldn't be..."
+選択
+choice
+【買　　　　　う】
+[buy]
+【他の商品を見る】
+[look a other goods]

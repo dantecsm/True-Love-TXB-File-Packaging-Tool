@@ -1,0 +1,610 @@
+廊　　　　　　　下
+    corridor    
+「＊＊＊＊君」
+"＊＊＊＊."
+「麗美ちゃん」
+"Remi."
+「＊＊＊＊君、今日は学園祭の準備で人手が足りないんですけど、少し手伝っていただけませんか？」
+"We don't have enough people to help out for the college festival, would you help us out?"
+「学園際の準備・・・・」
+"Preparation for the college festival..."
+「いや、実はちょっと用事があって・・・今日は」
+"I've already got something planed for today."
+「そうですか・・・・残念だわ」
+"I see...that's a shame."
+「じゃあ、他をあたります・・・」
+"I'll ask someone else..."
+（・・・・残念そうだったな・・・）
+(...she looks disappointed...)
+「麗美ちゃんの頼みならば聞かない訳にはいかないな」
+"But since you asked me, I'll help out."
+「本当？　頼りになるわ！」
+"Really? I knew I could count on you!"
+「そうだろ・・・ふっふっふっ」
+"I'm always here...hehehe."
+「で、何を手伝えばいいのかな？」
+"And, what can I do?"
+「運動場に建てるテントとかの部品が沢山あるから体育用具室から運び出してほしいんです」
+"I wonder if you could carry out the material to make the marquee from the gym room."
+「姫川君・・・・人手は集まったかね」
+"Himekawa...have you got enough people?"
+「・・げっ・・・・[EB9F]」
+"..shit..."
+「＊＊＊＊君が手伝って下さるって」
+"＊＊＊＊ said he could help."
+「今は一人でも力が必要なのだ、この際だから仕方がないな、彼で我慢しておこう」
+"We need all the help we can, he'll have to do."
+「あのなぁ～」
+"What do you mean by that?"
+「亀雄君！　そんな言い方は、＊＊＊＊君に失礼だわ！」
+"Kameo! That's a horrible thing to say!"
+「さすが麗美ちゃんは優しいなぁ・・・・ウルウル」
+"She's so kind..."
+「姫川君が、そう言うのならば・・・・・・・ブツブツブツ」
+"If you say so...(mumble)."
+「＊＊＊＊君、彼と一緒に手伝ってもらいたいの」
+"＊＊＊＊, could you help him out?"
+（・・・・この際やるしかないみたいだな）
+(...suppose I'll have to)
+「ああ、わかったよ。　じゃあ案内頼むぜ、亀雄」
+"OK. Let's go Kameo."
+「じゃあ私は、別の仕事に行くから・・・よろしくね」
+"I've got to do something else...thanks."
+「では、＊＊＊＊君。　ついてきてくれるかね」
+"Well ＊＊＊＊, follow me."
+「へいへい」
+"Yes yes."
+体育用具室では何人かが作業を続けていた。
+there were a few people working in the gym room
+「ここにあるブロックを、順番に運動場の隅へ移動させてほしいのだ」
+"We need to move these boxes next to the grounds."
+「しかし重そうなのがいっぱいあるな・・・」
+"They all look so heavy..."
+「僕が片側を持ってあげるから一緒に運ぶのだ」
+"We'll do it together, I'll take one side."
+「えっしょ、ほいしょ・・えっしょ、ほいしょ」
+"Hup, here we go."
+「わわわっ、ペースが速くはないか、もっと僕のペースに合わせてくれよぉ」
+"Hey, don't walk so fast, slow down."
+「しょうがないな・・・」
+"OK I'll slow down..."
+「えっしょ、ほいしょ・・えっしょ、ほいしょ」
+"One two, one two.."
+「ところで　＊＊＊＊君、キミは姫川君の事をどう思っているのかな・・・？」
+"By the way, what do you think of Himekawa?"
+「何だよ、いきなり」
+"Why do you ask?"
+「最近彼女の様子が変なのだ・・・時々ポーッとしていたり・・・・・・僕の言葉に答えてくれなかったり」
+"She's acting odd lately... daydreaming and ... not responding to me."
+「そうかと思えば、君と話す時は突然ニコニコ笑顔になったりしていたり」
+"Then she's all smiles when she talks to you."
+「きっと、それは彼女が僕にほれているからだよ」
+"That's because she's in love with me."
+「な、なぬ・・・・[EBA7]！」
+"Wha...what...?"
+「そういえば、麗美ちゃんの瞳は俺に訴えかけるような・・トロンとした瞳だったな」
+"Come to think of it, her eyes are pleading to me... in a sort of a dazed look."
+「そ、そんな事はぁ　ありえ～ん！！」
+"That couldn't be!! You're lying"
+亀雄は、大声で叫ぶと同時に片方の手を離した。
+as he shouted he let go of one hand
+「あっ！」
+"Ah!"
+二人で持っていたブロックは、俺の右足の上に落下し激痛がはしった。
+the box dropped onto my right foot and the pain ran through me
+「うっぎゃあああぁぁぁぁあああああぁぁぁぁ！！」
+"AAArrrrgggghhhhh! Fuck Fuck Fuck!"
+「あれ、＊＊＊＊君・・・」
+"Oh, ＊＊＊＊..."
+「痛たたたたたっ！！　足がっ・・・・・イテテテテ」
+"Ouch!! My foot....fuck..."
+「すまぬ！　けして悪気はなかったのだよ・・・信じてくれ！」
+"Sorry, it was an accident... believe me!"
+「どうでもいいけど！　保健室に連れて行ってくれぇ！」
+"Never mind that! Just take me to the nurses room!"
+【周りの生徒】
+[other students]
+「おいおい大丈夫か？」
+"Hey, are you OK?"
+【周りの生徒】
+[other students]
+「痛そうだな、立てるか？」
+"It looks painful, can you stand?"
+周りの生徒が数人集まってきて、俺を立ち上がらせてくれた。
+other students came and helped me stand up
+【周りの生徒】
+[other students]
+「保健室まで行こうぜ」
+"Let's take him to the nurse."
+「イタタタタ・・・」
+"Ooouch..."
+「本当だぁ・・・・・・ワザとではないからなぁ！」
+"It's true...it wasn't on purpose."
+保　　　健　　　室
+    surgery     
+「＊＊＊＊君、どうしたの！」
+"＊＊＊＊, what's happened!"
+「ハハハ・・・・ちょっとブロックを足の上に・・落っことして」
+"Hahaha...I dropped the box..on my foot."
+「見せてごらんなさい」
+"Show me."
+「・・・・・・・・・・・・」
+"....."
+「血がでているわね、待ってね」
+"It's bleeding, hold on."
+「ハハハ・・・情けない」
+"Hahaha...this is sad."
+「周りの人達はいいわよ、大した事はなさそうだから」
+"You can all go, it's not that serious."
+【周りの生徒】
+[other students]
+「じゃあ、俺達はこれで」
+"Awwww! Lucky guy...."
+他の生徒は外に出て行き、部屋の中には俺と美沙子さんのふたりきりになった。
+the other students left and there was only Misako and me in the room
+「止血をしなきゃね、消毒と包帯を」
+"We have to stop the bleeding, I'll get the antiseptic and a bandage."
+その後、彼女は俺の足に優しく丁寧に包帯をまいてくれた。
+she cleaned the wound and carefully bandaged my foot
+「大丈夫・・・痛くない？」
+"How is it...does it hurt?"
+「押さえると痛いけど、もうあまり痛くはなくなってきたな」
+"If you put pressure on it it hurts but it's not as painful now."
+「クスクス・・・＊＊＊＊君の靴、先が破れてるわよ」
+"(giggle)...There's a hole in your shoe."
+「あっ、これ？　３年間も履いてるから破れもするよ」
+"Oh this? I've had them for 3 years, they're bound to go."
+「＊＊＊＊君って、やんちゃ坊主なんでしょ」
+"You must be a very active boy."
+「そんな風に見えるかな？」
+"Do I look like that?"
+「手間のかかる弟みたいで、なんだかほっとけない感じがするの」
+"You're like a kid brother that I can't leave alone."
+（弟か・・・・）
+(a kid brother...)
+「・・・なんだか、＊＊＊＊君の看病ばっかりしてるわね・・・・・・・私って」
+"...seems like I'm always taking care of you..."
+彼女の懐かしい香りが鼻をくすぐった。
+her familiar scent tickled my nose
+「思いだすなあ・・・・・あの時の事」
+"It reminds me...of that time."
+「もう、いやらしい事思い出してるの？」
+"Are you thinking of something naughty?"
+「あの時に言ってた事、憶えてる？」
+"Do you remember what you said?"
+「憶えているわ・・・」
+"I remember..."
+「『私と貴方は、今晩だけの恋人同士』って・・・」
+"'You and I are lovers for just one night'..."
+「そうそう・・・」
+"That's right."
+「貴方は『いつか美沙子さんも後悔するようないい男になる』って言ったわよね」
+"And you said 'I'll become such a great guy that you'll regret not having me'."
+「なんだか照れるな・・・」
+"Ooooh! I feel embarrassed..."
+「＊＊＊＊君は、いい男になれたのかしら？」
+"And so, did you become a great guy?"
+「・・・と思うけど」
+"...I think so."
+「本当かしら？　ちょっと無理してない？」
+"Really? Aren't you pushing it?"
+「ちょっとだけ、してるかな」
+"Maybe I am pushing it."
+「・・・・・・・・」
+"....."
+「・・・と思うけど、努力はしてきたよ」
+"...I think so, at least I've tried."
+「へぇ・・・・そういう気持ちは大切にしていってね」
+"Well...it's important to try."
+「・・・・嬉しいな・・・」
+"...thanks..."
+「＊＊＊＊君は少し大人になった気がするわ」
+"I think you've grown mature."
+「苦労してるからね」
+"I've had to make an effort."
+「苦労？　どんな苦労してるの？」
+"Effort? What kind of effort?"
+「そりゃあアパートで一人暮らししてるから、炊事洗濯も全部自分でしなきゃいけないし」
+"I'm living on my own so I have to cook, clean and wash."
+「そうなんだ・・・・・」
+"I see..."
+「今度、私がお料理とかお掃除とかしてあげようか？」
+"Do you want me to come and cook for you one day?"
+「ほほほほ・・・本当っ？！」
+"Rea...rea...rea...really?"
+「あっ、でもやっぱり止めた！」
+"No, sorry. I've changed my mind!"
+「えっ・・・どうして？」
+"eh...why?"
+「私なんかが出入りしたら、＊＊＊＊君の彼女に誤解されるから」
+"If I went to your place, your girlfriend could get the wrong idea."
+（俺は全然構わないんだけどな）
+(I don't mind)
+「＊＊＊＊君、家は学校から遠いの？」
+"＊＊＊＊, do you live far from college?"
+「遠くはないんだけどね・・・ハハハ」
+"It's not that far...hahaha."
+「え？　でも・・・どうして？」
+"Um, then ... why live here?"
+俺はその時、頭の中にいつかの親父の言葉が浮かんできた。
+I was remembering the words my father said to me
+「『男なら一人で海に出ろ』・・・・って言ってたな」
+"He said 'If you're a man, go out into the ocean on your own'..."
+「・・・・・・」
+"....."
+「一人の方が気が楽だけどね」
+"It's easy when you're on your own."
+「・・・・・・＊＊＊＊君」
+"....＊＊＊＊."
+「今は誰か特定の女の子と、おつきあいしてる？」
+"Are you seeing someone special?"
+「・・・・」
+"....."
+「してるかな・・・」
+"Sort of..."
+「やるじゃない、ちょっと妬いちゃう」
+"Good, but I'm a little jealous."
+「していないよ」
+"No."
+「だめよ、＊＊＊＊君。　自分を成長させる意味でもイッパイ経験しておいた方がいいのよ」
+"That's not good, you have to experience more so you can grow as a man."
+「美沙子さん以外は考えられない」
+"I can't think of anyone other than you."
+「・・・・・・・・・・・・・・・・・・もう」
+"........cheeky."
+「美沙子さんは、新しい恋人出来たんですか・・・？」
+"Do you have a new boyfriend...?"
+彼女はキッパリと答えた。
+she replied plainly
+「いないわよ」
+"No."
+「えっ、そんな事が」
+"I don't believe it."
+「なに驚いているのよ？」
+"Why are you surprised?"
+「あの・・・では・・・つまり・・・僕との後でのぉ・・・」
+"So...have...well...after me..."
+「セックスの事？」
+"Had sex?"
+「うん・・それは誰ともしていないっ・・・という事かな・・？」
+"Yes...does that mean you haven't ...with anyone..?"
+「していないわ。　誰とも」
+"I haven't, with anyone."
+「本当に？」
+"Really?"
+「本当よ」
+"Really."
+「・・・・・・・・・・・」
+"........"
+「・・・・・・・・・・・」
+"....."
+「また誘惑しちゃおうかしら・・・・」
+"Maybe I'll seduce you again..."
+「えっ」
+"Eh." 
+「クスッ・・・・・・冗談よ」
+"(smile)... only kidding."
+僕の手当を終えると、医薬品を片付け出した。
+she finished the dressing and put the medicine away
+「はい、お大事にね」
+"Now you take care."
+「・・・・・・・・・・・・あの」
+".....erm."
+「なあに？」
+"Yes?"
+（どうしようかな・・・）
+(should I...)
+「僕は、今でも美沙子さんの事好きだよ」
+"I still like you."
+「どうしたの？　急にあらたまって」
+"What is this all of a sudden?"
+「美沙子の事ばかり考えてた」
+"I was always thinking about you."
+「・・・・・・・・＊＊＊＊君」
+".....＊＊＊＊."
+そっと長く美しい髪に手をおき、指の間に髪を通す。
+I put my hand on her long beautiful hair and combed my fingers through it
+「だめよ・・・私も・・・我慢しているんだから」
+"Don't ...I'm ..trying to hold back."
+「だめ！　だめだったら！」
+"No! I said no!"
+「・・・ん」
+"...un."
+少し強引にくちづけをした。
+I kissed her forcefully
+二人の間に細い糸を引きながら唇を離す。
+a thread trailed as my lips left hers
+「・・・はぁ、ん」
+"...ah."
+「もう！」
+"You!"
+俺のズボンはもう膨らんで、テントのようになっていた。
+that part of my trousers was already shaped like a tent
+「＊＊＊＊君ったら、もうこんなに」
+"Look at what's happened to you."
+彼女は指でズボンの上から何度も触りながら言った。
+she pressed her fingers against it as she said it
+「少しだけよ」
+"Just a little."
+彼女がズボンのジッパーを下ろすと、いきおいよくペニスが飛び出した。
+as she lowered the zip my penis jumped out
+「とっても大きいわ・・・元気いいのね」
+"It's so big... and energetic."
+彼女は口を開けると、みるみる飲み込んでいった。
+she opened her mouth and took it all in
+「はあむっ」
+"umm."
+ジュルッ・・・ジュルッ・・・ジュルッ
+(suck...suck...suck)
+卑猥な音を立て、舌がからみついて来る。
+her tougue curled around it, making a slurping noise.
+「あっ、美沙子さん・・・すごいっ」
+"Oh Misako...it's great."
+彼女はうっとりとした目でペニスを見つめながら言った。
+she gazed at my penis as she said
+「たくましいわ・・・・・いっぱい中に溜まってるのね」
+"It's so masculine... it must be holding plenty."
+彼女のなすがままになり、頭がもうろうとする。
+I let her take control, my head was spinning
+「ペロペロペロ・・・・・ぺろ、レロレロレロ・・・」
+"(lick lick...suck suck..)"
+彼女は首の動きを早めてきた。
+her head started to move faster
+「んっ・・・んっ・・・んっ・・・んっんっんっんっんグッ！」
+"um mm..mm..umm!"
+「うっ！」
+"Ooh!"
+美沙子のあまりの巧さに、俺は早々と絶頂を迎えてしまった。
+Misako had such technique that I had reached ecstasy
+ドッ！ぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅぴゅ～ぅぅ
+(squirt!)
+「んっ、ゴクッゴクッゴクッ・・・・・・・ゴックン・・・」
+"um, gluck, gluck....gulp.."
+彼女は口の中に排出された物を飲み込んでいった。
+she swallowed the semen that was released in her mouth
+「・・・・ん・・」
+"...nmm..."
+さらに彼女は、その指で最後の一滴までしぼり出すように綺麗に飲みほしてしまう。
+she swallowed every thing, right to the last drop
+「ペロッ・・・・・・」
+"(lick)..."
+「だめよ、もっと我慢してないと」
+"You have to hold it back longer."
+「はあ、はあ・・・だって、美沙子さんが上手すぎるから」
+"erm.. it's just that you're too good."
+「・・・私も楽しませてほしいな・・・[EBA6]」
+"...I want you to give me pleasure..."
+彼女は前ボタンを外して。服の間から豊満な胸をさらけ出した。
+she unbuttoned herself and her voluptuous breasts appeared
+「＊＊＊＊君だけだからね、こんな事してあげるのは」
+"I only do these things for you."
+彼女は俺のペニスを自分の胸の間にはさみ、ゆっくりと愛撫してきた。
+she put my penis between her breasts and caressed slowly
+「早く元気になって」
+"I want it to get big again."
+「わわっ・・・こんなの初めて・・・」
+"Wow... this is new..."
+「どう？」
+"How is it?"
+「きき気持ちいいっス・・・・」
+"It feels so good..."
+「かかか感激ぃぃぃっス・・・・・」
+"It's greeeaat..."
+「クスクス」
+"(giggle)"
+彼女の奉仕に再びカタさを取り戻し、いきり立ってきた。
+with all of this it began to get hard and stand upright
+「さすがだわ・・・若いと元気があるわね」
+"Look at it... it's great when you're young."
+「美沙子しゃんの胸が柔らかくって、気持ちよすぎるからっス」
+"It's 'cause your breasts are so soft and feel good."
+「そろそろ食べちゃおうかしら」
+"I think it's time to have desert."
+彼女はスカートの中に手を入れてパンティを下ろした。
+she put her hand up her skirt and pulled down her knickers
+つ（やオろみや
+3N_WIN
+彼女は自分で壁に手をつき、お尻を高く突き出してその部分
+she placed her hands on the wall, lifting her 
+が俺の目によく見えるような位置にまで持っていき、見せてくる。
+bottom so that part would be in clear view to me
+【美沙子】
+[Misako]
+「さあ・・・後からして」
+"Do it... from behind."
+【＊＊＊＊】
+[＊＊＊＊]
+（服を着たままというのも、かなり興奮してくるな）
+(it's pretty exciting doing it with clothes on)
+【美沙子】
+[Misako]
+「このまま、してほしいの」
+"I want you to do it like this."
+俺は両手で腰を支えて、彼女の中に挿入させていった。
+I held her hips with both hands and let myself enter her
+【美沙子】
+[Misako]
+「あっああああ・・・！」
+"Aahhh...!"
+ズ・にゅ・・・ゅゅゅゅぅぅぅぅううう。
+(push puuuush)
+【美沙子】
+[Misako]
+「あっ・・！　＊＊＊＊君の・・・・・とっても熱い・・・」
+"Oh..! ＊＊＊＊... you're so hot..."
+根元まで完全に収まってしまった。
+she held me right to the base
+彼女の肉壁が心地よい感触でキュッと締めつけてくる。
+the sensation of her insides squeezing me was fantastic
+【＊＊＊＊】
+[＊＊＊＊]
+（くっ・・・負けるもんかぁ）
+(oh...not yet)
+ズンズンと強い調子で後から突いていく。
+I thrust her vigorously from behind
+カタカタと、棚のガラス戸がせわしなく音をたてて震える。
+the glass cabinet rattled
+【美沙子】
+[Misako]
+「は、はああん！・・・もっと、もっと強くぅ・・・っ」
+"Ahh! ...more, push harder..."
+俺は服の中でプルプルと大きく揺れる胸に手をまわして、思
+I moved my hands to her swaying breasts
+う存分に揉みほぐす。
+and massaged them
+【美沙子】
+[Misako]
+「あっ・・あっ・・・い、いいわぁ！」
+"Oh..oh...yes!"
+次は首筋にじれったい息を吹きかけ、うなじにキスをした。
+I breathed onto her neck and then kissed it
+【美沙子】
+[Misako]
+「あっ、あぁん！」
+"Ah Ahh!"
+【＊＊＊＊】
+[＊＊＊＊]
+（・・・・ああ、さっき・・イッたばかりなのに・・もう一回イッてしまいそうだ・・・・）
+(...ah, I've just come.. butI think I'm gonna come again...)
+【美沙子】
+[Misako]
+「あっあっあっあぁぁ・・・はあん・・・もっ、もっとぉ！」
+"Ooooh...ah...harder!"
+これでもかとばかりに腰を動かして彼女を突き刺す。
+I move my hips and thrust into her even harder
+【美沙子】
+[Misako]
+「アアっっ！　すごい・・・いっイキそう・・・・あっ・・ん・・・・・もっと・・・イキそう・・・もっと突いて！」
+"Ahh! it's great..I'm almost coming...ahmm...more...I'm coming...push harder!"
+【＊＊＊＊】
+[＊＊＊＊]
+「もう、僕もイキそうだ」
+"I'm coming too."
+【美沙子】
+[Misako]
+「＊＊＊＊君、私と一緒にイッて！　お願いっ！」
+"＊＊＊＊, I want us to come together! Please!"
+【＊＊＊＊】
+[＊＊＊＊]
+「ううっ！」
+"OOh!"
+【美沙子】
+[Misako]
+「はぁぁああ～ん！！・・・・イックウゥゥゥゥ！！」
+"AAhhhh!!...Yeeees!!"
+意識も、モウロウとしている俺は、そのまま彼女の中へと発
+I was out of my mind and released
+射してしまった。
+myself in her
+ドックン！　ドピュッ・ぴゅぴゅぴゅぴゅぴゅぴゅぴゅ・・・！
+throb! squirt!...!
+彼女は足をブルブルと震わせながら同時に絶頂を迎えた。
+we came together and her legs shook with ecstasy
+「美沙子さん・・・」
+"Misako..."
+「気持ちよかったわ・・・イッちゃった・・・[EBA6]」
+"It was good... I really came..."
+「・・・・＊＊＊＊君、中で出したでしょ」
+"...＊＊＊＊, you came in me."
+「責任とってね」
+"You better take responsibility."
+「えっ・・・[EB9F]」
+"Huh..."
+「フフフフッ・・・・・大丈夫だと思うよ。今日は、安全日だから・・・」
+"(giggle)...don't worry, I'm on the pill."
+「＊＊＊＊君の困った顔って・・・カ～ワイイ！」
+"Your face... it's so cute!"
+（・・・ドッキリする事を言うなぁ・・・びっくりした・・・）
+(...she made me jump...geez...)
+「うふふっ！このまま、＊＊＊＊君の彼女になっちおうかな」
+"Maybe I should just become your girlfriend."
+「あっ、それはいい考えだ！」
+"That's a good idea!"
+「でも、＊＊＊＊君・・・３つも年下だしなぁ」
+"But you're ... 6 years younger than me."
+「・・・・・・・・・・・・・」
+"......"
+「・・・前に別れた時からいままでの間、心のどこかで貴方の事をいつも想っていたけど、でも本当の自分の気持ちが自分でもよくわからない・・・」
+"...after we separated, I thought of you a lot but I'm not quite sure of my feelings."
+「私には、もうすこしだけ時間がほしいわ・・・」
+"I want a little more time."
+「・・・・・・・いいよ、ゆっくり考えてよ」
+".....sure, think about it."
+「ごめんね、今は・・・こんないいかげんな答しか出来なくて」
+"Sorry, ...it's the only answer I can give you."
+「謝らないでいいよ、僕だってこんな場所でいきなり迫ったりして・・・・・ごめんよ」
+"Don't be sorry, it's my fault for pushing you...sorry."
+「・・・＊＊＊＊君・・・・」
+"...＊＊＊＊..."
+俺はもう一度彼女とくちづけを交わした・・・。
+I kissed her once more
+「・・・いや、何でもないんだ」
+"...no it's nothing."
+「＊＊＊＊君、これからもクガと病気には気をつけてね」
+"＊＊＊＊, you take care of yourself."
+「そうするよ」
+"I will."
+「じゃあ俺はそろそろ帰るけど」
+"I'd better be going."
+「・・・・・・」
+"...."
+「あ・・・・待って！」
+"um...wait!"
+「えっ」
+"What?"
+「・・・・・・・・・・あ・・・やっぱり、何でもない」
+"......erm, never mind."
+「それじゃあね、＊＊＊＊君」
+"See you, ＊＊＊＊."
+俺は、歩きかたに気を使いながら保健室を出た。
+I watched my step as I walked out of the room
+（何か言いたげだったけど・・・・思いすごしかな・・・）
+(I thought she was gonna say something...perhaps not..)
+廊　　　　　　　下
+    corridor    
+「今日はもう帰るかな」
+"I'm gonna go home."
+校　　　門　　　前
+ college gates  
+「＊＊＊＊君、足は大丈夫だったかね」
+"＊＊＊＊, how is your foot?"
+「ああ、出血がひどかっただけで、大した事はないと思うけど」
+"It was bleeding a lot but it's nothing serious."
+「すまなかったな・・・僕も少しとり乱してしまって・・・」
+"Sorry about it...I got a bit carried away..."
+「やけに素直だな」
+"You're being honest."
+「でもやはり、姫川君の事は・・・ブツブツブツ」
+"But about Himekawa....mumble..."
+「いや、何でもない。　今日はもう帰るのだろう？」
+"It's nothing. You're going home right?"
+「ああ、そうするつもりだけど」
+"Yeah I think I'd better."
+「後は我々でやるから、今日は自宅でゆっくりと休んでくれ」
+"Leave the rest to us, you go and rest at home."
+（・・・・・帰るとするか）
+(...I'm going)
+選択
+choice
+【手　伝　う】
+[help]
+【手伝わない】
+[doesn't help]
+選択
+choice
+【なれた】
+[I'm use to it]
+【まだだ】
+[not yet]
+選択
+choice
+【してるよ】
+[I am]
+【してない】
+[I'm not]
+選択
+choice
+【くどいてみる】
+[going to woo her]
+【何でもないよ】
+[it's nothing]
