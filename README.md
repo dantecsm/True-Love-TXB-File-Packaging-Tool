@@ -18,5 +18,5 @@ node table2Scripts.js && node scripts2TXB.js
 ```
 
 ## NOTE
-The "archive" directory contains the Japanese and English scripts from the WIN95 version of this game, as well as the text I extracted from them.
-I used these as references to automatically fill in part of the "en" fields in table.json.
+The "archive" directory contains the Japanese and English scripts from the Win95 version of this game, as well as the text I extracted from them.
+I used `archive/all.txt` as references to auto-fill about 85% of the "en" fields in table.json.
