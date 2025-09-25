@@ -3,6 +3,7 @@
     "iconv-lite": "^0.7.0"
   },
   "scripts": {
+    "unpack": "node TXB2scripts.js && node scripts2Table.js",
     "all": "node table2Scripts.js && node scripts2TXB.js"
   }
 }

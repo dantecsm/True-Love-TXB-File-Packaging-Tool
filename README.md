@@ -13,8 +13,13 @@ npm install
 ```
 
 ## Usage
+After filling en fields in `table.json`, run
 ```bash
 node table2Scripts.js && node scripts2TXB.js
+```
+unpack original txb files and create `table.json` (only jp fields are filled, en fields are empty, be careful since it will overwrite the current `table.json`)
+```bash
+node TXB2scripts.js && node scripts2Table.js
 ```
 
 ## NOTE
