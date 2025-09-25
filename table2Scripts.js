@@ -45,7 +45,10 @@ function text2Buffer(text) {
         '[EB9F]': [0xEB, 0x9F],
         '[EBA6]': [0xEB, 0xA6], 
         '[EBA7]': [0xEB, 0xA7],
-        '[EBA8]': [0xEB, 0xA8]
+        '[EBA8]': [0xEB, 0xA8],
+        '[0xA5]': [0xA5],
+        '[0xD3]': [0xD3],
+        '[0xBC]': [0xBC]
     }
     
     const buffers = []
