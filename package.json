@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "iconv-lite": "^0.7.0"
+  },
+  "scripts": {
+    "all": "node table2Scripts.js && node scripts2TXB.js"
   }
 }
